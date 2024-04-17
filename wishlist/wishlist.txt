@@ -1,4 +1,84 @@
 //////////////////////////
+// Auto Rifle
+//////////////////////////
+
+// Breakneck
+
+// Subsistence, Kinetic Tremors
+dimwishlist:item=2026755633&perks=1820235745,3891536761#notes: pve - add clear
+// Enlightened Action, Kinetic Tremors
+dimwishlist:item=2026755633&perks=3828510309,3891536761#notes: pve - add clear
+// Hip-Fire Grip
+dimwishlist:item=-2026755633&perks=1866048759
+// Dynamic Sway Reduction
+dimwishlist:item=-2026755633&perks=1359896290
+// Keep Away
+dimwishlist:item=-2026755633&perks=3619207468
+// Eye of the Storm
+dimwishlist:item=-2026755633&perks=699525795
+// Under Pressure
+dimwishlist:item=-2026755633&perks=1645158859
+// Tap the Trigger
+dimwishlist:item=-2026755633&perks=1890422124
+// Osmosis
+dimwishlist:item=-2026755633&perks=1774574192
+// Moving Target
+dimwishlist:item=-2026755633&perks=588594999
+// Adagio
+dimwishlist:item=-2026755633&perks=3673922083
+// Target Lock
+dimwishlist:item=-2026755633&perks=365154968
+
+// Horror Story
+
+// Under-Over, Frenzy
+dimwishlist:item=177568179&perks=1870851715,4104185692#notes: pve - champs
+// Dynamic Sway Reduction
+dimwishlist:item=-177568179&perks=1359896290
+// Cascade Point
+dimwishlist:item=-177568179&perks=3751912585
+// Adrenaline Junky
+dimwishlist:item=-177568179&perks=11612903
+
+// Abyss Defiant
+
+// Enlightened Action, Incandescent
+dimwishlist:item=833898322&perks=3828510309,4293542123#notes: pve - add clear
+// Subsistence, Incandescent
+dimwishlist:item=833898322&perks=1820235745,4293542123#notes: pve - add clear
+// Enlightened Action, Incandescent
+dimwishlist:item=833898322&perks=1771736209,2675184851#notes: pve - add clear - Crafted
+// Subsistence, Incandescent
+dimwishlist:item=833898322&perks=4245865861,2675184851#notes: pve - add clear - Crafted
+// Sword Logic
+dimwishlist:item=-833898322&perks=31345821
+// Target Lock
+dimwishlist:item=-833898322&perks=365154968
+// Swashbuckler
+dimwishlist:item=-833898322&perks=4082225868
+// Collective Action
+dimwishlist:item=-833898322&perks=3324494224
+// Eye of the Storm
+dimwishlist:item=-833898322&perks=699525795
+
+// Abyss Defiant (Adept)
+
+// Enlightened Action, Incandescent
+dimwishlist:item=3782662983&perks=3828510309,4293542123#notes: pve - add clear
+// Subsistence, Incandescent
+dimwishlist:item=3782662983&perks=1820235745,4293542123#notes: pve - add clear
+// Sword Logic
+dimwishlist:item=-3782662983&perks=31345821
+// Target Lock
+dimwishlist:item=-3782662983&perks=365154968
+// Swashbuckler
+dimwishlist:item=-3782662983&perks=4082225868
+// Collective Action
+dimwishlist:item=-3782662983&perks=3324494224
+// Eye of the Storm
+dimwishlist:item=-3782662983&perks=699525795
+
+//////////////////////////
 // Bow
 //////////////////////////
 
@@ -61,6 +141,10 @@ dimwishlist:item=-4043921923&perks=11612903
 dimwishlist:item=-4043921923&perks=4049631843
 // Harmony
 dimwishlist:item=-4043921923&perks=438098033
+// Overflow
+dimwishlist:item=-4043921923&perks=3643424744
+// Slickdraw
+dimwishlist:item=-4043921923&perks=1821614984
 // Spike Grenades, Auto-loading Holster, Frenzy
 dimwishlist:item=568611922&perks=3301904089,3300816228,4104185692
 // Spike Grenades, Auto-loading Holster, Vorpal Weapon
@@ -75,6 +159,10 @@ dimwishlist:item=-568611922&perks=11612903
 dimwishlist:item=-568611922&perks=4049631843
 // Harmony
 dimwishlist:item=-568611922&perks=438098033
+// Overflow
+dimwishlist:item=-568611922&perks=3643424744
+// Slickdraw
+dimwishlist:item=-568611922&perks=1821614984
 
 //////////////////////////
 // Hand Cannon
@@ -84,6 +172,13 @@ dimwishlist:item=-568611922&perks=438098033
 
 // Firefly, Explosive Payload
 dimwishlist:item=2171478765&perks=3824105627,3038247973#notes: pve - every activity
+
+// Midnight Coup
+
+// Explosive Payload, Frenzy
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+// Firefly, Kinetic Tremors
+dimwishlist:item=2763843898&perks=3824105627,3891536761
 
 //////////////////////////
 // Fusion Rifle

@@ -1,4 +1,260 @@
 {
+    "Auto Rifle": [
+        {
+            "name": "Breakneck",
+            "ids": [
+                2026755633
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Subsistence, Kinetic Tremors",
+                    "ids": [
+                        1820235745,
+                        3891536761
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Enlightened Action, Kinetic Tremors",
+                    "ids": [
+                        3828510309,
+                        3891536761
+                    ],
+                    "notes": "pve - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Hip-Fire Grip",
+                    "ids": [
+                        1866048759
+                    ]
+                },
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Keep Away",
+                    "ids": [
+                        3619207468
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                },
+                {
+                    "name": "Under Pressure",
+                    "ids": [
+                        1645158859
+                    ]
+                },
+                {
+                    "name": "Tap the Trigger",
+                    "ids": [
+                        1890422124
+                    ]
+                },
+                {
+                    "name": "Osmosis",
+                    "ids": [
+                        1774574192
+                    ]
+                },
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Adagio",
+                    "ids": [
+                        3673922083
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Horror Story",
+            "ids": [
+                177568179
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Under-Over, Frenzy",
+                    "ids": [
+                        1870851715,
+                        4104185692
+                    ],
+                    "notes": "pve - champs"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Cascade Point",
+                    "ids": [
+                        3751912585
+                    ]
+                },
+                {
+                    "name": "Adrenaline Junky",
+                    "ids": [
+                        11612903
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Abyss Defiant",
+            "ids": [
+                833898322
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Enlightened Action, Incandescent",
+                    "ids": [
+                        3828510309,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Subsistence, Incandescent",
+                    "ids": [
+                        1820235745,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Enlightened Action, Incandescent",
+                    "ids": [
+                        1771736209,
+                        2675184851
+                    ],
+                    "notes": "pve - add clear - Crafted"
+                },
+                {
+                    "name": "Subsistence, Incandescent",
+                    "ids": [
+                        4245865861,
+                        2675184851
+                    ],
+                    "notes": "pve - add clear - Crafted"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Sword Logic",
+                    "ids": [
+                        31345821
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                },
+                {
+                    "name": "Swashbuckler",
+                    "ids": [
+                        4082225868
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Abyss Defiant (Adept)",
+            "ids": [
+                3782662983
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Enlightened Action, Incandescent",
+                    "ids": [
+                        3828510309,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Subsistence, Incandescent",
+                    "ids": [
+                        1820235745,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Sword Logic",
+                    "ids": [
+                        31345821
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                },
+                {
+                    "name": "Swashbuckler",
+                    "ids": [
+                        4082225868
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                }
+            ]
+        }
+    ],
     "Bow": [
         {
             "name": "Pre Astyanax IV (Adept)",
@@ -29,29 +285,25 @@
                     "name": "Perpetual Motion",
                     "ids": [
                         1428297954
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Perfect Float",
                     "ids": [
                         2272927194
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Rangefinder",
                     "ids": [
                         2846385770
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Opening Shot",
                     "ids": [
                         47981717
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         }
@@ -107,15 +359,13 @@
                     "name": "Repulsor Brace",
                     "ids": [
                         776531651
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Destablizing Rounds",
                     "ids": [
                         2048641572
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         },
@@ -151,50 +401,43 @@
                     "name": "Impulse Amplifier",
                     "ids": [
                         951095735
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Rampage",
                     "ids": [
                         3425386926
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Adrenaline Junky",
                     "ids": [
                         11612903
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "One For All",
                     "ids": [
                         4049631843
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Harmony",
                     "ids": [
                         438098033
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Overflow",
                     "ids": [
                         3643424744
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Slickdraw",
                     "ids": [
                         1821614984
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         }
@@ -214,6 +457,32 @@
                         3038247973
                     ],
                     "notes": "pve - every activity"
+                }
+            ],
+            "trashcombos": []
+        },
+        {
+            "name": "Midnight Coup",
+            "ids": [
+                2763843898
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Explosive Payload, Frenzy",
+                    "ids": [
+                        3038247973,
+                        4104185692
+                    ],
+                    "notes": ""
+                },
+                {
+                    "name": "Firefly, Kinetic Tremors",
+                    "ids": [
+                        3824105627,
+                        3891536761
+                    ],
+                    "notes": ""
                 }
             ],
             "trashcombos": []
@@ -251,15 +520,13 @@
                     "name": "Auto-loading",
                     "ids": [
                         3300816228
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Clown Cartridge",
                     "ids": [
                         2284787283
-                    ],
-                    "notes": ""
+                    ]
                 }
             ],
             "trashcombos": []
@@ -287,29 +554,25 @@
                     "name": "Under Over",
                     "ids": [
                         1870851715
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Keep Away",
                     "ids": [
                         3619207468
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Loose Change",
                     "ids": [
                         1119449540
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Repulsor Brace",
                     "ids": [
                         776531651
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         }
@@ -346,15 +609,13 @@
                     "name": "Loose Change",
                     "ids": [
                         1119449540
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "No Distractions",
                     "ids": [
                         2866798147
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         },
@@ -425,36 +686,31 @@
                     "name": "Moving Target",
                     "ids": [
                         588594999
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Firing Line",
                     "ids": [
                         1771339417
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "No Distractions",
                     "ids": [
                         2866798147
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Firmly Planted",
                     "ids": [
                         280464955
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Box Breathing",
                     "ids": [
                         2551157718
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         }
@@ -499,15 +755,13 @@
                     "name": "Dynamic Sway Reduction",
                     "ids": [
                         1359896290
-                    ],
-                    "notes": ""
+                    ]
                 },
                 {
                     "name": "Hip-Fire Grip",
                     "ids": [
                         1866048759
-                    ],
-                    "notes": ""
+                    ]
                 }
             ]
         },

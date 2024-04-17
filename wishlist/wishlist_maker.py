@@ -67,12 +67,18 @@ def main() -> None:
                 if item["perkcombo"]:
                     for perk in item["perkcombo"]:
                         wishlist_data += create_item_entry(
-                            str(item_id), perk["ids"], perk["notes"], perk["name"]
+                            str(item_id),
+                            perk["ids"],
+                            perk["notes"] if "notes" in perk else "",
+                            perk["name"],
                         )
                 if item["trashcombos"]:
                     for perk in item["trashcombos"]:
                         wishlist_data += create_item_entry(
-                            "-" + str(item_id), perk["ids"], perk["notes"], perk["name"]
+                            "-" + str(item_id),
+                            perk["ids"],
+                            perk["notes"] if "notes" in perk else "",
+                            perk["name"],
                         )
             wishlist_data += "\n"  # New line between weapons
 
