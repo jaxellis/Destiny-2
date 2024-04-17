@@ -1,0 +1,250 @@
+//////////////////////////
+// Bow
+//////////////////////////
+
+// Pre Astyanax IV (Adept)
+
+// Archer's Tempo, Incandescent
+dimwishlist:item=496556698&perks=4293542123,201365942
+// Enlightened Action, Explosive Head
+dimwishlist:item=496556698&perks=3828510309,3365897133
+// Perpetual Motion
+dimwishlist:item=-496556698&perks=1428297954
+// Perfect Float
+dimwishlist:item=-496556698&perks=2272927194
+// Rangefinder
+dimwishlist:item=-496556698&perks=2846385770
+// Opening Shot
+dimwishlist:item=-496556698&perks=47981717
+
+//////////////////////////
+// Grenade Launcher
+//////////////////////////
+
+// Hullabaloo
+
+// Chain Reaction, Voltshot
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
+// Edge Transit
+
+// Hard Launch, Chain Reaction, Deconstruct
+dimwishlist:item=568611923&perks=981914802,2396489472,3993379141#notes: pve
+// Hard Launch, Envious Assassin, Bait and Switch
+dimwishlist:item=568611923&perks=981914802,968510818,3078487919#notes: pve
+// Repulsor Brace
+dimwishlist:item=-568611923&perks=776531651
+// Destablizing Rounds
+dimwishlist:item=-568611923&perks=2048641572
+// Hard Launch, Chain Reaction, Deconstruct
+dimwishlist:item=2228325504&perks=981914802,2396489472,3993379141#notes: pve
+// Hard Launch, Envious Assassin, Bait and Switch
+dimwishlist:item=2228325504&perks=981914802,968510818,3078487919#notes: pve
+// Repulsor Brace
+dimwishlist:item=-2228325504&perks=776531651
+// Destablizing Rounds
+dimwishlist:item=-2228325504&perks=2048641572
+
+// Mountain Top
+
+// Spike Grenades, Auto-loading Holster, Frenzy
+dimwishlist:item=4043921923&perks=3301904089,3300816228,4104185692
+// Spike Grenades, Auto-loading Holster, Vorpal Weapon
+dimwishlist:item=4043921923&perks=3301904089,3300816228,1546637391
+// Impulse Amplifier
+dimwishlist:item=-4043921923&perks=951095735
+// Rampage
+dimwishlist:item=-4043921923&perks=3425386926
+// Adrenaline Junky
+dimwishlist:item=-4043921923&perks=11612903
+// One For All
+dimwishlist:item=-4043921923&perks=4049631843
+// Harmony
+dimwishlist:item=-4043921923&perks=438098033
+// Spike Grenades, Auto-loading Holster, Frenzy
+dimwishlist:item=568611922&perks=3301904089,3300816228,4104185692
+// Spike Grenades, Auto-loading Holster, Vorpal Weapon
+dimwishlist:item=568611922&perks=3301904089,3300816228,1546637391
+// Impulse Amplifier
+dimwishlist:item=-568611922&perks=951095735
+// Rampage
+dimwishlist:item=-568611922&perks=3425386926
+// Adrenaline Junky
+dimwishlist:item=-568611922&perks=11612903
+// One For All
+dimwishlist:item=-568611922&perks=4049631843
+// Harmony
+dimwishlist:item=-568611922&perks=438098033
+
+//////////////////////////
+// Hand Cannon
+//////////////////////////
+
+// Fatebringer
+
+// Firefly, Explosive Payload
+dimwishlist:item=2171478765&perks=3824105627,3038247973#notes: pve - every activity
+
+//////////////////////////
+// Fusion Rifle
+//////////////////////////
+
+// Nox Perennial V
+
+// Vorpal Weapon, High-Impact Reserves
+dimwishlist:item=2767393525&perks=968510818,2594592626#notes: pve
+
+//////////////////////////
+// Linear Fusion Rifle
+//////////////////////////
+
+// Stormchaser
+
+// Auto-loading
+dimwishlist:item=3652506829&perks=3300816228
+// Clown Cartridge
+dimwishlist:item=3652506829&perks=2284787283
+
+//////////////////////////
+// Pulse Rifles
+//////////////////////////
+
+// Elsie's Rifle
+
+// Zen moment, Headseeker
+dimwishlist:item=2372514509&perks=2387244414,460017080#notes: pvp
+// Under Over
+dimwishlist:item=-2372514509&perks=1870851715
+// Keep Away
+dimwishlist:item=-2372514509&perks=3619207468
+// Loose Change
+dimwishlist:item=-2372514509&perks=1119449540
+// Repulsor Brace
+dimwishlist:item=-2372514509&perks=776531651
+
+//////////////////////////
+// Scout Rifles
+//////////////////////////
+
+// Hung Jury SR4
+
+// Firmly Planted, One For All
+dimwishlist:item=3832743906&perks=3891536761,3700496672#notes: pve
+// Kinetic Tremors, Firefly
+dimwishlist:item=3832743906&perks=3891536761,3824105627
+// Loose Change
+dimwishlist:item=-3832743906&perks=1119449540
+// No Distractions
+dimwishlist:item=-3832743906&perks=2866798147
+// Firmly Planted, One For All
+dimwishlist:item=1453235079&perks=3891536761,3700496672#notes: pve
+// Kinetic Tremors, Firefly
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+// Loose Change
+dimwishlist:item=-1453235079&perks=1119449540
+// No Distractions
+dimwishlist:item=-1453235079&perks=2866798147
+// Firmly Planted, One For All
+dimwishlist:item=205225492&perks=3891536761,3700496672#notes: pve
+// Kinetic Tremors, Firefly
+dimwishlist:item=205225492&perks=3891536761,3824105627
+// Loose Change
+dimwishlist:item=-205225492&perks=1119449540
+// No Distractions
+dimwishlist:item=-205225492&perks=2866798147
+
+// Hung Jury SR4 (Adept)
+
+// Firmly Planted, One For All
+dimwishlist:item=2883684343&perks=3891536761,3700496672#notes: pve
+
+// Taraxippos
+
+dimwishlist:item=-3007479950
+dimwishlist:item=-1389546626
+
+//////////////////////////
+// Sniper Rifle
+//////////////////////////
+
+// Succession
+
+// Discord, Redirection
+dimwishlist:item=3612338554&perks=3978468247,3201496230#notes: pve
+// Reconstruction, Vorpal Weapon
+dimwishlist:item=3612338554&perks=1523832109,1546637391#notes: pve
+// Reconstruction, Focused Fury
+dimwishlist:item=3612338554&perks=1523832109,2896038713#notes: pve
+// Moving Target
+dimwishlist:item=-3612338554&perks=588594999
+// Firing Line
+dimwishlist:item=-3612338554&perks=1771339417
+// No Distractions
+dimwishlist:item=-3612338554&perks=2866798147
+// Firmly Planted
+dimwishlist:item=-3612338554&perks=280464955
+// Box Breathing
+dimwishlist:item=-3612338554&perks=2551157718
+
+//////////////////////////
+// Submachine Gun
+//////////////////////////
+
+// Adjudicator
+
+// Dynamic Sway Reduction, Multikill Clip
+dimwishlist:item=1013434963&perks=1820235745,3425386926#notes: pve
+
+// The Recluse
+
+// Repulsor Brace, Frenzy
+dimwishlist:item=1050806815&perks=776531651,4104185692#notes: Void Subclass - Hunter - pve
+// Dynamic Sway Reduction
+dimwishlist:item=-1050806815&perks=1359896290
+// Hip-Fire Grip
+dimwishlist:item=-1050806815&perks=1866048759
+
+// Submission
+
+// Dynamic Sway Reduction, Rampage
+dimwishlist:item=3886416794&perks=1820235745,4104185692#notes: pve - add clear
+
+// Submission (Adept)
+
+// Dynamic Sway Reduction, Rampage
+dimwishlist:item=1941816543&perks=1820235745,4104185692#notes: pve - add clear
+
+// The Title
+
+dimwishlist:item=-655712834
+
+//////////////////////////
+// Sword
+//////////////////////////
+
+// Abide the Return
+
+dimwishlist:item=-250721843
+dimwishlist:item=-1644160541
+
+// Double-edged Answer
+
+dimwishlist:item=-105164264
+
+// Geodetic Hsm
+
+dimwishlist:item=-3637669759
+
+// Nasreddin
+
+dimwishlist:item=-1456017061
+
+// The Slammer (Adept)
+
+// Tireless Blade, One for All
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+
+// Steel Sybil Z-14
+
+dimwishlist:item=-4230993599
+
