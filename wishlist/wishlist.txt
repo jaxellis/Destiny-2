@@ -179,6 +179,22 @@ dimwishlist:item=2171478765&perks=3824105627,3038247973#notes: pve - every activ
 dimwishlist:item=2763843898&perks=3038247973,4104185692
 // Firefly, Kinetic Tremors
 dimwishlist:item=2763843898&perks=3824105627,3891536761
+// Moving Target
+dimwishlist:item=-2763843898&perks=588594999
+// Shoot to Loot
+dimwishlist:item=-2763843898&perks=3700496672
+// Attrition Orbs
+dimwishlist:item=-2763843898&perks=243981275
+// Explosive Payload, Frenzy
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+// Firefly, Kinetic Tremors
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+// Moving Target
+dimwishlist:item=-2499720827&perks=588594999
+// Shoot to Loot
+dimwishlist:item=-2499720827&perks=3700496672
+// Attrition Orbs
+dimwishlist:item=-2499720827&perks=243981275
 
 //////////////////////////
 // Fusion Rifle
@@ -323,6 +339,22 @@ dimwishlist:item=-3612338554&perks=2866798147
 dimwishlist:item=-3612338554&perks=280464955
 // Box Breathing
 dimwishlist:item=-3612338554&perks=2551157718
+// Discord, Redirection
+dimwishlist:item=570866107&perks=3978468247,3201496230#notes: pve
+// Reconstruction, Vorpal Weapon
+dimwishlist:item=570866107&perks=1523832109,1546637391#notes: pve
+// Reconstruction, Focused Fury
+dimwishlist:item=570866107&perks=1523832109,2896038713#notes: pve
+// Moving Target
+dimwishlist:item=-570866107&perks=588594999
+// Firing Line
+dimwishlist:item=-570866107&perks=1771339417
+// No Distractions
+dimwishlist:item=-570866107&perks=2866798147
+// Firmly Planted
+dimwishlist:item=-570866107&perks=280464955
+// Box Breathing
+dimwishlist:item=-570866107&perks=2551157718
 
 //////////////////////////
 // Submachine Gun

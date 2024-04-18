@@ -464,7 +464,8 @@
         {
             "name": "Midnight Coup",
             "ids": [
-                2763843898
+                2763843898,
+                2499720827
             ],
             "trash": false,
             "perkcombo": [
@@ -485,7 +486,38 @@
                     "notes": ""
                 }
             ],
-            "trashcombos": []
+            "trashcombos": [
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Shoot to Loot",
+                    "ids": [
+                        3700496672
+                    ]
+                },
+                {
+                    "name": "Attrition Orbs",
+                    "ids": [
+                        243981275
+                    ]
+                },
+                {
+                    "name": "Zen Moment",
+                    "ids": [
+                        2387244414
+                    ]
+                },
+                {
+                    "name": "Opening Shot",
+                    "ids": [
+                        47981717
+                    ]
+                }
+            ]
         }
     ],
     "Fusion Rifle": [
@@ -771,7 +803,8 @@
         {
             "name": "Succession",
             "ids": [
-                3612338554
+                3612338554,
+                570866107
             ],
             "trash": false,
             "perkcombo": [
