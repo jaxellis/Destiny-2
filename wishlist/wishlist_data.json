@@ -834,15 +834,62 @@
             "trash": false,
             "perkcombo": [
                 {
-                    "name": "Dynamic Sway Reduction, Multikill Clip",
+                    "name": "Subsistence, Rampage",
                     "ids": [
                         1820235745,
                         3425386926
                     ],
                     "notes": "pve"
+                },
+                {
+                    "name": "Subsistence, Onslaught",
+                    "ids": [
+                        1820235745,
+                        95528736
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Subsistence, Frenzy",
+                    "ids": [
+                        1820235745,
+                        4104185692
+                    ],
+                    "notes": "pve"
                 }
             ],
-            "trashcombos": []
+            "trashcombos": [
+                {
+                    "name": "Rangefinder",
+                    "ids": [
+                        2846385770
+                    ]
+                },
+                {
+                    "name": "Perpetual Motion",
+                    "ids": [
+                        1428297954
+                    ]
+                },
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Fragile Focus",
+                    "ids": [
+                        2451262963
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                }
+            ]
         },
         {
             "name": "The Recluse",
