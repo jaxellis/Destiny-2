@@ -693,6 +693,73 @@
     ],
     "Sniper Rifle": [
         {
+            "name": "Irukandji",
+            "ids": [
+                2673925403
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Fourth Time's the Charm, Firing Line",
+                    "ids": [
+                        1354429876,
+                        1771339417
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Rapid Hit",
+                    "ids": [
+                        247725512
+                    ]
+                },
+                {
+                    "name": "Under Pressure",
+                    "ids": [
+                        1645158859
+                    ]
+                },
+                {
+                    "name": "Keep Away",
+                    "ids": [
+                        3619207468
+                    ]
+                },
+                {
+                    "name": "Headstone",
+                    "ids": [
+                        124408337
+                    ]
+                },
+                {
+                    "name": "Harmony",
+                    "ids": [
+                        438098033
+                    ]
+                },
+                {
+                    "name": "Focused Fury",
+                    "ids": [
+                        2896038713
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                },
+                {
+                    "name": "Opening Shot",
+                    "ids": [
+                        47981717
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Succession",
             "ids": [
                 3612338554
