@@ -497,7 +497,7 @@
             "trash": false,
             "perkcombo": [
                 {
-                    "name": "Vorpal Weapon, High-Impact Reserves",
+                    "name": "Envious Assassin, Controlled Burst",
                     "ids": [
                         968510818,
                         2594592626
@@ -505,7 +505,50 @@
                     "notes": "pve"
                 }
             ],
-            "trashcombos": []
+            "trashcombos": [
+                {
+                    "name": "Fragile Focus",
+                    "ids": [
+                        2451262963
+                    ]
+                },
+                {
+                    "name": "Threat Detector",
+                    "ids": [
+                        4071163871
+                    ]
+                },
+                {
+                    "name": "Lead from Gold",
+                    "ids": [
+                        1556840489
+                    ]
+                },
+                {
+                    "name": "Loose Change",
+                    "ids": [
+                        1119449540
+                    ]
+                },
+                {
+                    "name": "Under Pressure",
+                    "ids": [
+                        1645158859
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "Kickstart",
+                    "ids": [
+                        1754714824
+                    ]
+                }
+            ]
         }
     ],
     "Linear Fusion Rifle": [
