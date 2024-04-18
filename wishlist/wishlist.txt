@@ -391,10 +391,39 @@ dimwishlist:item=-3637669759
 
 dimwishlist:item=-1456017061
 
+// The Slammer
+
+// Eager Edge, Cold Steel
+dimwishlist:item=2889501828&perks=2077819806,3650930298#notes: pve - champs - utility
+// Attrition Orbs
+dimwishlist:item=-2889501828&perks=243981275
+// Pugilst
+dimwishlist:item=-2889501828&perks=691659142
+// Thresh
+dimwishlist:item=-2889501828&perks=2726471870
+// Permeability
+dimwishlist:item=-2889501828&perks=2428997981
+// Collective Action
+dimwishlist:item=-2889501828&perks=3324494224
+// One For All
+dimwishlist:item=-2889501828&perks=4049631843
+
 // The Slammer (Adept)
 
-// Tireless Blade, One for All
-dimwishlist:item=1354727549&perks=2077819806,3650930298
+// Eager Edge, Cold Steel
+dimwishlist:item=1354727549&perks=2077819806,3650930298#notes: pve - champs - utility
+// Attrition Orbs
+dimwishlist:item=-1354727549&perks=243981275
+// Pugilst
+dimwishlist:item=-1354727549&perks=691659142
+// Thresh
+dimwishlist:item=-1354727549&perks=2726471870
+// Permeability
+dimwishlist:item=-1354727549&perks=2428997981
+// Collective Action
+dimwishlist:item=-1354727549&perks=3324494224
+// One For All
+dimwishlist:item=-1354727549&perks=4049631843
 
 // Steel Sybil Z-14
 
