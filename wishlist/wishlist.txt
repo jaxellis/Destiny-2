@@ -186,8 +186,22 @@ dimwishlist:item=2763843898&perks=3824105627,3891536761
 
 // Nox Perennial V
 
-// Vorpal Weapon, High-Impact Reserves
+// Envious Assassin, Controlled Burst
 dimwishlist:item=2767393525&perks=968510818,2594592626#notes: pve
+// Fragile Focus
+dimwishlist:item=-2767393525&perks=2451262963
+// Threat Detector
+dimwishlist:item=-2767393525&perks=4071163871
+// Lead from Gold
+dimwishlist:item=-2767393525&perks=1556840489
+// Loose Change
+dimwishlist:item=-2767393525&perks=1119449540
+// Under Pressure
+dimwishlist:item=-2767393525&perks=1645158859
+// Collective Action
+dimwishlist:item=-2767393525&perks=3324494224
+// Kickstart
+dimwishlist:item=-2767393525&perks=1754714824
 
 //////////////////////////
 // Linear Fusion Rifle
@@ -262,6 +276,27 @@ dimwishlist:item=-1389546626
 // Sniper Rifle
 //////////////////////////
 
+// Irukandji
+
+// Fourth Time's the Charm, Firing Line
+dimwishlist:item=2673925403&perks=1354429876,1771339417#notes: pve
+// Rapid Hit
+dimwishlist:item=-2673925403&perks=247725512
+// Under Pressure
+dimwishlist:item=-2673925403&perks=1645158859
+// Keep Away
+dimwishlist:item=-2673925403&perks=3619207468
+// Headstone
+dimwishlist:item=-2673925403&perks=124408337
+// Harmony
+dimwishlist:item=-2673925403&perks=438098033
+// Focused Fury
+dimwishlist:item=-2673925403&perks=2896038713
+// Eye of the Storm
+dimwishlist:item=-2673925403&perks=699525795
+// Opening Shot
+dimwishlist:item=-2673925403&perks=47981717
+
 // Succession
 
 // Discord, Redirection
@@ -287,8 +322,22 @@ dimwishlist:item=-3612338554&perks=2551157718
 
 // Adjudicator
 
-// Dynamic Sway Reduction, Multikill Clip
+// Subsistence, Rampage
 dimwishlist:item=1013434963&perks=1820235745,3425386926#notes: pve
+// Subsistence, Onslaught
+dimwishlist:item=1013434963&perks=1820235745,95528736#notes: pve
+// Subsistence, Frenzy
+dimwishlist:item=1013434963&perks=1820235745,4104185692#notes: pve
+// Rangefinder
+dimwishlist:item=-1013434963&perks=2846385770
+// Perpetual Motion
+dimwishlist:item=-1013434963&perks=1428297954
+// Dynamic Sway Reduction
+dimwishlist:item=-1013434963&perks=1359896290
+// Fragile Focus
+dimwishlist:item=-1013434963&perks=2451262963
+// Target Lock
+dimwishlist:item=-1013434963&perks=365154968
 
 // The Recluse
 
