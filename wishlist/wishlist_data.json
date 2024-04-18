@@ -691,6 +691,15 @@
             "trashcombos": []
         }
     ],
+    "Shotgun": [
+        {
+            "name": "Hand in Hand",
+            "ids": [
+                664109750
+            ],
+            "trash": true
+        }
+    ],
     "Sniper Rifle": [
         {
             "name": "Irukandji",
