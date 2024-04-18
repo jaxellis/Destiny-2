@@ -1016,6 +1016,61 @@
             "trashcombos": []
         },
         {
+            "name": "The Slammer",
+            "ids": [
+                2889501828
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Eager Edge, Cold Steel",
+                    "ids": [
+                        2077819806,
+                        3650930298
+                    ],
+                    "notes": "pve - champs - utility"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Attrition Orbs",
+                    "ids": [
+                        243981275
+                    ]
+                },
+                {
+                    "name": "Pugilst",
+                    "ids": [
+                        691659142
+                    ]
+                },
+                {
+                    "name": "Thresh",
+                    "ids": [
+                        2726471870
+                    ]
+                },
+                {
+                    "name": "Permeability",
+                    "ids": [
+                        2428997981
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "One For All",
+                    "ids": [
+                        4049631843
+                    ]
+                }
+            ]
+        },
+        {
             "name": "The Slammer (Adept)",
             "ids": [
                 1354727549
@@ -1023,15 +1078,52 @@
             "trash": false,
             "perkcombo": [
                 {
-                    "name": "Tireless Blade, One for All",
+                    "name": "Eager Edge, Cold Steel",
                     "ids": [
                         2077819806,
                         3650930298
                     ],
-                    "notes": ""
+                    "notes": "pve - champs - utility"
                 }
             ],
-            "trashcombos": []
+            "trashcombos": [
+                {
+                    "name": "Attrition Orbs",
+                    "ids": [
+                        243981275
+                    ]
+                },
+                {
+                    "name": "Pugilst",
+                    "ids": [
+                        691659142
+                    ]
+                },
+                {
+                    "name": "Thresh",
+                    "ids": [
+                        2726471870
+                    ]
+                },
+                {
+                    "name": "Permeability",
+                    "ids": [
+                        2428997981
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "One For All",
+                    "ids": [
+                        4049631843
+                    ]
+                }
+            ]
         },
         {
             "name": "Steel Sybil Z-14",
