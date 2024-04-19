@@ -131,6 +131,8 @@ dimwishlist:item=-2228325504&perks=2048641572
 dimwishlist:item=4043921923&perks=3301904089,3300816228,4104185692
 // Spike Grenades, Auto-loading Holster, Vorpal Weapon
 dimwishlist:item=4043921923&perks=3301904089,3300816228,1546637391
+// Spike Grenades, Auto-loading Holster, Recombination
+dimwishlist:item=4043921923&perks=3301904089,3300816228,469285294
 // Impulse Amplifier
 dimwishlist:item=-4043921923&perks=951095735
 // Rampage
@@ -149,6 +151,8 @@ dimwishlist:item=-4043921923&perks=1821614984
 dimwishlist:item=568611922&perks=3301904089,3300816228,4104185692
 // Spike Grenades, Auto-loading Holster, Vorpal Weapon
 dimwishlist:item=568611922&perks=3301904089,3300816228,1546637391
+// Spike Grenades, Auto-loading Holster, Recombination
+dimwishlist:item=568611922&perks=3301904089,3300816228,469285294
 // Impulse Amplifier
 dimwishlist:item=-568611922&perks=951095735
 // Rampage
@@ -185,6 +189,10 @@ dimwishlist:item=-2763843898&perks=588594999
 dimwishlist:item=-2763843898&perks=3700496672
 // Attrition Orbs
 dimwishlist:item=-2763843898&perks=243981275
+// Zen Moment
+dimwishlist:item=-2763843898&perks=2387244414
+// Opening Shot
+dimwishlist:item=-2763843898&perks=47981717
 // Explosive Payload, Frenzy
 dimwishlist:item=2499720827&perks=3038247973,4104185692
 // Firefly, Kinetic Tremors
@@ -195,6 +203,10 @@ dimwishlist:item=-2499720827&perks=588594999
 dimwishlist:item=-2499720827&perks=3700496672
 // Attrition Orbs
 dimwishlist:item=-2499720827&perks=243981275
+// Zen Moment
+dimwishlist:item=-2499720827&perks=2387244414
+// Opening Shot
+dimwishlist:item=-2499720827&perks=47981717
 
 //////////////////////////
 // Fusion Rifle
@@ -414,6 +426,41 @@ dimwishlist:item=-1644160541
 // Double-edged Answer
 
 dimwishlist:item=-105164264
+
+// Falling Guillotine
+
+// Frenzy, Eager Edge
+dimwishlist:item=243425374&perks=4104185692,2077819806#notes: pve - utility
+// Chain Reaction, Eager Edge
+dimwishlist:item=243425374&perks=2396489472,2077819806#notes: pve - utility - add clear
+// Destablizing Rounds
+dimwishlist:item=-243425374&perks=2048641572
+// Whirlwind Blade
+dimwishlist:item=-243425374&perks=3913600130
+// Desperate Measures
+dimwishlist:item=-243425374&perks=2109543898
+// Repulsor Brace
+dimwishlist:item=-243425374&perks=776531651
+// Attrition Orbs
+dimwishlist:item=-243425374&perks=243981275
+// Duelist's Trance
+dimwishlist:item=-243425374&perks=3705817207
+// Frenzy, Eager Edge
+dimwishlist:item=1815105249&perks=4104185692,2077819806#notes: pve - utility
+// Chain Reaction, Eager Edge
+dimwishlist:item=1815105249&perks=2396489472,2077819806#notes: pve - utility - add clear
+// Destablizing Rounds
+dimwishlist:item=-1815105249&perks=2048641572
+// Whirlwind Blade
+dimwishlist:item=-1815105249&perks=3913600130
+// Desperate Measures
+dimwishlist:item=-1815105249&perks=2109543898
+// Repulsor Brace
+dimwishlist:item=-1815105249&perks=776531651
+// Attrition Orbs
+dimwishlist:item=-1815105249&perks=243981275
+// Duelist's Trance
+dimwishlist:item=-1815105249&perks=3705817207
 
 // Geodetic Hsm
 

@@ -394,6 +394,15 @@
                         1546637391
                     ],
                     "notes": ""
+                },
+                {
+                    "name": "Spike Grenades, Auto-loading Holster, Recombination",
+                    "ids": [
+                        3301904089,
+                        3300816228,
+                        469285294
+                    ],
+                    "notes": ""
                 }
             ],
             "trashcombos": [
@@ -1029,6 +1038,70 @@
             "trash": true,
             "perkcombo": [],
             "trashcombos": []
+        },
+        {
+            "name": "Falling Guillotine",
+            "ids": [
+                243425374,
+                1815105249
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Frenzy, Eager Edge",
+                    "ids": [
+                        4104185692,
+                        2077819806
+                    ],
+                    "notes": "pve - utility"
+                },
+                {
+                    "name": "Chain Reaction, Eager Edge",
+                    "ids": [
+                        2396489472,
+                        2077819806
+                    ],
+                    "notes": "pve - utility - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Destablizing Rounds",
+                    "ids": [
+                        2048641572
+                    ]
+                },
+                {
+                    "name": "Whirlwind Blade",
+                    "ids": [
+                        3913600130
+                    ]
+                },
+                {
+                    "name": "Desperate Measures",
+                    "ids": [
+                        2109543898
+                    ]
+                },
+                {
+                    "name": "Repulsor Brace",
+                    "ids": [
+                        776531651
+                    ]
+                },
+                {
+                    "name": "Attrition Orbs",
+                    "ids": [
+                        243981275
+                    ]
+                },
+                {
+                    "name": "Duelist's Trance",
+                    "ids": [
+                        3705817207
+                    ]
+                }
+            ]
         },
         {
             "name": "Geodetic Hsm",
