@@ -116,6 +116,8 @@ dimwishlist:item=568611923&perks=981914802,968510818,3078487919#notes: pve
 dimwishlist:item=-568611923&perks=776531651
 // Destablizing Rounds
 dimwishlist:item=-568611923&perks=2048641572
+// Adrenaline Junky
+dimwishlist:item=-568611923&perks=11612903
 // Hard Launch, Chain Reaction, Deconstruct
 dimwishlist:item=2228325504&perks=981914802,2396489472,3993379141#notes: pve
 // Hard Launch, Envious Assassin, Bait and Switch
@@ -124,6 +126,8 @@ dimwishlist:item=2228325504&perks=981914802,968510818,3078487919#notes: pve
 dimwishlist:item=-2228325504&perks=776531651
 // Destablizing Rounds
 dimwishlist:item=-2228325504&perks=2048641572
+// Adrenaline Junky
+dimwishlist:item=-2228325504&perks=11612903
 
 // Mountain Top
 
@@ -193,6 +197,8 @@ dimwishlist:item=-2763843898&perks=243981275
 dimwishlist:item=-2763843898&perks=2387244414
 // Opening Shot
 dimwishlist:item=-2763843898&perks=47981717
+// Enlightened Action, Frenzy
+dimwishlist:item=-2763843898&perks=3828510309,4104185692
 // Explosive Payload, Frenzy
 dimwishlist:item=2499720827&perks=3038247973,4104185692
 // Firefly, Kinetic Tremors
@@ -207,6 +213,8 @@ dimwishlist:item=-2499720827&perks=243981275
 dimwishlist:item=-2499720827&perks=2387244414
 // Opening Shot
 dimwishlist:item=-2499720827&perks=47981717
+// Enlightened Action, Frenzy
+dimwishlist:item=-2499720827&perks=3828510309,4104185692
 
 //////////////////////////
 // Fusion Rifle

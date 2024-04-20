@@ -366,6 +366,12 @@
                     "ids": [
                         2048641572
                     ]
+                },
+                {
+                    "name": "Adrenaline Junky",
+                    "ids": [
+                        11612903
+                    ]
                 }
             ]
         },
@@ -524,6 +530,13 @@
                     "name": "Opening Shot",
                     "ids": [
                         47981717
+                    ]
+                },
+                {
+                    "name": "Enlightened Action, Frenzy",
+                    "ids": [
+                        3828510309,
+                        4104185692
                     ]
                 }
             ]
