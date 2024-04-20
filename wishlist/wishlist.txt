@@ -268,6 +268,53 @@ dimwishlist:item=-2372514509&perks=1119449540
 dimwishlist:item=-2372514509&perks=776531651
 
 //////////////////////////
+// Rocket Launcher
+//////////////////////////
+
+// Apex Predator
+
+// Reconstruction (Enhanced), Bait and Switch (Enhanced)
+dimwishlist:item=1851777734&perks=461595545,3744057135#notes: pve - Boss damage - Crafted
+// Reconstruction, Bait and Switch
+dimwishlist:item=1851777734&perks=1523832109,3078487919#notes: pve - Boss damage - Craft w/ Enhanced Perks when possible
+// Threat Detector
+dimwishlist:item=-1851777734&perks=4071163871
+// Threat Detector (Enhanced)
+dimwishlist:item=-1851777734&perks=494941759
+// Tracking Module
+dimwishlist:item=-1851777734&perks=3977735242
+// Tracking Module (Enhanced)
+dimwishlist:item=-1851777734&perks=406461158
+// Danger Zone
+dimwishlist:item=-1851777734&perks=960810156
+// Danger Zone (Enhanced)
+dimwishlist:item=-1851777734&perks=1077019636
+// Incandescent
+dimwishlist:item=-1851777734&perks=4293542123
+// Incandescent (Enhanced)
+dimwishlist:item=-1851777734&perks=2675184851
+// Slideways
+dimwishlist:item=-1851777734&perks=2039302152
+// Slideways (Enhanced)
+dimwishlist:item=-1851777734&perks=2396422520
+// Frenzy
+dimwishlist:item=-1851777734&perks=4104185692
+// Frenzy (Enhanced)
+dimwishlist:item=-1851777734&perks=3007133316
+// Collective Action
+dimwishlist:item=-1851777734&perks=3324494224
+// Collective Action (Enhanced)
+dimwishlist:item=-1851777734&perks=2562668800
+// Explosive Light
+dimwishlist:item=-1851777734&perks=3194351027
+// Explosive Light (Enhanced)
+dimwishlist:item=-1851777734&perks=2275087323
+// Vorpal Weapon
+dimwishlist:item=-1851777734&perks=1546637391
+// Vorpal Weapon (Enhanced)
+dimwishlist:item=-1851777734&perks=3418165135
+
+//////////////////////////
 // Scout Rifles
 //////////////////////////
 

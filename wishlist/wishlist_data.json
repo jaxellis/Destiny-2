@@ -674,6 +674,143 @@
             ]
         }
     ],
+    "Rocket Launcher": [
+        {
+            "name": "Apex Predator",
+            "ids": [
+                1851777734
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Reconstruction (Enhanced), Bait and Switch (Enhanced)",
+                    "ids": [
+                        461595545,
+                        3744057135
+                    ],
+                    "notes": "pve - Boss damage - Crafted"
+                },
+                {
+                    "name": "Reconstruction, Bait and Switch",
+                    "ids": [
+                        1523832109,
+                        3078487919
+                    ],
+                    "notes": "pve - Boss damage - Craft w/ Enhanced Perks when possible"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Threat Detector",
+                    "ids": [
+                        4071163871
+                    ]
+                },
+                {
+                    "name": "Threat Detector (Enhanced)",
+                    "ids": [
+                        494941759
+                    ]
+                },
+                {
+                    "name": "Tracking Module",
+                    "ids": [
+                        3977735242
+                    ]
+                },
+                {
+                    "name": "Tracking Module (Enhanced)",
+                    "ids": [
+                        406461158
+                    ]
+                },
+                {
+                    "name": "Danger Zone",
+                    "ids": [
+                        960810156
+                    ]
+                },
+                {
+                    "name": "Danger Zone (Enhanced)",
+                    "ids": [
+                        1077019636
+                    ]
+                },
+                {
+                    "name": "Incandescent",
+                    "ids": [
+                        4293542123
+                    ]
+                },
+                {
+                    "name": "Incandescent (Enhanced)",
+                    "ids": [
+                        2675184851
+                    ]
+                },
+                {
+                    "name": "Slideways",
+                    "ids": [
+                        2039302152
+                    ]
+                },
+                {
+                    "name": "Slideways (Enhanced)",
+                    "ids": [
+                        2396422520
+                    ]
+                },
+                {
+                    "name": "Frenzy",
+                    "ids": [
+                        4104185692
+                    ]
+                },
+                {
+                    "name": "Frenzy (Enhanced)",
+                    "ids": [
+                        3007133316
+                    ]
+                },
+                {
+                    "name": "Collective Action",
+                    "ids": [
+                        3324494224
+                    ]
+                },
+                {
+                    "name": "Collective Action (Enhanced)",
+                    "ids": [
+                        2562668800
+                    ]
+                },
+                {
+                    "name": "Explosive Light",
+                    "ids": [
+                        3194351027
+                    ]
+                },
+                {
+                    "name": "Explosive Light (Enhanced)",
+                    "ids": [
+                        2275087323
+                    ]
+                },
+                {
+                    "name": "Vorpal Weapon",
+                    "ids": [
+                        1546637391
+                    ]
+                },
+                {
+                    "name": "Vorpal Weapon (Enhanced)",
+                    "ids": [
+                        3418165135
+                    ]
+                }
+            ]
+        }
+    ],
     "Scout Rifles": [
         {
             "name": "Hung Jury SR4",
