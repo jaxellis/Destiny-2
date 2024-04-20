@@ -491,14 +491,6 @@
                         4104185692
                     ],
                     "notes": ""
-                },
-                {
-                    "name": "Firefly, Kinetic Tremors",
-                    "ids": [
-                        3824105627,
-                        3891536761
-                    ],
-                    "notes": ""
                 }
             ],
             "trashcombos": [
@@ -537,6 +529,18 @@
                     "ids": [
                         3828510309,
                         4104185692
+                    ]
+                },
+                {
+                    "name": "Kinetic Tremors",
+                    "ids": [
+                        3891536761
+                    ]
+                },
+                {
+                    "name": "Desperate Measures",
+                    "ids": [
+                        2109543898
                     ]
                 }
             ]
