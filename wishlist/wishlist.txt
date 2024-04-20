@@ -458,6 +458,10 @@ dimwishlist:item=1050806815&perks=776531651,4104185692#notes: Void Subclass - Hu
 dimwishlist:item=-1050806815&perks=1359896290
 // Hip-Fire Grip
 dimwishlist:item=-1050806815&perks=1866048759
+// Tap the Trigger
+dimwishlist:item=-1050806815&perks=1890422124
+// Target Lock
+dimwishlist:item=-1050806815&perks=365154968
 
 // Submission
 
