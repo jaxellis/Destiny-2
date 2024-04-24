@@ -201,6 +201,8 @@ dimwishlist:item=-2763843898&perks=3828510309,4104185692
 dimwishlist:item=-2763843898&perks=3891536761
 // Desperate Measures
 dimwishlist:item=-2763843898&perks=2109543898
+// Outlaw, Frenzy
+dimwishlist:item=-2763843898&perks=1168162263,4104185692
 // Explosive Payload, Frenzy
 dimwishlist:item=2499720827&perks=3038247973,4104185692
 // Moving Target
@@ -219,6 +221,8 @@ dimwishlist:item=-2499720827&perks=3828510309,4104185692
 dimwishlist:item=-2499720827&perks=3891536761
 // Desperate Measures
 dimwishlist:item=-2499720827&perks=2109543898
+// Outlaw, Frenzy
+dimwishlist:item=-2499720827&perks=1168162263,4104185692
 
 //////////////////////////
 // Fusion Rifle
