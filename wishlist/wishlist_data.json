@@ -742,6 +742,67 @@
             "trashcombos": []
         }
     ],
+    "Machine Gun": [
+        {
+            "name": "Hammerhead",
+            "ids": [
+                1896309757,
+                211732170
+            ],
+            "trash": false,
+            "perkcombo": [],
+            "trashcombos": [
+                {
+                    "name": "Tap the Trigger",
+                    "ids": [
+                        1890422124
+                    ]
+                },
+                {
+                    "name": "Loose Change",
+                    "ids": [
+                        2109543898
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                },
+                {
+                    "name": "Surrounded",
+                    "ids": [
+                        3708227201
+                    ]
+                },
+                {
+                    "name": "Under-Over",
+                    "ids": [
+                        1870851715
+                    ]
+                },
+                {
+                    "name": "Destablizing Rounds",
+                    "ids": [
+                        2048641572
+                    ]
+                },
+                {
+                    "name": "Feeding Frenzy",
+                    "ids": [
+                        2779035018
+                    ]
+                },
+                {
+                    "name": "Envious Assassin",
+                    "ids": [
+                        968510818
+                    ]
+                }
+            ]
+        }
+    ],
     "Pulse Rifles": [
         {
             "name": "Elsie's Rifle",

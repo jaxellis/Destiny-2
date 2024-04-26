@@ -318,6 +318,45 @@ dimwishlist:item=3652506829&perks=3300816228
 dimwishlist:item=3652506829&perks=2284787283
 
 //////////////////////////
+// Machine Gun
+//////////////////////////
+
+// Hammerhead
+
+// Tap the Trigger
+dimwishlist:item=-1896309757&perks=1890422124
+// Loose Change
+dimwishlist:item=-1896309757&perks=2109543898
+// Target Lock
+dimwishlist:item=-1896309757&perks=365154968
+// Surrounded
+dimwishlist:item=-1896309757&perks=3708227201
+// Under-Over
+dimwishlist:item=-1896309757&perks=1870851715
+// Destablizing Rounds
+dimwishlist:item=-1896309757&perks=2048641572
+// Feeding Frenzy
+dimwishlist:item=-1896309757&perks=2779035018
+// Envious Assassin
+dimwishlist:item=-1896309757&perks=968510818
+// Tap the Trigger
+dimwishlist:item=-211732170&perks=1890422124
+// Loose Change
+dimwishlist:item=-211732170&perks=2109543898
+// Target Lock
+dimwishlist:item=-211732170&perks=365154968
+// Surrounded
+dimwishlist:item=-211732170&perks=3708227201
+// Under-Over
+dimwishlist:item=-211732170&perks=1870851715
+// Destablizing Rounds
+dimwishlist:item=-211732170&perks=2048641572
+// Feeding Frenzy
+dimwishlist:item=-211732170&perks=2779035018
+// Envious Assassin
+dimwishlist:item=-211732170&perks=968510818
+
+//////////////////////////
 // Pulse Rifles
 //////////////////////////
 
