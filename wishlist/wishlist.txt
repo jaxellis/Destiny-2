@@ -129,6 +129,65 @@ dimwishlist:item=-2228325504&perks=2048641572
 // Adrenaline Junky
 dimwishlist:item=-2228325504&perks=11612903
 
+// Forbearance
+
+// Demolitionist, Chain Reaction
+dimwishlist:item=568611921&perks=3523296417,2396489472#notes: Best perk roll, pve
+// Quick Launch, High-Velocity Rounds, Demolitionist, Chain Reaction
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472#notes: God roll, pve - Reload Masterwork is best
+// Unrelenting
+dimwishlist:item=-568611921&perks=3108830275
+// Stats for All
+dimwishlist:item=-568611921&perks=1583705720
+// Ambitious Assassin
+dimwishlist:item=-568611921&perks=2010801679
+// Surplus
+dimwishlist:item=-568611921&perks=3436462433
+// Steady Hands
+dimwishlist:item=-568611921&perks=509074078
+// Disruption Break
+dimwishlist:item=-568611921&perks=1683379515
+// Wellspring
+dimwishlist:item=-568611921&perks=3592538738
+// Golden Tricorn
+dimwishlist:item=-568611921&perks=2610012052
+// One For All
+dimwishlist:item=-568611921&perks=4049631843
+// Bait and Switch
+dimwishlist:item=-568611921&perks=3078487919
+// Rampage
+dimwishlist:item=-568611921&perks=3425386926
+// Desperate Measures
+dimwishlist:item=-568611921&perks=2109543898
+// Demolitionist, Chain Reaction
+dimwishlist:item=2480074702&perks=3523296417,2396489472#notes: Best perk roll, pve
+// Quick Launch, High-Velocity Rounds, Demolitionist, Chain Reaction
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,2396489472#notes: God roll, pve - Reload Masterwork is best
+// Unrelenting
+dimwishlist:item=-2480074702&perks=3108830275
+// Stats for All
+dimwishlist:item=-2480074702&perks=1583705720
+// Ambitious Assassin
+dimwishlist:item=-2480074702&perks=2010801679
+// Surplus
+dimwishlist:item=-2480074702&perks=3436462433
+// Steady Hands
+dimwishlist:item=-2480074702&perks=509074078
+// Disruption Break
+dimwishlist:item=-2480074702&perks=1683379515
+// Wellspring
+dimwishlist:item=-2480074702&perks=3592538738
+// Golden Tricorn
+dimwishlist:item=-2480074702&perks=2610012052
+// One For All
+dimwishlist:item=-2480074702&perks=4049631843
+// Bait and Switch
+dimwishlist:item=-2480074702&perks=3078487919
+// Rampage
+dimwishlist:item=-2480074702&perks=3425386926
+// Desperate Measures
+dimwishlist:item=-2480074702&perks=2109543898
+
 // Mountain Top
 
 // Spike Grenades, Auto-loading Holster, Frenzy

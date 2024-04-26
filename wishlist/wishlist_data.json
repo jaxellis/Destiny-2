@@ -376,6 +376,108 @@
             ]
         },
         {
+            "name": "Forbearance",
+            "ids": [
+                568611921,
+                2480074702
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Demolitionist, Chain Reaction",
+                    "ids": [
+                        3523296417,
+                        2396489472
+                    ],
+                    "notes": "Best perk roll, pve"
+                },
+                {
+                    "name": "Quick Launch, High-Velocity Rounds, Demolitionist, Chain Reaction",
+                    "ids": [
+                        3525010810,
+                        2822142346,
+                        3523296417,
+                        2396489472
+                    ],
+                    "notes": "God roll, pve - Reload Masterwork is best"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Unrelenting",
+                    "ids": [
+                        3108830275
+                    ]
+                },
+                {
+                    "name": "Stats for All",
+                    "ids": [
+                        1583705720
+                    ]
+                },
+                {
+                    "name": "Ambitious Assassin",
+                    "ids": [
+                        2010801679
+                    ]
+                },
+                {
+                    "name": "Surplus",
+                    "ids": [
+                        3436462433
+                    ]
+                },
+                {
+                    "name": "Steady Hands",
+                    "ids": [
+                        509074078
+                    ]
+                },
+                {
+                    "name": "Disruption Break",
+                    "ids": [
+                        1683379515
+                    ]
+                },
+                {
+                    "name": "Wellspring",
+                    "ids": [
+                        3592538738
+                    ]
+                },
+                {
+                    "name": "Golden Tricorn",
+                    "ids": [
+                        2610012052
+                    ]
+                },
+                {
+                    "name": "One For All",
+                    "ids": [
+                        4049631843
+                    ]
+                },
+                {
+                    "name": "Bait and Switch",
+                    "ids": [
+                        3078487919
+                    ]
+                },
+                {
+                    "name": "Rampage",
+                    "ids": [
+                        3425386926
+                    ]
+                },
+                {
+                    "name": "Desperate Measures",
+                    "ids": [
+                        2109543898
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Mountain Top",
             "ids": [
                 4043921923,
