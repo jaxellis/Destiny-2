@@ -750,7 +750,50 @@
                 211732170
             ],
             "trash": false,
-            "perkcombo": [],
+            "perkcombo": [
+                {
+                    "name": "Fourth Time's the Charm, Killing Tally",
+                    "ids": [
+                        1354429876,
+                        557221067
+                    ]
+                },
+                {
+                    "name": "Fourth Time's the Charm, Onslaught",
+                    "ids": [
+                        1354429876,
+                        95528736
+                    ]
+                },
+                {
+                    "name": "Rewind Rounds, Killing Tally",
+                    "ids": [
+                        3418782618,
+                        557221067
+                    ]
+                },
+                {
+                    "name": "Rewind Rounds, Onslaught",
+                    "ids": [
+                        3418782618,
+                        95528736
+                    ]
+                },
+                {
+                    "name": "Rampage, Killing Tally",
+                    "ids": [
+                        3425386926,
+                        557221067
+                    ]
+                },
+                {
+                    "name": "Rampage, Onslaught",
+                    "ids": [
+                        3425386926,
+                        95528736
+                    ]
+                }
+            ],
             "trashcombos": [
                 {
                     "name": "Tap the Trigger",

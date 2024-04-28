@@ -323,6 +323,18 @@ dimwishlist:item=3652506829&perks=2284787283
 
 // Hammerhead
 
+// Fourth Time's the Charm, Killing Tally
+dimwishlist:item=1896309757&perks=1354429876,557221067
+// Fourth Time's the Charm, Onslaught
+dimwishlist:item=1896309757&perks=1354429876,95528736
+// Rewind Rounds, Killing Tally
+dimwishlist:item=1896309757&perks=3418782618,557221067
+// Rewind Rounds, Onslaught
+dimwishlist:item=1896309757&perks=3418782618,95528736
+// Rampage, Killing Tally
+dimwishlist:item=1896309757&perks=3425386926,557221067
+// Rampage, Onslaught
+dimwishlist:item=1896309757&perks=3425386926,95528736
 // Tap the Trigger
 dimwishlist:item=-1896309757&perks=1890422124
 // Loose Change
@@ -339,6 +351,18 @@ dimwishlist:item=-1896309757&perks=2048641572
 dimwishlist:item=-1896309757&perks=2779035018
 // Envious Assassin
 dimwishlist:item=-1896309757&perks=968510818
+// Fourth Time's the Charm, Killing Tally
+dimwishlist:item=211732170&perks=1354429876,557221067
+// Fourth Time's the Charm, Onslaught
+dimwishlist:item=211732170&perks=1354429876,95528736
+// Rewind Rounds, Killing Tally
+dimwishlist:item=211732170&perks=3418782618,557221067
+// Rewind Rounds, Onslaught
+dimwishlist:item=211732170&perks=3418782618,95528736
+// Rampage, Killing Tally
+dimwishlist:item=211732170&perks=3425386926,557221067
+// Rampage, Onslaught
+dimwishlist:item=211732170&perks=3425386926,95528736
 // Tap the Trigger
 dimwishlist:item=-211732170&perks=1890422124
 // Loose Change
