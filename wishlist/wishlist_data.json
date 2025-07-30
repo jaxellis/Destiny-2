@@ -561,6 +561,43 @@
     ],
     "Hand Cannon": [
         {
+            "name": "Phoneutria Fera",
+            "ids": [
+                3496887154
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Slideshot, One-Two Punch",
+                    "ids": [
+                        3161816588,
+                        2679249093
+                    ],
+                    "notes": "pve - Slidelock"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Proximity Power",
+                    "ids": [
+                        4190679284
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                },
+                {
+                    "name": "Barrel Constrictor",
+                    "ids": [
+                        1451849462
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Fatebringer",
             "ids": [
                 2171478765

@@ -235,6 +235,17 @@ dimwishlist:item=-568611922&perks=1821614984
 // Hand Cannon
 //////////////////////////
 
+// Phoneutria Fera
+
+// Slideshot, One-Two Punch
+dimwishlist:item=3496887154&perks=3161816588,2679249093#notes: pve - Slidelock
+// Proximity Power
+dimwishlist:item=-3496887154&perks=4190679284
+// Binary Orbit
+dimwishlist:item=-3496887154&perks=1546142478
+// Barrel Constrictor
+dimwishlist:item=-3496887154&perks=1451849462
+
 // Fatebringer
 
 // Firefly, Explosive Payload
