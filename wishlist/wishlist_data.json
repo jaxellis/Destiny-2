@@ -688,6 +688,32 @@
     ],
     "Fusion Rifle": [
         {
+            "name": "Zealot's Reward",
+            "ids": [
+                2720651699
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Auto-loading Holster, Controlled Burst",
+                    "ids": [
+                        3300816228,
+                        2594592626
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)",
+                    "ids": [
+                        3528046508,
+                        2037312142
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": []
+        },
+        {
             "name": "Nox Perennial V",
             "ids": [
                 2767393525
