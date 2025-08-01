@@ -239,8 +239,6 @@ dimwishlist:item=-568611922&perks=1821614984
 
 // Slideshot, One-Two Punch
 dimwishlist:item=3496887154&perks=3161816588,2679249093#notes: pve - Slidelock
-// Proximity Power
-dimwishlist:item=-3496887154&perks=4190679284
 // Binary Orbit
 dimwishlist:item=-3496887154&perks=1546142478
 // Barrel Constrictor
@@ -297,6 +295,13 @@ dimwishlist:item=-2499720827&perks=1168162263,4104185692
 //////////////////////////
 // Fusion Rifle
 //////////////////////////
+
+// Zealot's Reward
+
+// Auto-loading Holster, Controlled Burst
+dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
+// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
+dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
 
 // Nox Perennial V
 

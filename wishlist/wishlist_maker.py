@@ -1,10 +1,17 @@
 import json
 from typing import Any, Dict, List, Optional
+import logging
 
 WISHLIST_PREFIX_ITEM = "dimwishlist:item="
 WISHLIST_PREFIX_PERK = "&perks="
 FILE_NAME_OUTPUT = "wishlist.txt"
 FILE_NAME_INPUT = "wishlist_data.json"
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
 
 
 def open_file_as_json(file_path: str) -> Dict[str, List[Dict[str, Any]]]:
@@ -48,10 +55,10 @@ def main() -> None:
     try:
         wishlist_json: Any = open_file_as_json(FILE_NAME_INPUT)
     except FileNotFoundError:
-        print(f"Error: File '{FILE_NAME_INPUT}' not found.")
+        logging.error(f"File '{FILE_NAME_INPUT}' not found.")
         return
     except json.JSONDecodeError:
-        print(f"Error: File '{FILE_NAME_INPUT}' is not a valid JSON file.")
+        logging.error(f"File '{FILE_NAME_INPUT}' is not a valid JSON file.")
         return
 
     wishlist_data: str = ""
@@ -59,7 +66,7 @@ def main() -> None:
     for weapon, items in wishlist_json.items():
         wishlist_data += create_weapon_type(weapon)
         for item in items:
-            wishlist_data += f'// {item["name"]}\n\n'
+            wishlist_data += f"// {item['name']}\n\n"
             for item_id in item["ids"]:
                 if item["trash"]:
                     wishlist_data += f"{WISHLIST_PREFIX_ITEM}-{item_id}\n"
