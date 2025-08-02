@@ -337,6 +337,25 @@ dimwishlist:item=3652506829&perks=2284787283
 // Machine Gun
 //////////////////////////
 
+// Ulterior Observation
+
+// Headstone, Rimestealer
+dimwishlist:item=1079872540&perks=124408337,1955165503#notes: pve
+// Moving Target
+dimwishlist:item=-1079872540&perks=588594999
+// Built to Blast
+dimwishlist:item=-1079872540&perks=1918398421
+// Feeding Frenzy
+dimwishlist:item=-1079872540&perks=2779035018
+// Closing Time
+dimwishlist:item=-1079872540&perks=1194056669
+// Adagio
+dimwishlist:item=-1079872540&perks=3673922083
+// Dynamic Sway Reduction
+dimwishlist:item=-1079872540&perks=1359896290
+// Binary Orbit
+dimwishlist:item=-1079872540&perks=1546142478
+
 // Hammerhead
 
 // Fourth Time's the Charm, Killing Tally
