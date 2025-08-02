@@ -891,6 +891,25 @@ dimwishlist:item=-781498181
 dimwishlist:item=-4083045006
 dimwishlist:item=-2290863050
 
+// Praedyth's Revenge
+
+// Fourth Time's the Charm, Bait and Switch
+dimwishlist:item=3844610113&perks=1354429876,3078487919#notes: pve
+// No Distractions
+dimwishlist:item=-3844610113&perks=2866798147
+// Osmosis
+dimwishlist:item=-3844610113&perks=1774574192
+// Envious Arsenal
+dimwishlist:item=-3844610113&perks=3987942396
+// High-Impact Reserves
+dimwishlist:item=-3844610113&perks=2213355989
+// Frenzy
+dimwishlist:item=-3844610113&perks=4104185692
+// Opening Shot
+dimwishlist:item=-3844610113&perks=47981717
+// Precision Instrument
+dimwishlist:item=-3844610113&perks=555281244
+
 // Shepherd's Watch
 
 dimwishlist:item=-3743729616

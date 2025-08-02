@@ -2063,6 +2063,67 @@
             "trash": true
         },
         {
+            "name": "Praedyth's Revenge",
+            "ids": [
+                3844610113
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Fourth Time's the Charm, Bait and Switch",
+                    "ids": [
+                        1354429876,
+                        3078487919
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "No Distractions",
+                    "ids": [
+                        2866798147
+                    ]
+                },
+                {
+                    "name": "Osmosis",
+                    "ids": [
+                        1774574192
+                    ]
+                },
+                {
+                    "name": "Envious Arsenal",
+                    "ids": [
+                        3987942396
+                    ]
+                },
+                {
+                    "name": "High-Impact Reserves",
+                    "ids": [
+                        2213355989
+                    ]
+                },
+                {
+                    "name": "Frenzy",
+                    "ids": [
+                        4104185692
+                    ]
+                },
+                {
+                    "name": "Opening Shot",
+                    "ids": [
+                        47981717
+                    ]
+                },
+                {
+                    "name": "Precision Instrument",
+                    "ids": [
+                        555281244
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Shepherd's Watch",
             "ids": [
                 3743729616,
