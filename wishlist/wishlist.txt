@@ -2,6 +2,44 @@
 // Auto Rifle
 //////////////////////////
 
+// Abyss Defiant
+
+// Enlightened Action, Incandescent
+dimwishlist:item=833898322&perks=3828510309,4293542123#notes: pve - add clear
+// Subsistence, Incandescent
+dimwishlist:item=833898322&perks=1820235745,4293542123#notes: pve - add clear
+// Enlightened Action, Incandescent
+dimwishlist:item=833898322&perks=1771736209,2675184851#notes: pve - add clear - Crafted
+// Subsistence, Incandescent
+dimwishlist:item=833898322&perks=4245865861,2675184851#notes: pve - add clear - Crafted
+// Sword Logic
+dimwishlist:item=-833898322&perks=31345821
+// Target Lock
+dimwishlist:item=-833898322&perks=365154968
+// Swashbuckler
+dimwishlist:item=-833898322&perks=4082225868
+// Collective Action
+dimwishlist:item=-833898322&perks=3324494224
+// Eye of the Storm
+dimwishlist:item=-833898322&perks=699525795
+
+// Abyss Defiant (Adept)
+
+// Enlightened Action, Incandescent
+dimwishlist:item=3782662983&perks=3828510309,4293542123#notes: pve - add clear
+// Subsistence, Incandescent
+dimwishlist:item=3782662983&perks=1820235745,4293542123#notes: pve - add clear
+// Sword Logic
+dimwishlist:item=-3782662983&perks=31345821
+// Target Lock
+dimwishlist:item=-3782662983&perks=365154968
+// Swashbuckler
+dimwishlist:item=-3782662983&perks=4082225868
+// Collective Action
+dimwishlist:item=-3782662983&perks=3324494224
+// Eye of the Storm
+dimwishlist:item=-3782662983&perks=699525795
+
 // Breakneck
 
 // Subsistence, Kinetic Tremors
@@ -40,43 +78,34 @@ dimwishlist:item=-177568179&perks=3751912585
 // Adrenaline Junky
 dimwishlist:item=-177568179&perks=11612903
 
-// Abyss Defiant
+// No Hesitation
 
-// Enlightened Action, Incandescent
-dimwishlist:item=833898322&perks=3828510309,4293542123#notes: pve - add clear
-// Subsistence, Incandescent
-dimwishlist:item=833898322&perks=1820235745,4293542123#notes: pve - add clear
-// Enlightened Action, Incandescent
-dimwishlist:item=833898322&perks=1771736209,2675184851#notes: pve - add clear - Crafted
-// Subsistence, Incandescent
-dimwishlist:item=833898322&perks=4245865861,2675184851#notes: pve - add clear - Crafted
-// Sword Logic
-dimwishlist:item=-833898322&perks=31345821
-// Target Lock
-dimwishlist:item=-833898322&perks=365154968
-// Swashbuckler
-dimwishlist:item=-833898322&perks=4082225868
-// Collective Action
-dimwishlist:item=-833898322&perks=3324494224
-// Eye of the Storm
-dimwishlist:item=-833898322&perks=699525795
-
-// Abyss Defiant (Adept)
-
-// Enlightened Action, Incandescent
-dimwishlist:item=3782662983&perks=3828510309,4293542123#notes: pve - add clear
-// Subsistence, Incandescent
-dimwishlist:item=3782662983&perks=1820235745,4293542123#notes: pve - add clear
-// Sword Logic
-dimwishlist:item=-3782662983&perks=31345821
-// Target Lock
-dimwishlist:item=-3782662983&perks=365154968
-// Swashbuckler
-dimwishlist:item=-3782662983&perks=4082225868
-// Collective Action
-dimwishlist:item=-3782662983&perks=3324494224
-// Eye of the Storm
-dimwishlist:item=-3782662983&perks=699525795
+// Physic, Circle of Life
+dimwishlist:item=1801007332&perks=2980589453,2298656195#notes: pve - support - healing
+// Physic, Attrition Orbs
+dimwishlist:item=1801007332&perks=2980589453,243981275#notes: pve - support - healing
+// Demolitionist, Incandescent
+dimwishlist:item=1801007332&perks=3523296417,4293542123#notes: pve - add clear
+// Demolitionist, Attrition Orbs
+dimwishlist:item=1801007332&perks=3523296417,243981275#notes: pve - add clear
+// Subsistence
+dimwishlist:item=-1801007332&perks=1820235745
+// Ensemble
+dimwishlist:item=-1801007332&perks=2621346526
+// Grave Robber
+dimwishlist:item=-1801007332&perks=1631667848
+// Overflow
+dimwishlist:item=-1801007332&perks=3643424744
+// Strategist
+dimwishlist:item=-1801007332&perks=880644845
+// Frenzy
+dimwishlist:item=-1801007332&perks=4104185692
+// Disruption Break
+dimwishlist:item=-1801007332&perks=1683379515
+// Desperate Measures
+dimwishlist:item=-1801007332&perks=2109543898
+// Surrounded
+dimwishlist:item=-1801007332&perks=3708227201
 
 //////////////////////////
 // Bow

@@ -253,6 +253,103 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "No Hesitation",
+            "ids": [
+                1801007332
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Physic, Circle of Life",
+                    "ids": [
+                        2980589453,
+                        2298656195
+                    ],
+                    "notes": "pve - support - healing"
+                },
+                {
+                    "name": "Physic, Attrition Orbs",
+                    "ids": [
+                        2980589453,
+                        243981275
+                    ],
+                    "notes": "pve - support - healing"
+                },
+                {
+                    "name": "Demolitionist, Incandescent",
+                    "ids": [
+                        3523296417,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Demolitionist, Attrition Orbs",
+                    "ids": [
+                        3523296417,
+                        243981275
+                    ],
+                    "notes": "pve - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Subsistence",
+                    "ids": [
+                        1820235745
+                    ]
+                },
+                {
+                    "name": "Ensemble",
+                    "ids": [
+                        2621346526
+                    ]
+                },
+                {
+                    "name": "Grave Robber",
+                    "ids": [
+                        1631667848
+                    ]
+                },
+                {
+                    "name": "Overflow",
+                    "ids": [
+                        3643424744
+                    ]
+                },
+                {
+                    "name": "Strategist",
+                    "ids": [
+                        880644845
+                    ]
+                },
+                {
+                    "name": "Frenzy",
+                    "ids": [
+                        4104185692
+                    ]
+                },
+                {
+                    "name": "Disruption Break",
+                    "ids": [
+                        1683379515
+                    ]
+                },
+                {
+                    "name": "Desperate Measures",
+                    "ids": [
+                        2109543898
+                    ]
+                },
+                {
+                    "name": "Surrounded",
+                    "ids": [
+                        3708227201
+                    ]
+                }
+            ]
         }
     ],
     "Bow": [
