@@ -955,6 +955,10 @@ dimwishlist:item=-570866107&perks=280464955
 // Box Breathing
 dimwishlist:item=-570866107&perks=2551157718
 
+// Shoreline Dissident
+
+dimwishlist:item=-1193318082
+
 // The Domino
 
 dimwishlist:item=-2800870005
