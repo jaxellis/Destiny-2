@@ -801,6 +801,67 @@
     ],
     "Machine Gun": [
         {
+            "name": "Ulterior Observation",
+            "ids": [
+                1079872540
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Headstone, Rimestealer",
+                    "ids": [
+                        124408337,
+                        1955165503
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Built to Blast",
+                    "ids": [
+                        1918398421
+                    ]
+                },
+                {
+                    "name": "Feeding Frenzy",
+                    "ids": [
+                        2779035018
+                    ]
+                },
+                {
+                    "name": "Closing Time",
+                    "ids": [
+                        1194056669
+                    ]
+                },
+                {
+                    "name": "Adagio",
+                    "ids": [
+                        3673922083
+                    ]
+                },
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Hammerhead",
             "ids": [
                 1896309757,
