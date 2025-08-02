@@ -1738,9 +1738,7 @@
                 3007479950,
                 1389546626
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         }
     ],
     "Sidearm": [
@@ -2258,9 +2256,7 @@
             "ids": [
                 655712834
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         }
     ],
     "Sword": [
@@ -2270,18 +2266,14 @@
                 250721843,
                 1644160541
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         },
         {
             "name": "Double-edged Answer",
             "ids": [
                 105164264
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         },
         {
             "name": "Falling Guillotine",
@@ -2352,18 +2344,14 @@
             "ids": [
                 3637669759
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         },
         {
             "name": "Nasreddin",
             "ids": [
                 1456017061
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         },
         {
             "name": "The Slammer",
@@ -2480,9 +2468,7 @@
             "ids": [
                 4230993599
             ],
-            "trash": true,
-            "perkcombo": [],
-            "trashcombos": []
+            "trash": true
         }
     ]
 }
