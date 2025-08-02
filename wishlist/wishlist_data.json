@@ -1,130 +1,6 @@
 {
     "Auto Rifle": [
         {
-            "name": "Breakneck",
-            "ids": [
-                2026755633
-            ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Subsistence, Kinetic Tremors",
-                    "ids": [
-                        1820235745,
-                        3891536761
-                    ],
-                    "notes": "pve - add clear"
-                },
-                {
-                    "name": "Enlightened Action, Kinetic Tremors",
-                    "ids": [
-                        3828510309,
-                        3891536761
-                    ],
-                    "notes": "pve - add clear"
-                }
-            ],
-            "trashcombos": [
-                {
-                    "name": "Hip-Fire Grip",
-                    "ids": [
-                        1866048759
-                    ]
-                },
-                {
-                    "name": "Dynamic Sway Reduction",
-                    "ids": [
-                        1359896290
-                    ]
-                },
-                {
-                    "name": "Keep Away",
-                    "ids": [
-                        3619207468
-                    ]
-                },
-                {
-                    "name": "Eye of the Storm",
-                    "ids": [
-                        699525795
-                    ]
-                },
-                {
-                    "name": "Under Pressure",
-                    "ids": [
-                        1645158859
-                    ]
-                },
-                {
-                    "name": "Tap the Trigger",
-                    "ids": [
-                        1890422124
-                    ]
-                },
-                {
-                    "name": "Osmosis",
-                    "ids": [
-                        1774574192
-                    ]
-                },
-                {
-                    "name": "Moving Target",
-                    "ids": [
-                        588594999
-                    ]
-                },
-                {
-                    "name": "Adagio",
-                    "ids": [
-                        3673922083
-                    ]
-                },
-                {
-                    "name": "Target Lock",
-                    "ids": [
-                        365154968
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Horror Story",
-            "ids": [
-                177568179
-            ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Under-Over, Frenzy",
-                    "ids": [
-                        1870851715,
-                        4104185692
-                    ],
-                    "notes": "pve - champs"
-                }
-            ],
-            "trashcombos": [
-                {
-                    "name": "Dynamic Sway Reduction",
-                    "ids": [
-                        1359896290
-                    ]
-                },
-                {
-                    "name": "Cascade Point",
-                    "ids": [
-                        3751912585
-                    ]
-                },
-                {
-                    "name": "Adrenaline Junky",
-                    "ids": [
-                        11612903
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Abyss Defiant",
             "ids": [
                 833898322
@@ -250,6 +126,130 @@
                     "name": "Eye of the Storm",
                     "ids": [
                         699525795
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Breakneck",
+            "ids": [
+                2026755633
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Subsistence, Kinetic Tremors",
+                    "ids": [
+                        1820235745,
+                        3891536761
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Enlightened Action, Kinetic Tremors",
+                    "ids": [
+                        3828510309,
+                        3891536761
+                    ],
+                    "notes": "pve - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Hip-Fire Grip",
+                    "ids": [
+                        1866048759
+                    ]
+                },
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Keep Away",
+                    "ids": [
+                        3619207468
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                },
+                {
+                    "name": "Under Pressure",
+                    "ids": [
+                        1645158859
+                    ]
+                },
+                {
+                    "name": "Tap the Trigger",
+                    "ids": [
+                        1890422124
+                    ]
+                },
+                {
+                    "name": "Osmosis",
+                    "ids": [
+                        1774574192
+                    ]
+                },
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Adagio",
+                    "ids": [
+                        3673922083
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Horror Story",
+            "ids": [
+                177568179
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Under-Over, Frenzy",
+                    "ids": [
+                        1870851715,
+                        4104185692
+                    ],
+                    "notes": "pve - champs"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Dynamic Sway Reduction",
+                    "ids": [
+                        1359896290
+                    ]
+                },
+                {
+                    "name": "Cascade Point",
+                    "ids": [
+                        3751912585
+                    ]
+                },
+                {
+                    "name": "Adrenaline Junky",
+                    "ids": [
+                        11612903
                     ]
                 }
             ]
