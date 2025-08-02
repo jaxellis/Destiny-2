@@ -293,6 +293,29 @@ dimwishlist:item=-568611922&perks=3643424744
 // Slickdraw
 dimwishlist:item=-568611922&perks=1821614984
 
+// Outrageous Fortune
+
+// Enviouos Aresenal, Bait and Switch
+dimwishlist:item=4146673634&perks=3987942396,3078487919#notes: pve
+// Incandescent, Explosive Light
+dimwishlist:item=4146673634&perks=4293542123,3194351027#notes: pve
+// Incandescent, Chain Reaction
+dimwishlist:item=4146673634&perks=4293542123,2396489472#notes: pve
+// Impulse Amplifier
+dimwishlist:item=-4146673634&perks=951095735
+// Blast Distrinutor
+dimwishlist:item=-4146673634&perks=1017229899
+// Stats for All
+dimwishlist:item=-4146673634&perks=1583705720
+// Field Prep
+dimwishlist:item=-4146673634&perks=2869569095
+// Burning Ambition
+dimwishlist:item=-4146673634&perks=2890807135
+// Full Court
+dimwishlist:item=-4146673634&perks=2888557110
+// Binary Orbit
+dimwishlist:item=-4146673634&perks=1546142478
+
 // Theodolite
 
 // Reconstruction, Reaper's Tithe

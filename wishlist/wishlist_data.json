@@ -702,6 +702,83 @@
             ]
         },
         {
+            "name": "Outrageous Fortune",
+            "ids": [
+                4146673634
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Enviouos Aresenal, Bait and Switch",
+                    "ids": [
+                        3987942396,
+                        3078487919
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Incandescent, Explosive Light",
+                    "ids": [
+                        4293542123,
+                        3194351027
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Incandescent, Chain Reaction",
+                    "ids": [
+                        4293542123,
+                        2396489472
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Impulse Amplifier",
+                    "ids": [
+                        951095735
+                    ]
+                },
+                {
+                    "name": "Blast Distrinutor",
+                    "ids": [
+                        1017229899
+                    ]
+                },
+                {
+                    "name": "Stats for All",
+                    "ids": [
+                        1583705720
+                    ]
+                },
+                {
+                    "name": "Field Prep",
+                    "ids": [
+                        2869569095
+                    ]
+                },
+                {
+                    "name": "Burning Ambition",
+                    "ids": [
+                        2890807135
+                    ]
+                },
+                {
+                    "name": "Full Court",
+                    "ids": [
+                        2888557110
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Theodolite",
             "ids": [
                 1688858702
