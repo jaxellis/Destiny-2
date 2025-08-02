@@ -303,7 +303,7 @@ dimwishlist:item=4146673634&perks=4293542123,3194351027#notes: pve
 dimwishlist:item=4146673634&perks=4293542123,2396489472#notes: pve
 // Impulse Amplifier
 dimwishlist:item=-4146673634&perks=951095735
-// Blast Distrinutor
+// Blast Distributor
 dimwishlist:item=-4146673634&perks=1017229899
 // Stats for All
 dimwishlist:item=-4146673634&perks=1583705720
@@ -322,7 +322,7 @@ dimwishlist:item=-4146673634&perks=1546142478
 dimwishlist:item=1688858702&perks=1523832109,113508675#notes: pve
 // Eddy Current
 dimwishlist:item=-1688858702&perks=684456054
-// Blast Distrinutor
+// Blast Distributor
 dimwishlist:item=-1688858702&perks=1017229899
 // Reverberation
 dimwishlist:item=-1688858702&perks=563069569
@@ -651,6 +651,27 @@ dimwishlist:item=2883684343&perks=3891536761,3700496672#notes: pve
 
 dimwishlist:item=-3007479950
 dimwishlist:item=-1389546626
+
+//////////////////////////
+// Sidearm
+//////////////////////////
+
+// Returned Memory
+
+// Lead from Gold, Burning Ambition
+dimwishlist:item=4049127142&perks=1556840489,2890807135#notes: pve
+// Beacon Rounds
+dimwishlist:item=-4049127142&perks=2859149211
+// Impulse Amplifier
+dimwishlist:item=-4049127142&perks=951095735
+// Blast Distributor
+dimwishlist:item=-4049127142&perks=1017229899
+// Adagio
+dimwishlist:item=-4049127142&perks=3673922083
+// Desperate Measures
+dimwishlist:item=-4049127142&perks=2109543898
+// One For All
+dimwishlist:item=-4049127142&perks=4049631843
 
 //////////////////////////
 // Shotgun
