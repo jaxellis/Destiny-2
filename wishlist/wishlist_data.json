@@ -684,6 +684,37 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Word of Crota",
+            "ids": [
+                120706239
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Dragonfly, Destabalizing Rounds",
+                    "ids": [
+                        2848615171,
+                        2048641572
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Sword Logic",
+                    "ids": [
+                        31345821
+                    ]
+                },
+                {
+                    "name": "Precision Instrument",
+                    "ids": [
+                        555281244
+                    ]
+                }
+            ]
         }
     ],
     "Fusion Rifle": [
@@ -784,7 +815,7 @@
             "trash": false,
             "perkcombo": [
                 {
-                    "name": "Envious Arsenal, Prescision Instrument",
+                    "name": "Envious Arsenal, Precision Instrument",
                     "ids": [
                         3987942396,
                         555281244
