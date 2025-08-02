@@ -82,6 +82,29 @@ dimwishlist:item=-3782662983&perks=699525795
 // Bow
 //////////////////////////
 
+// Non-Denouement
+
+// Dragonfly, Chaos Reshaped
+dimwishlist:item=1770490683&perks=2848615171,3640170453#notes: pve
+// Dragonfly (Enhanced), Chaos Reshaped (Enhanced)
+dimwishlist:item=1770490683&perks=169755979,1817983009#notes: pve
+// Strategist
+dimwishlist:item=-1770490683&perks=880644845
+// Hip-Fire Grip
+dimwishlist:item=-1770490683&perks=1866048759
+// Opening Shot
+dimwishlist:item=-1770490683&perks=47981717
+// Impulse Amplifier
+dimwishlist:item=-1770490683&perks=951095735
+// Moving Target
+dimwishlist:item=-1770490683&perks=588594999
+// Archer's Gambit
+dimwishlist:item=-1770490683&perks=3414324643
+// Desperate Measures
+dimwishlist:item=-1770490683&perks=2109543898
+// One For All
+dimwishlist:item=-1770490683&perks=4049631843
+
 // Pre Astyanax IV (Adept)
 
 // Archer's Tempo, Incandescent

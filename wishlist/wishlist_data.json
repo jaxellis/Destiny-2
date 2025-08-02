@@ -257,6 +257,81 @@
     ],
     "Bow": [
         {
+            "name": "Non-Denouement",
+            "ids": [
+                1770490683
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Dragonfly, Chaos Reshaped",
+                    "ids": [
+                        2848615171,
+                        3640170453
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Dragonfly (Enhanced), Chaos Reshaped (Enhanced)",
+                    "ids": [
+                        169755979,
+                        1817983009
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Strategist",
+                    "ids": [
+                        880644845
+                    ]
+                },
+                {
+                    "name": "Hip-Fire Grip",
+                    "ids": [
+                        1866048759
+                    ]
+                },
+                {
+                    "name": "Opening Shot",
+                    "ids": [
+                        47981717
+                    ]
+                },
+                {
+                    "name": "Impulse Amplifier",
+                    "ids": [
+                        951095735
+                    ]
+                },
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Archer's Gambit",
+                    "ids": [
+                        3414324643
+                    ]
+                },
+                {
+                    "name": "Desperate Measures",
+                    "ids": [
+                        2109543898
+                    ]
+                },
+                {
+                    "name": "One For All",
+                    "ids": [
+                        4049631843
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Pre Astyanax IV (Adept)",
             "ids": [
                 496556698
