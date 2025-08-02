@@ -1743,6 +1743,42 @@
     ],
     "Sidearm": [
         {
+            "name": "A Swift Verdict",
+            "ids": [
+                1626503676,
+                3854037061
+            ],
+            "trash": true
+        },
+        {
+            "name": "Empirical Evidence",
+            "ids": [
+                2607304614
+            ],
+            "trash": true
+        },
+        {
+            "name": "Farewell",
+            "ids": [
+                541188001
+            ],
+            "trash": true
+        },
+        {
+            "name": "Fioritura-59",
+            "ids": [
+                2566006935
+            ],
+            "trash": true
+        },
+        {
+            "name": "High Albedo",
+            "ids": [
+                1197486957
+            ],
+            "trash": true
+        },
+        {
             "name": "Returned Memory",
             "ids": [
                 4049127142
@@ -1796,6 +1832,23 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "The Fool's Remedy",
+            "ids": [
+                65611680,
+                3424403076
+            ],
+            "trash": true
+        },
+        {
+            "name": "The Last Dance",
+            "ids": [
+                2009277538,
+                1699493316,
+                3967155859
+            ],
+            "trash": true
         }
     ],
     "Shotgun": [

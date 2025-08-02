@@ -729,6 +729,27 @@ dimwishlist:item=-1389546626
 // Sidearm
 //////////////////////////
 
+// A Swift Verdict
+
+dimwishlist:item=-1626503676
+dimwishlist:item=-3854037061
+
+// Empirical Evidence
+
+dimwishlist:item=-2607304614
+
+// Farewell
+
+dimwishlist:item=-541188001
+
+// Fioritura-59
+
+dimwishlist:item=-2566006935
+
+// High Albedo
+
+dimwishlist:item=-1197486957
+
 // Returned Memory
 
 // Lead from Gold, Burning Ambition
@@ -745,6 +766,17 @@ dimwishlist:item=-4049127142&perks=3673922083
 dimwishlist:item=-4049127142&perks=2109543898
 // One For All
 dimwishlist:item=-4049127142&perks=4049631843
+
+// The Fool's Remedy
+
+dimwishlist:item=-65611680
+dimwishlist:item=-3424403076
+
+// The Last Dance
+
+dimwishlist:item=-2009277538
+dimwishlist:item=-1699493316
+dimwishlist:item=-3967155859
 
 //////////////////////////
 // Shotgun
