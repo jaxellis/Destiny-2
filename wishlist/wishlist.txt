@@ -971,9 +971,17 @@ dimwishlist:item=-655712834
 dimwishlist:item=-250721843
 dimwishlist:item=-1644160541
 
+// Chivalric Fire
+
+dimwishlist:item=-3438139008
+
 // Double-edged Answer
 
 dimwishlist:item=-105164264
+
+// Dragoncult Sickle
+
+dimwishlist:item=-3668817296
 
 // Falling Guillotine
 
@@ -1014,9 +1022,22 @@ dimwishlist:item=-1815105249&perks=3705817207
 
 dimwishlist:item=-3637669759
 
+// Hero of Ages
+
+dimwishlist:item=-2139640995
+
 // Nasreddin
 
 dimwishlist:item=-1456017061
+
+// Quickfang
+
+dimwishlist:item=-2782325300
+dimwishlist:item=-1180270692
+
+// Razor's Edge
+
+dimwishlist:item=-1796949035
 
 // The Slammer
 
@@ -1052,7 +1073,16 @@ dimwishlist:item=-1354727549&perks=3324494224
 // One For All
 dimwishlist:item=-1354727549&perks=4049631843
 
+// Sola's Scar
+
+dimwishlist:item=-1313528549
+dimwishlist:item=-3847137620
+
 // Steel Sybil Z-14
 
 dimwishlist:item=-4230993599
+
+// Thin Precipice
+
+dimwishlist:item=-4066778670
 

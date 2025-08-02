@@ -2269,9 +2269,23 @@
             "trash": true
         },
         {
+            "name": "Chivalric Fire",
+            "ids": [
+                3438139008
+            ],
+            "trash": true
+        },
+        {
             "name": "Double-edged Answer",
             "ids": [
                 105164264
+            ],
+            "trash": true
+        },
+        {
+            "name": "Dragoncult Sickle",
+            "ids": [
+                3668817296
             ],
             "trash": true
         },
@@ -2347,9 +2361,31 @@
             "trash": true
         },
         {
+            "name": "Hero of Ages",
+            "ids": [
+                2139640995
+            ],
+            "trash": true
+        },
+        {
             "name": "Nasreddin",
             "ids": [
                 1456017061
+            ],
+            "trash": true
+        },
+        {
+            "name": "Quickfang",
+            "ids": [
+                2782325300,
+                1180270692
+            ],
+            "trash": true
+        },
+        {
+            "name": "Razor's Edge",
+            "ids": [
+                1796949035
             ],
             "trash": true
         },
@@ -2464,9 +2500,24 @@
             ]
         },
         {
+            "name": "Sola's Scar",
+            "ids": [
+                1313528549,
+                3847137620
+            ],
+            "trash": true
+        },
+        {
             "name": "Steel Sybil Z-14",
             "ids": [
                 4230993599
+            ],
+            "trash": true
+        },
+        {
+            "name": "Thin Precipice",
+            "ids": [
+                4066778670
             ],
             "trash": true
         }
