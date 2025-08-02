@@ -725,6 +725,32 @@ dimwishlist:item=-3356526253
 // Sniper Rifle
 //////////////////////////
 
+// 1000 Yard Stare
+
+dimwishlist:item=-4164201232
+
+// Apostate
+
+dimwishlist:item=-2164448701
+
+// Beloved
+
+dimwishlist:item=-3107853529
+dimwishlist:item=-4190932264
+
+// Eye of Sol
+
+dimwishlist:item=-627188188
+dimwishlist:item=-1321626661
+dimwishlist:item=-1401300690
+dimwishlist:item=-2059255495
+dimwishlist:item=-3637570176
+dimwishlist:item=-3164743584
+
+// Gallu RR3
+
+dimwishlist:item=-617501162
+
 // Irukandji
 
 // Fourth Time's the Charm, Firing Line
@@ -745,6 +771,30 @@ dimwishlist:item=-2673925403&perks=2896038713
 dimwishlist:item=-2673925403&perks=699525795
 // Opening Shot
 dimwishlist:item=-2673925403&perks=47981717
+
+// Long Shadow
+
+dimwishlist:item=-3745990145
+
+// Mercurial Overreach
+
+dimwishlist:item=-2073794990
+
+// Persuader
+
+dimwishlist:item=-781498181
+dimwishlist:item=-4083045006
+dimwishlist:item=-2290863050
+
+// Shepherd's Watch
+
+dimwishlist:item=-3743729616
+dimwishlist:item=-3312073053
+
+// Sole Survivor
+
+dimwishlist:item=-1150492185
+dimwishlist:item=-1115104187
 
 // Succession
 
@@ -780,6 +830,14 @@ dimwishlist:item=-570866107&perks=2866798147
 dimwishlist:item=-570866107&perks=280464955
 // Box Breathing
 dimwishlist:item=-570866107&perks=2551157718
+
+// The Domino
+
+dimwishlist:item=-2800870005
+
+// Widow's Bite
+
+dimwishlist:item=-1271343896
 
 //////////////////////////
 // Submachine Gun

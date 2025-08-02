@@ -1730,6 +1730,47 @@
     ],
     "Sniper Rifle": [
         {
+            "name": "1000 Yard Stare",
+            "ids": [
+                4164201232
+            ],
+            "trash": true
+        },
+        {
+            "name": "Apostate",
+            "ids": [
+                2164448701
+            ],
+            "trash": true
+        },
+        {
+            "name": "Beloved",
+            "ids": [
+                3107853529,
+                4190932264
+            ],
+            "trash": true
+        },
+        {
+            "name": "Eye of Sol",
+            "ids": [
+                627188188,
+                1321626661,
+                1401300690,
+                2059255495,
+                3637570176,
+                3164743584
+            ],
+            "trash": true
+        },
+        {
+            "name": "Gallu RR3",
+            "ids": [
+                617501162
+            ],
+            "trash": true
+        },
+        {
             "name": "Irukandji",
             "ids": [
                 2673925403
@@ -1797,6 +1838,45 @@
             ]
         },
         {
+            "name": "Long Shadow",
+            "ids": [
+                3745990145
+            ],
+            "trash": true
+        },
+        {
+            "name": "Mercurial Overreach",
+            "ids": [
+                2073794990
+            ],
+            "trash": true
+        },
+        {
+            "name": "Persuader",
+            "ids": [
+                781498181,
+                4083045006,
+                2290863050
+            ],
+            "trash": true
+        },
+        {
+            "name": "Shepherd's Watch",
+            "ids": [
+                3743729616,
+                3312073053
+            ],
+            "trash": true
+        },
+        {
+            "name": "Sole Survivor",
+            "ids": [
+                1150492185,
+                1115104187
+            ],
+            "trash": true
+        },
+        {
             "name": "Succession",
             "ids": [
                 3612338554,
@@ -1861,6 +1941,20 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "The Domino",
+            "ids": [
+                2800870005
+            ],
+            "trash": true
+        },
+        {
+            "name": "Widow's Bite",
+            "ids": [
+                1271343896
+            ],
+            "trash": true
         }
     ],
     "Submachine Gun": [
