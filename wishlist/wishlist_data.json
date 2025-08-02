@@ -501,24 +501,6 @@
             ]
         },
         {
-            "name": "Hullabaloo",
-            "ids": [
-                657927352
-            ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Chain Reaction, Voltshot",
-                    "ids": [
-                        2173046394,
-                        2396489472
-                    ],
-                    "notes": ""
-                }
-            ],
-            "trashcombos": []
-        },
-        {
             "name": "Forbearance",
             "ids": [
                 568611921,
@@ -619,6 +601,24 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Hullabaloo",
+            "ids": [
+                657927352
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Chain Reaction, Voltshot",
+                    "ids": [
+                        2173046394,
+                        2396489472
+                    ],
+                    "notes": ""
+                }
+            ],
+            "trashcombos": []
         },
         {
             "name": "Mountain Top",
