@@ -777,6 +777,61 @@
     ],
     "Linear Fusion Rifle": [
         {
+            "name": "Boomslang-4fr",
+            "ids": [
+                3926153598
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Envious Arsenal, Prescision Instrument",
+                    "ids": [
+                        3987942396,
+                        555281244
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Transcendent Moment",
+                    "ids": [
+                        3731491409
+                    ]
+                },
+                {
+                    "name": "Rolling Storm",
+                    "ids": [
+                        3218042543
+                    ]
+                },
+                {
+                    "name": "Field Prep",
+                    "ids": [
+                        2869569095
+                    ]
+                },
+                {
+                    "name": "Heating Up",
+                    "ids": [
+                        1570042021
+                    ]
+                },
+                {
+                    "name": "Successful Warm-Up",
+                    "ids": [
+                        2652708987
+                    ]
+                },
+                {
+                    "name": "Jolting Feedback",
+                    "ids": [
+                        3966416502
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Stormchaser",
             "ids": [
                 3652506829

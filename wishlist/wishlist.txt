@@ -326,6 +326,23 @@ dimwishlist:item=-2767393525&perks=1754714824
 // Linear Fusion Rifle
 //////////////////////////
 
+// Boomslang-4fr
+
+// Envious Arsenal, Prescision Instrument
+dimwishlist:item=3926153598&perks=3987942396,555281244#notes: pve
+// Transcendent Moment
+dimwishlist:item=-3926153598&perks=3731491409
+// Rolling Storm
+dimwishlist:item=-3926153598&perks=3218042543
+// Field Prep
+dimwishlist:item=-3926153598&perks=2869569095
+// Heating Up
+dimwishlist:item=-3926153598&perks=1570042021
+// Successful Warm-Up
+dimwishlist:item=-3926153598&perks=2652708987
+// Jolting Feedback
+dimwishlist:item=-3926153598&perks=3966416502
+
 // Stormchaser
 
 // Auto-loading
