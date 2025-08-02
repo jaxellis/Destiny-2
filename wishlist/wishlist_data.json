@@ -700,6 +700,67 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Theodolite",
+            "ids": [
+                1688858702
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Reconstruction, Reaper's Tithe",
+                    "ids": [
+                        1523832109,
+                        113508675
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Eddy Current",
+                    "ids": [
+                        684456054
+                    ]
+                },
+                {
+                    "name": "Blast Distrinutor",
+                    "ids": [
+                        1017229899
+                    ]
+                },
+                {
+                    "name": "Reverberation",
+                    "ids": [
+                        563069569
+                    ]
+                },
+                {
+                    "name": "Transcendent Moment",
+                    "ids": [
+                        3731491409
+                    ]
+                },
+                {
+                    "name": "Voltshot",
+                    "ids": [
+                        2173046394
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                },
+                {
+                    "name": "Rolling Storm",
+                    "ids": [
+                        3218042543
+                    ]
+                }
+            ]
         }
     ],
     "Hand Cannon": [

@@ -186,11 +186,6 @@ dimwishlist:item=-3977654524&perks=1546637391
 // Attrition Orbs
 dimwishlist:item=-3977654524&perks=243981275
 
-// Hullabaloo
-
-// Chain Reaction, Voltshot
-dimwishlist:item=657927352&perks=2173046394,2396489472
-
 // Forbearance
 
 // Demolitionist, Chain Reaction
@@ -250,6 +245,11 @@ dimwishlist:item=-2480074702&perks=3425386926
 // Desperate Measures
 dimwishlist:item=-2480074702&perks=2109543898
 
+// Hullabaloo
+
+// Chain Reaction, Voltshot
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
 // Mountain Top
 
 // Spike Grenades, Auto-loading Holster, Frenzy
@@ -292,6 +292,25 @@ dimwishlist:item=-568611922&perks=438098033
 dimwishlist:item=-568611922&perks=3643424744
 // Slickdraw
 dimwishlist:item=-568611922&perks=1821614984
+
+// Theodolite
+
+// Reconstruction, Reaper's Tithe
+dimwishlist:item=1688858702&perks=1523832109,113508675#notes: pve
+// Eddy Current
+dimwishlist:item=-1688858702&perks=684456054
+// Blast Distrinutor
+dimwishlist:item=-1688858702&perks=1017229899
+// Reverberation
+dimwishlist:item=-1688858702&perks=563069569
+// Transcendent Moment
+dimwishlist:item=-1688858702&perks=3731491409
+// Voltshot
+dimwishlist:item=-1688858702&perks=2173046394
+// Binary Orbit
+dimwishlist:item=-1688858702&perks=1546142478
+// Rolling Storm
+dimwishlist:item=-1688858702&perks=3218042543
 
 //////////////////////////
 // Hand Cannon
