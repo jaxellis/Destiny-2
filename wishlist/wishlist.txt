@@ -2,6 +2,31 @@
 // Auto Rifle
 //////////////////////////
 
+// Adamantite
+
+// Reciprocity, Circle of Life, Runneth Over
+dimwishlist:item=2987244302&perks=692399809,2298656195,120721526#notes: pve - support - healing
+// Reciprocity, Attrition Orbs, Runneth Over
+dimwishlist:item=2987244302&perks=692399809,243981275,120721526#notes: pve - support - healing
+// Demolitionist, Tear, Runneth Over
+dimwishlist:item=2987244302&perks=3523296417,960997401,120721526#notes: pve - add clear
+// Demolitionist, Attrition Orbs, Runneth Over
+dimwishlist:item=2987244302&perks=3523296417,243981275,120721526#notes: pve - add clear
+// Unrelenting
+dimwishlist:item=-2987244302&perks=3108830275
+// Subsistence
+dimwishlist:item=-2987244302&perks=1820235745
+// Ensemble
+dimwishlist:item=-2987244302&perks=2621346526
+// Pugilst
+dimwishlist:item=-2987244302&perks=691659142
+// Kill Clip
+dimwishlist:item=-2987244302&perks=1015611457
+// Elemental Honing
+dimwishlist:item=-2987244302&perks=1089671869
+// Hatchling
+dimwishlist:item=-2987244302&perks=831391274
+
 // Abyss Defiant
 
 // Enlightened Action, Incandescent

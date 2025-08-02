@@ -1,6 +1,95 @@
 {
     "Auto Rifle": [
         {
+            "name": "Adamantite",
+            "ids": [
+                2987244302
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Reciprocity, Circle of Life, Runneth Over",
+                    "ids": [
+                        692399809,
+                        2298656195,
+                        120721526
+                    ],
+                    "notes": "pve - support - healing"
+                },
+                {
+                    "name": "Reciprocity, Attrition Orbs, Runneth Over",
+                    "ids": [
+                        692399809,
+                        243981275,
+                        120721526
+                    ],
+                    "notes": "pve - support - healing"
+                },
+                {
+                    "name": "Demolitionist, Tear, Runneth Over",
+                    "ids": [
+                        3523296417,
+                        960997401,
+                        120721526
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Demolitionist, Attrition Orbs, Runneth Over",
+                    "ids": [
+                        3523296417,
+                        243981275,
+                        120721526
+                    ],
+                    "notes": "pve - add clear"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Unrelenting",
+                    "ids": [
+                        3108830275
+                    ]
+                },
+                {
+                    "name": "Subsistence",
+                    "ids": [
+                        1820235745
+                    ]
+                },
+                {
+                    "name": "Ensemble",
+                    "ids": [
+                        2621346526
+                    ]
+                },
+                {
+                    "name": "Pugilst",
+                    "ids": [
+                        691659142
+                    ]
+                },
+                {
+                    "name": "Kill Clip",
+                    "ids": [
+                        1015611457
+                    ]
+                },
+                {
+                    "name": "Elemental Honing",
+                    "ids": [
+                        1089671869
+                    ]
+                },
+                {
+                    "name": "Hatchling",
+                    "ids": [
+                        831391274
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Abyss Defiant",
             "ids": [
                 833898322
