@@ -1651,9 +1651,79 @@
     ],
     "Shotgun": [
         {
+            "name": "Astral Horizon",
+            "ids": [
+                2653171213
+            ],
+            "trash": true
+        },
+        {
+            "name": "Blasphemer",
+            "ids": [
+                2782847179
+            ],
+            "trash": true
+        },
+        {
+            "name": "Bonechiller",
+            "ids": [
+                4037745684
+            ],
+            "trash": true
+        },
+        {
+            "name": "Felwinter's Lie",
+            "ids": [
+                1179141605
+            ],
+            "trash": true
+        },
+        {
             "name": "Hand in Hand",
             "ids": [
                 664109750
+            ],
+            "trash": true
+        },
+        {
+            "name": "Last Man Standing",
+            "ids": [
+                4287947559
+            ],
+            "trash": true
+        },
+        {
+            "name": "Mindbender's Ambition",
+            "ids": [
+                1586231351
+            ],
+            "trash": true
+        },
+        {
+            "name": "No Reprieve",
+            "ids": [
+                2531963421
+            ],
+            "trash": true
+        },
+        {
+            "name": "Reckless Endangerment",
+            "ids": [
+                3216652511
+            ],
+            "trash": true
+        },
+        {
+            "name": "Toil and Trouble",
+            "ids": [
+                2957367743
+            ],
+            "trash": true
+        },
+        {
+            "name": "Wishbringer",
+            "ids": [
+                3356526253
             ],
             "trash": true
         }

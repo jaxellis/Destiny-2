@@ -677,9 +677,49 @@ dimwishlist:item=-4049127142&perks=4049631843
 // Shotgun
 //////////////////////////
 
+// Astral Horizon
+
+dimwishlist:item=-2653171213
+
+// Blasphemer
+
+dimwishlist:item=-2782847179
+
+// Bonechiller
+
+dimwishlist:item=-4037745684
+
+// Felwinter's Lie
+
+dimwishlist:item=-1179141605
+
 // Hand in Hand
 
 dimwishlist:item=-664109750
+
+// Last Man Standing
+
+dimwishlist:item=-4287947559
+
+// Mindbender's Ambition
+
+dimwishlist:item=-1586231351
+
+// No Reprieve
+
+dimwishlist:item=-2531963421
+
+// Reckless Endangerment
+
+dimwishlist:item=-3216652511
+
+// Toil and Trouble
+
+dimwishlist:item=-2957367743
+
+// Wishbringer
+
+dimwishlist:item=-3356526253
 
 //////////////////////////
 // Sniper Rifle
