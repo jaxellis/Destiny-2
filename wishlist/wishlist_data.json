@@ -433,6 +433,74 @@
             ]
         },
         {
+            "name": "Festival Flight",
+            "ids": [
+                4019651319,
+                3977654524
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Demolitionist, Hatchling",
+                    "ids": [
+                        3523296417,
+                        831391274
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Recycled Energy",
+                    "ids": [
+                        3713215006
+                    ]
+                },
+                {
+                    "name": "Transcendent Moment",
+                    "ids": [
+                        3731491409
+                    ]
+                },
+                {
+                    "name": "Envious Arsenal",
+                    "ids": [
+                        3987942396
+                    ]
+                },
+                {
+                    "name": "Ambitious Assassin",
+                    "ids": [
+                        2010801679
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                },
+                {
+                    "name": "Frenzy",
+                    "ids": [
+                        4104185692
+                    ]
+                },
+                {
+                    "name": "Vorpal Weapon",
+                    "ids": [
+                        1546637391
+                    ]
+                },
+                {
+                    "name": "Attrition Orbs",
+                    "ids": [
+                        243981275
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Hullabaloo",
             "ids": [
                 657927352

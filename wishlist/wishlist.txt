@@ -124,11 +124,6 @@ dimwishlist:item=-496556698&perks=47981717
 // Grenade Launcher
 //////////////////////////
 
-// Hullabaloo
-
-// Chain Reaction, Voltshot
-dimwishlist:item=657927352&perks=2173046394,2396489472
-
 // Edge Transit
 
 // Hard Launch, Chain Reaction, Deconstruct
@@ -151,6 +146,50 @@ dimwishlist:item=-2228325504&perks=776531651
 dimwishlist:item=-2228325504&perks=2048641572
 // Adrenaline Junky
 dimwishlist:item=-2228325504&perks=11612903
+
+// Festival Flight
+
+// Demolitionist, Hatchling
+dimwishlist:item=4019651319&perks=3523296417,831391274#notes: pve
+// Recycled Energy
+dimwishlist:item=-4019651319&perks=3713215006
+// Transcendent Moment
+dimwishlist:item=-4019651319&perks=3731491409
+// Envious Arsenal
+dimwishlist:item=-4019651319&perks=3987942396
+// Ambitious Assassin
+dimwishlist:item=-4019651319&perks=2010801679
+// Binary Orbit
+dimwishlist:item=-4019651319&perks=1546142478
+// Frenzy
+dimwishlist:item=-4019651319&perks=4104185692
+// Vorpal Weapon
+dimwishlist:item=-4019651319&perks=1546637391
+// Attrition Orbs
+dimwishlist:item=-4019651319&perks=243981275
+// Demolitionist, Hatchling
+dimwishlist:item=3977654524&perks=3523296417,831391274#notes: pve
+// Recycled Energy
+dimwishlist:item=-3977654524&perks=3713215006
+// Transcendent Moment
+dimwishlist:item=-3977654524&perks=3731491409
+// Envious Arsenal
+dimwishlist:item=-3977654524&perks=3987942396
+// Ambitious Assassin
+dimwishlist:item=-3977654524&perks=2010801679
+// Binary Orbit
+dimwishlist:item=-3977654524&perks=1546142478
+// Frenzy
+dimwishlist:item=-3977654524&perks=4104185692
+// Vorpal Weapon
+dimwishlist:item=-3977654524&perks=1546637391
+// Attrition Orbs
+dimwishlist:item=-3977654524&perks=243981275
+
+// Hullabaloo
+
+// Chain Reaction, Voltshot
+dimwishlist:item=657927352&perks=2173046394,2396489472
 
 // Forbearance
 
