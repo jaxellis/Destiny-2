@@ -1008,30 +1008,55 @@
     ],
     "Fusion Rifle": [
         {
-            "name": "Zealot's Reward",
+            "name": "Aurvandil FR6",
             "ids": [
-                2720651699
+                963710795
             ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Auto-loading Holster, Controlled Burst",
-                    "ids": [
-                        3300816228,
-                        2594592626
-                    ],
-                    "notes": "pve"
-                },
-                {
-                    "name": "Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)",
-                    "ids": [
-                        3528046508,
-                        2037312142
-                    ],
-                    "notes": "pve"
-                }
+            "trash": true
+        },
+        {
+            "name": "Coriolis Force",
+            "ids": [
+                3512349612
             ],
-            "trashcombos": []
+            "trash": true
+        },
+        {
+            "name": "Dream Breaker",
+            "ids": [
+                2931957300
+            ],
+            "trash": true
+        },
+        {
+            "name": "Hollow Words",
+            "ids": [
+                342027677,
+                607191995
+            ],
+            "trash": true
+        },
+        {
+            "name": "Iota Draconis",
+            "ids": [
+                3044460004
+            ],
+            "trash": true
+        },
+        {
+            "name": "Likely Suspect",
+            "ids": [
+                1994645182
+            ],
+            "trash": true
+        },
+        {
+            "name": "Main Ingredient",
+            "ids": [
+                253196586,
+                3445437901
+            ],
+            "trash": true
         },
         {
             "name": "Nox Perennial V",
@@ -1093,6 +1118,132 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Snorri FR5",
+            "ids": [
+                4114929480
+            ],
+            "trash": true
+        },
+        {
+            "name": "The Epicurean",
+            "ids": [
+                2263839058,
+                4124357815
+            ],
+            "trash": true
+        },
+        {
+            "name": "The Wizened Rebuke",
+            "ids": [
+                2290416,
+                1999697514,
+                930590127,
+                2961807684
+            ],
+            "trash": true
+        },
+        {
+            "name": "Timelines' Vertex",
+            "ids": [
+                3055192515
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Firmly Planted, Snapshot Sights",
+                    "ids": [
+                        280464955,
+                        957782887
+                    ],
+                    "notes": "pvp"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Field Prep",
+                    "ids": [
+                        2869569095
+                    ]
+                },
+                {
+                    "name": "Shield Disorient",
+                    "ids": [
+                        3275789089
+                    ]
+                },
+                {
+                    "name": "Lead from Gold",
+                    "ids": [
+                        1556840489
+                    ]
+                },
+                {
+                    "name": "Auto-loading Holster",
+                    "ids": [
+                        3300816228
+                    ]
+                },
+                {
+                    "name": "Elemental Capacitor",
+                    "ids": [
+                        3511092054
+                    ]
+                },
+                {
+                    "name": "Disruption Break",
+                    "ids": [
+                        1683379515
+                    ]
+                },
+                {
+                    "name": "Demolitionist",
+                    "ids": [
+                        3523296417
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Timelines' Vertex (S1Y1)",
+            "ids": [
+                1006783454
+            ],
+            "trash": true
+        },
+        {
+            "name": "Trinary System",
+            "ids": [
+                3258665412
+            ],
+            "trash": true
+        },
+        {
+            "name": "Zealot's Reward",
+            "ids": [
+                2720651699
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Auto-loading Holster, Controlled Burst",
+                    "ids": [
+                        3300816228,
+                        2594592626
+                    ],
+                    "notes": "pve"
+                },
+                {
+                    "name": "Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)",
+                    "ids": [
+                        3528046508,
+                        2037312142
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": []
         }
     ],
     "Linear Fusion Rifle": [
@@ -1159,7 +1310,7 @@
             "trash": false,
             "perkcombo": [
                 {
-                    "name": "Auto-loading",
+                    "name": "Auto-loading Holster",
                     "ids": [
                         3300816228
                     ]

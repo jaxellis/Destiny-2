@@ -411,12 +411,35 @@ dimwishlist:item=-120706239&perks=555281244
 // Fusion Rifle
 //////////////////////////
 
-// Zealot's Reward
+// Aurvandil FR6
 
-// Auto-loading Holster, Controlled Burst
-dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
-// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
-dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
+dimwishlist:item=-963710795
+
+// Coriolis Force
+
+dimwishlist:item=-3512349612
+
+// Dream Breaker
+
+dimwishlist:item=-2931957300
+
+// Hollow Words
+
+dimwishlist:item=-342027677
+dimwishlist:item=-607191995
+
+// Iota Draconis
+
+dimwishlist:item=-3044460004
+
+// Likely Suspect
+
+dimwishlist:item=-1994645182
+
+// Main Ingredient
+
+dimwishlist:item=-253196586
+dimwishlist:item=-3445437901
 
 // Nox Perennial V
 
@@ -436,6 +459,56 @@ dimwishlist:item=-2767393525&perks=1645158859
 dimwishlist:item=-2767393525&perks=3324494224
 // Kickstart
 dimwishlist:item=-2767393525&perks=1754714824
+
+// Snorri FR5
+
+dimwishlist:item=-4114929480
+
+// The Epicurean
+
+dimwishlist:item=-2263839058
+dimwishlist:item=-4124357815
+
+// The Wizened Rebuke
+
+dimwishlist:item=-2290416
+dimwishlist:item=-1999697514
+dimwishlist:item=-930590127
+dimwishlist:item=-2961807684
+
+// Timelines' Vertex
+
+// Firmly Planted, Snapshot Sights
+dimwishlist:item=3055192515&perks=280464955,957782887#notes: pvp
+// Field Prep
+dimwishlist:item=-3055192515&perks=2869569095
+// Shield Disorient
+dimwishlist:item=-3055192515&perks=3275789089
+// Lead from Gold
+dimwishlist:item=-3055192515&perks=1556840489
+// Auto-loading Holster
+dimwishlist:item=-3055192515&perks=3300816228
+// Elemental Capacitor
+dimwishlist:item=-3055192515&perks=3511092054
+// Disruption Break
+dimwishlist:item=-3055192515&perks=1683379515
+// Demolitionist
+dimwishlist:item=-3055192515&perks=3523296417
+
+// Timelines' Vertex (S1Y1)
+
+dimwishlist:item=-1006783454
+
+// Trinary System
+
+dimwishlist:item=-3258665412
+
+// Zealot's Reward
+
+// Auto-loading Holster, Controlled Burst
+dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
+// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
+dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
 
 //////////////////////////
 // Linear Fusion Rifle
@@ -460,7 +533,7 @@ dimwishlist:item=-3926153598&perks=3966416502
 
 // Stormchaser
 
-// Auto-loading
+// Auto-loading Holster
 dimwishlist:item=3652506829&perks=3300816228
 // Clown Cartridge
 dimwishlist:item=3652506829&perks=2284787283
