@@ -1190,6 +1190,326 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Kept Confidence",
+            "ids": [
+                1875512595
+            ],
+            "trash": true
+        },
+        {
+            "name": "The Steady Hand",
+            "ids": [
+                2220884262,
+                1189790632
+            ],
+            "trash": true
+        },
+        {
+            "name": "Dire Promise",
+            "ids": [
+                2742838701,
+                582335600
+            ],
+            "trash": true
+        },
+        {
+            "name": "Pure Poetry",
+            "ids": [
+                2671639706
+            ],
+            "trash": true
+        },
+        {
+            "name": "Finite Impactor",
+            "ids": [
+                3813153080,
+                701922966
+            ],
+            "trash": true
+        },
+        {
+            "name": "Crisis Inverted",
+            "ids": [
+                2888266564
+            ],
+            "trash": true
+        },
+        {
+            "name": "Nature of the Beast",
+            "ids": [
+                1835747805,
+                468276817
+            ],
+            "trash": true
+        },
+        {
+            "name": "Spare Rations",
+            "ids": [
+                3236112986,
+                3116356268
+            ],
+            "trash": true
+        },
+        {
+            "name": "Loud Lullaby",
+            "ids": [
+                3924212056
+            ],
+            "trash": true
+        },
+        {
+            "name": "Survivor's Epitaph",
+            "ids": [
+                310708513
+            ],
+            "trash": true
+        },
+        {
+            "name": "Frontier's Cry",
+            "ids": [
+                1141547457
+            ],
+            "trash": true
+        },
+        {
+            "name": "Seventh Seraph Officer Revolver",
+            "ids": [
+                1555959830,
+                3037520408
+            ],
+            "trash": true
+        },
+        {
+            "name": "D.F.A.",
+            "ids": [
+                575830664,
+                2006308129,
+                4238497225
+            ],
+            "trash": true
+        },
+        {
+            "name": "Annual Skate",
+            "ids": [
+                6857689,
+                2145476623
+            ],
+            "trash": true
+        },
+        {
+            "name": "True Prophecy",
+            "ids": [
+                2742838700,
+                408440598
+            ],
+            "trash": true
+        },
+        {
+            "name": "Crimil's Dagger",
+            "ids": [
+                198854575,
+                4292849692,
+                3649055823
+            ],
+            "trash": true
+        },
+        {
+            "name": "Bottom Dollar",
+            "ids": [
+                1046651176
+            ],
+            "trash": true
+        },
+        {
+            "name": "Malediction",
+            "ids": [
+                3337727085
+            ],
+            "trash": true
+        },
+        {
+            "name": "Austringer",
+            "ids": [
+                3055790362,
+                2429822977
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Flared Magwell, Snapshot Sights , Rangefinder",
+                    "ids": [
+                        3230963543,
+                        957782887,
+                        2846385770
+                    ],
+                    "notes": "pvp - Get Enhanced traits!!!"
+                },
+                {
+                    "name": "Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)",
+                    "ids": [
+                        3230963543,
+                        4116820839,
+                        509594246
+                    ],
+                    "notes": "pvp"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Air Assault",
+                    "ids": [
+                        3722653512
+                    ]
+                },
+                {
+                    "name": "Air Assault (Enhanced)",
+                    "ids": [
+                        2898218424
+                    ]
+                },
+                {
+                    "name": "Triple Tap",
+                    "ids": [
+                        3400784728
+                    ]
+                },
+                {
+                    "name": "Triple Tap (Enhanced)",
+                    "ids": [
+                        573122728
+                    ]
+                },
+                {
+                    "name": "Compulsive Reloader",
+                    "ids": [
+                        671806388
+                    ]
+                },
+                {
+                    "name": "Compulsive Reloader (Enhanced)",
+                    "ids": [
+                        595108252
+                    ]
+                },
+                {
+                    "name": "Outlaw",
+                    "ids": [
+                        1168162263
+                    ]
+                },
+                {
+                    "name": "Outlaw (Enhanced)",
+                    "ids": [
+                        1347741687
+                    ]
+                },
+                {
+                    "name": "Demolitionist",
+                    "ids": [
+                        3523296417
+                    ]
+                },
+                {
+                    "name": "Demolitionist (Enhanced)",
+                    "ids": [
+                        1906147653
+                    ]
+                },
+                {
+                    "name": "Zen Moment",
+                    "ids": [
+                        2387244414
+                    ]
+                },
+                {
+                    "name": "Zen Moment (Enhanced)",
+                    "ids": [
+                        1748774930
+                    ]
+                },
+                {
+                    "name": "Rampage",
+                    "ids": [
+                        3425386926
+                    ]
+                },
+                {
+                    "name": "Rampage (Enhanced)",
+                    "ids": [
+                        288411554
+                    ]
+                },
+                {
+                    "name": "Frenzy",
+                    "ids": [
+                        4104185692
+                    ]
+                },
+                {
+                    "name": "Frenzy (Enhanced)",
+                    "ids": [
+                        3007133316
+                    ]
+                },
+                {
+                    "name": "Opening Shot",
+                    "ids": [
+                        47981717
+                    ]
+                },
+                {
+                    "name": "Opening Shot (Enhanced)",
+                    "ids": [
+                        1370847713
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IKELOS_HC_V1.0.3",
+            "ids": [
+                1731355324
+            ],
+            "trash": true
+        },
+        {
+            "name": "Optative",
+            "ids": [
+                2817683783,
+                2138599001
+            ],
+            "trash": true
+        },
+        {
+            "name": "Cantata-57",
+            "ids": [
+                372697604
+            ],
+            "trash": true
+        },
+        {
+            "name": "Rose",
+            "ids": [
+                882778888,
+                2429822976
+            ],
+            "trash": true
+        },
+        {
+            "name": "Round Robin",
+            "ids": [
+                2034215657
+            ],
+            "trash": true
+        },
+        {
+            "name": "Combined Action",
+            "ids": [
+                1331824604
+            ],
+            "trash": true
         }
     ],
     "Fusion Rifle": [

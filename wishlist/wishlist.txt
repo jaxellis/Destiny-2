@@ -461,6 +461,199 @@ dimwishlist:item=-120706239&perks=31345821
 // Precision Instrument
 dimwishlist:item=-120706239&perks=555281244
 
+// Kept Confidence
+
+dimwishlist:item=-1875512595
+
+// The Steady Hand
+
+dimwishlist:item=-2220884262
+dimwishlist:item=-1189790632
+
+// Dire Promise
+
+dimwishlist:item=-2742838701
+dimwishlist:item=-582335600
+
+// Pure Poetry
+
+dimwishlist:item=-2671639706
+
+// Finite Impactor
+
+dimwishlist:item=-3813153080
+dimwishlist:item=-701922966
+
+// Crisis Inverted
+
+dimwishlist:item=-2888266564
+
+// Nature of the Beast
+
+dimwishlist:item=-1835747805
+dimwishlist:item=-468276817
+
+// Spare Rations
+
+dimwishlist:item=-3236112986
+dimwishlist:item=-3116356268
+
+// Loud Lullaby
+
+dimwishlist:item=-3924212056
+
+// Survivor's Epitaph
+
+dimwishlist:item=-310708513
+
+// Frontier's Cry
+
+dimwishlist:item=-1141547457
+
+// Seventh Seraph Officer Revolver
+
+dimwishlist:item=-1555959830
+dimwishlist:item=-3037520408
+
+// D.F.A.
+
+dimwishlist:item=-575830664
+dimwishlist:item=-2006308129
+dimwishlist:item=-4238497225
+
+// Annual Skate
+
+dimwishlist:item=-6857689
+dimwishlist:item=-2145476623
+
+// True Prophecy
+
+dimwishlist:item=-2742838700
+dimwishlist:item=-408440598
+
+// Crimil's Dagger
+
+dimwishlist:item=-198854575
+dimwishlist:item=-4292849692
+dimwishlist:item=-3649055823
+
+// Bottom Dollar
+
+dimwishlist:item=-1046651176
+
+// Malediction
+
+dimwishlist:item=-3337727085
+
+// Austringer
+
+// Flared Magwell, Snapshot Sights , Rangefinder
+dimwishlist:item=3055790362&perks=3230963543,957782887,2846385770#notes: pvp - Get Enhanced traits!!!
+// Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)
+dimwishlist:item=3055790362&perks=3230963543,4116820839,509594246#notes: pvp
+// Air Assault
+dimwishlist:item=-3055790362&perks=3722653512
+// Air Assault (Enhanced)
+dimwishlist:item=-3055790362&perks=2898218424
+// Triple Tap
+dimwishlist:item=-3055790362&perks=3400784728
+// Triple Tap (Enhanced)
+dimwishlist:item=-3055790362&perks=573122728
+// Compulsive Reloader
+dimwishlist:item=-3055790362&perks=671806388
+// Compulsive Reloader (Enhanced)
+dimwishlist:item=-3055790362&perks=595108252
+// Outlaw
+dimwishlist:item=-3055790362&perks=1168162263
+// Outlaw (Enhanced)
+dimwishlist:item=-3055790362&perks=1347741687
+// Demolitionist
+dimwishlist:item=-3055790362&perks=3523296417
+// Demolitionist (Enhanced)
+dimwishlist:item=-3055790362&perks=1906147653
+// Zen Moment
+dimwishlist:item=-3055790362&perks=2387244414
+// Zen Moment (Enhanced)
+dimwishlist:item=-3055790362&perks=1748774930
+// Rampage
+dimwishlist:item=-3055790362&perks=3425386926
+// Rampage (Enhanced)
+dimwishlist:item=-3055790362&perks=288411554
+// Frenzy
+dimwishlist:item=-3055790362&perks=4104185692
+// Frenzy (Enhanced)
+dimwishlist:item=-3055790362&perks=3007133316
+// Opening Shot
+dimwishlist:item=-3055790362&perks=47981717
+// Opening Shot (Enhanced)
+dimwishlist:item=-3055790362&perks=1370847713
+// Flared Magwell, Snapshot Sights , Rangefinder
+dimwishlist:item=2429822977&perks=3230963543,957782887,2846385770#notes: pvp - Get Enhanced traits!!!
+// Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)
+dimwishlist:item=2429822977&perks=3230963543,4116820839,509594246#notes: pvp
+// Air Assault
+dimwishlist:item=-2429822977&perks=3722653512
+// Air Assault (Enhanced)
+dimwishlist:item=-2429822977&perks=2898218424
+// Triple Tap
+dimwishlist:item=-2429822977&perks=3400784728
+// Triple Tap (Enhanced)
+dimwishlist:item=-2429822977&perks=573122728
+// Compulsive Reloader
+dimwishlist:item=-2429822977&perks=671806388
+// Compulsive Reloader (Enhanced)
+dimwishlist:item=-2429822977&perks=595108252
+// Outlaw
+dimwishlist:item=-2429822977&perks=1168162263
+// Outlaw (Enhanced)
+dimwishlist:item=-2429822977&perks=1347741687
+// Demolitionist
+dimwishlist:item=-2429822977&perks=3523296417
+// Demolitionist (Enhanced)
+dimwishlist:item=-2429822977&perks=1906147653
+// Zen Moment
+dimwishlist:item=-2429822977&perks=2387244414
+// Zen Moment (Enhanced)
+dimwishlist:item=-2429822977&perks=1748774930
+// Rampage
+dimwishlist:item=-2429822977&perks=3425386926
+// Rampage (Enhanced)
+dimwishlist:item=-2429822977&perks=288411554
+// Frenzy
+dimwishlist:item=-2429822977&perks=4104185692
+// Frenzy (Enhanced)
+dimwishlist:item=-2429822977&perks=3007133316
+// Opening Shot
+dimwishlist:item=-2429822977&perks=47981717
+// Opening Shot (Enhanced)
+dimwishlist:item=-2429822977&perks=1370847713
+
+// IKELOS_HC_V1.0.3
+
+dimwishlist:item=-1731355324
+
+// Optative
+
+dimwishlist:item=-2817683783
+dimwishlist:item=-2138599001
+
+// Cantata-57
+
+dimwishlist:item=-372697604
+
+// Rose
+
+dimwishlist:item=-882778888
+dimwishlist:item=-2429822976
+
+// Round Robin
+
+dimwishlist:item=-2034215657
+
+// Combined Action
+
+dimwishlist:item=-1331824604
+
 //////////////////////////
 // Fusion Rifle
 //////////////////////////
