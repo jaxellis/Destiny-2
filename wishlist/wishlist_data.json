@@ -2565,6 +2565,24 @@
             ]
         },
         {
+            "name": "Multimach CCX",
+            "ids": [
+                3211624072
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Attrition Orbs, Kinetic Tremors",
+                    "ids": [
+                        243981275,
+                        3891536761
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": []
+        },
+        {
             "name": "The Recluse",
             "ids": [
                 1050806815
@@ -2610,43 +2628,157 @@
         {
             "name": "Submission",
             "ids": [
-                3886416794
-            ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Dynamic Sway Reduction, Rampage",
-                    "ids": [
-                        1820235745,
-                        4104185692
-                    ],
-                    "notes": "pve - add clear"
-                }
-            ],
-            "trashcombos": []
-        },
-        {
-            "name": "Submission (Adept)",
-            "ids": [
+                3886416794,
                 1941816543
             ],
-            "trash": false,
-            "perkcombo": [
-                {
-                    "name": "Dynamic Sway Reduction, Rampage",
-                    "ids": [
-                        1820235745,
-                        4104185692
-                    ],
-                    "notes": "pve - add clear"
-                }
-            ],
-            "trashcombos": []
+            "trash": true
         },
         {
             "name": "The Title",
             "ids": [
                 655712834
+            ],
+            "trash": true
+        },
+        {
+            "name": "Every Waking Moment",
+            "ids": [
+                4277547616
+            ],
+            "trash": true
+        },
+        {
+            "name": "Seventh Seraph VY-7",
+            "ids": [
+                766323545
+            ],
+            "trash": true
+        },
+        {
+            "name": "Friction Fire",
+            "ids": [
+                1513993763
+            ],
+            "trash": true
+        },
+        {
+            "name": "Enyo-D",
+            "ids": [
+                1601177201
+            ],
+            "trash": true
+        },
+        {
+            "name": "Pizzicato-22",
+            "ids": [
+                4100775158
+            ],
+            "trash": true
+        },
+        {
+            "name": "Extraordinary Rendition",
+            "ids": [
+                1097616550
+            ],
+            "trash": true
+        },
+        {
+            "name": "Rapacious Appetite",
+            "ids": [
+                1081724548
+            ],
+            "trash": true
+        },
+        {
+            "name": "Death Adder",
+            "ids": [
+                2742490609,
+                2517599010
+            ],
+            "trash": true
+        },
+        {
+            "name": "Stochastic Variable",
+            "ids": [
+                2272470786,
+                1339362514
+            ],
+            "trash": true
+        },
+        {
+            "name": "Boondoggle Mk. 55",
+            "ids": [
+                32287609
+            ],
+            "trash": true
+        },
+        {
+            "name": "Escape Velocity",
+            "ids": [
+                1786797708,
+                1459443448
+            ],
+            "trash": true
+        },
+        {
+            "name": "Out of Bounds",
+            "ids": [
+                2988121501
+            ],
+            "trash": true
+        },
+        {
+            "name": "Funnelweb",
+            "ids": [
+                3341893443
+            ],
+            "trash": true
+        },
+        {
+            "name": "Forensic Nightmare",
+            "ids": [
+                1526296434
+            ],
+            "trash": true
+        },
+        {
+            "name": "Borrowed Time",
+            "ids": [
+                875848769
+            ],
+            "trash": true
+        },
+        {
+            "name": "Synchronic Roulette",
+            "ids": [
+                811403305
+            ],
+            "trash": true
+        },
+        {
+            "name": "The Immortal",
+            "ids": [
+                4039572196,
+                3193598749
+            ],
+            "trash": true
+        },
+        {
+            "name": "Mirror Imago",
+            "ids": [
+                3234363830,
+                302039451,
+                3877448149,
+                4116546788
+            ],
+            "trash": true
+        },
+        {
+            "name": "Cold Front",
+            "ids": [
+                3206190066,
+                2814093983,
+                1506719573
             ],
             "trash": true
         }
