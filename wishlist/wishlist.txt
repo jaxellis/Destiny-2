@@ -742,6 +742,33 @@ dimwishlist:item=-1851777734&perks=3418165135
 // Scout Rifles
 //////////////////////////
 
+// Sublimation
+
+// Impromptu Ammunition, Explosive Payload
+dimwishlist:item=1674692344&perks=2360347339,3038247973#notes: pve
+// Moving Target
+dimwishlist:item=-1674692344&perks=588594999
+// Eddy Current
+dimwishlist:item=-1674692344&perks=684456054
+// Demolitionist
+dimwishlist:item=-1674692344&perks=3523296417
+// Sympathetic Arsenal
+dimwishlist:item=-1674692344&perks=3350417888
+// Rapid Hit
+dimwishlist:item=-1674692344&perks=247725512
+// Adagio
+dimwishlist:item=-1674692344&perks=3673922083
+// Rolling Storm
+dimwishlist:item=-1674692344&perks=3218042543
+// Voltshot
+dimwishlist:item=-1674692344&perks=2173046394
+// Redirection
+dimwishlist:item=-1674692344&perks=3201496230
+// Precision Instrument
+dimwishlist:item=-1674692344&perks=555281244
+// No Distractions
+dimwishlist:item=-1674692344&perks=2866798147
+
 // Hung Jury SR4
 
 // Firmly Planted, One For All

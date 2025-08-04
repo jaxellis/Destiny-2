@@ -1860,6 +1860,91 @@
     ],
     "Scout Rifles": [
         {
+            "name": "Sublimation",
+            "ids": [
+                1674692344
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Impromptu Ammunition, Explosive Payload",
+                    "ids": [
+                        2360347339,
+                        3038247973
+                    ],
+                    "notes": "pve"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Moving Target",
+                    "ids": [
+                        588594999
+                    ]
+                },
+                {
+                    "name": "Eddy Current",
+                    "ids": [
+                        684456054
+                    ]
+                },
+                {
+                    "name": "Demolitionist",
+                    "ids": [
+                        3523296417
+                    ]
+                },
+                {
+                    "name": "Sympathetic Arsenal",
+                    "ids": [
+                        3350417888
+                    ]
+                },
+                {
+                    "name": "Rapid Hit",
+                    "ids": [
+                        247725512
+                    ]
+                },
+                {
+                    "name": "Adagio",
+                    "ids": [
+                        3673922083
+                    ]
+                },
+                {
+                    "name": "Rolling Storm",
+                    "ids": [
+                        3218042543
+                    ]
+                },
+                {
+                    "name": "Voltshot",
+                    "ids": [
+                        2173046394
+                    ]
+                },
+                {
+                    "name": "Redirection",
+                    "ids": [
+                        3201496230
+                    ]
+                },
+                {
+                    "name": "Precision Instrument",
+                    "ids": [
+                        555281244
+                    ]
+                },
+                {
+                    "name": "No Distractions",
+                    "ids": [
+                        2866798147
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Hung Jury SR4",
             "ids": [
                 3832743906,
