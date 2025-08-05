@@ -2946,6 +2946,83 @@
             ]
         },
         {
+            "name": "Yeartide Apex",
+            "ids": [
+                3293207827
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Attrition Orbs, Burning Ambition",
+                    "ids": [
+                        243981275,
+                        2890807135
+                    ],
+                    "notes": "pve - (mini)boss"
+                },
+                {
+                    "name": "Demolitionist, Incandescent",
+                    "ids": [
+                        3523296417,
+                        4293542123
+                    ],
+                    "notes": "pve - add clear"
+                },
+                {
+                    "name": "Attrition Orbs, Chaos Reshaped",
+                    "ids": [
+                        243981275,
+                        3640170453
+                    ],
+                    "notes": "pve - boss"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Transcendent Moment",
+                    "ids": [
+                        3731491409
+                    ]
+                },
+                {
+                    "name": "Recycled Energy",
+                    "ids": [
+                        3713215006
+                    ]
+                },
+                {
+                    "name": "Feeding Frenzy",
+                    "ids": [
+                        2779035018
+                    ]
+                },
+                {
+                    "name": "Lone Wolf",
+                    "ids": [
+                        2579169598
+                    ]
+                },
+                {
+                    "name": "Binary Orbit",
+                    "ids": [
+                        1546142478
+                    ]
+                },
+                {
+                    "name": "Harmony",
+                    "ids": [
+                        438098033
+                    ]
+                },
+                {
+                    "name": "Target Lock",
+                    "ids": [
+                        365154968
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Submission",
             "ids": [
                 3886416794,

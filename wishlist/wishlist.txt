@@ -1282,6 +1282,29 @@ dimwishlist:item=-1050806815&perks=1890422124
 // Target Lock
 dimwishlist:item=-1050806815&perks=365154968
 
+// Yeartide Apex
+
+// Attrition Orbs, Burning Ambition
+dimwishlist:item=3293207827&perks=243981275,2890807135#notes: pve - (mini)boss
+// Demolitionist, Incandescent
+dimwishlist:item=3293207827&perks=3523296417,4293542123#notes: pve - add clear
+// Attrition Orbs, Chaos Reshaped
+dimwishlist:item=3293207827&perks=243981275,3640170453#notes: pve - boss
+// Transcendent Moment
+dimwishlist:item=-3293207827&perks=3731491409
+// Recycled Energy
+dimwishlist:item=-3293207827&perks=3713215006
+// Feeding Frenzy
+dimwishlist:item=-3293207827&perks=2779035018
+// Lone Wolf
+dimwishlist:item=-3293207827&perks=2579169598
+// Binary Orbit
+dimwishlist:item=-3293207827&perks=1546142478
+// Harmony
+dimwishlist:item=-3293207827&perks=438098033
+// Target Lock
+dimwishlist:item=-3293207827&perks=365154968
+
 // Submission
 
 dimwishlist:item=-3886416794
