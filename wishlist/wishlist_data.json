@@ -518,6 +518,77 @@
             ]
         },
         {
+            "name": "Fortunate Star",
+            "ids": [
+                2631466936
+            ],
+            "trash": false,
+            "perkcombo": [
+                {
+                    "name": "Impromptu Ammunition, Dragonfly, Repulsor Brace, Destabilizing Rounds, Archer's Gambit, Demoralize",
+                    "ids": [
+                        2360347339,
+                        2848615171,
+                        776531651,
+                        2048641572,
+                        3414324643,
+                        1464081238
+                    ],
+                    "notes": "pve - God Roll"
+                }
+            ],
+            "trashcombos": [
+                {
+                    "name": "Transcendent Moment",
+                    "ids": [
+                        3731491409
+                    ]
+                },
+                {
+                    "name": "Killing Wind",
+                    "ids": [
+                        2450788523
+                    ]
+                },
+                {
+                    "name": "Archer's Tempo",
+                    "ids": [
+                        201365942
+                    ]
+                },
+                {
+                    "name": "Successful Warm-Up",
+                    "ids": [
+                        2652708987
+                    ]
+                },
+                {
+                    "name": "Explosive Head",
+                    "ids": [
+                        3365897133
+                    ]
+                },
+                {
+                    "name": "Precision Instrument",
+                    "ids": [
+                        555281244
+                    ]
+                },
+                {
+                    "name": "Sword Logic",
+                    "ids": [
+                        31345821
+                    ]
+                },
+                {
+                    "name": "Eye of the Storm",
+                    "ids": [
+                        699525795
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Pre Astyanax IV (Adept)",
             "ids": [
                 496556698
@@ -633,6 +704,18 @@
                         831391274
                     ],
                     "notes": "pve"
+                },
+                {
+                    "name": "Demolitionist, Blast Distributor, Slice, One For All, Hatchling, Elemental Honing",
+                    "ids": [
+                        3523296417,
+                        1017229899,
+                        923806249,
+                        4049631843,
+                        831391274,
+                        1089671869
+                    ],
+                    "notes": "pve - God Roll"
                 }
             ],
             "trashcombos": [
@@ -2975,6 +3058,18 @@
                         3640170453
                     ],
                     "notes": "pve - boss"
+                },
+                {
+                    "name": "Attrition Orbs, Burning Ambition, Heal Clip, Demolitionist, Incandescent, Chaos Reshaped",
+                    "ids": [
+                        243981275,
+                        2890807135,
+                        3017780555,
+                        3523296417,
+                        4293542123,
+                        3640170453
+                    ],
+                    "notes": "pve - God Roll"
                 }
             ],
             "trashcombos": [

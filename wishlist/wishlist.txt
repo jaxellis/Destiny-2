@@ -159,6 +159,27 @@ dimwishlist:item=-1770490683&perks=2109543898
 // One For All
 dimwishlist:item=-1770490683&perks=4049631843
 
+// Fortunate Star
+
+// Impromptu Ammunition, Dragonfly, Repulsor Brace, Destabilizing Rounds, Archer's Gambit, Demoralize
+dimwishlist:item=2631466936&perks=2360347339,2848615171,776531651,2048641572,3414324643,1464081238#notes: pve - God Roll
+// Transcendent Moment
+dimwishlist:item=-2631466936&perks=3731491409
+// Killing Wind
+dimwishlist:item=-2631466936&perks=2450788523
+// Archer's Tempo
+dimwishlist:item=-2631466936&perks=201365942
+// Successful Warm-Up
+dimwishlist:item=-2631466936&perks=2652708987
+// Explosive Head
+dimwishlist:item=-2631466936&perks=3365897133
+// Precision Instrument
+dimwishlist:item=-2631466936&perks=555281244
+// Sword Logic
+dimwishlist:item=-2631466936&perks=31345821
+// Eye of the Storm
+dimwishlist:item=-2631466936&perks=699525795
+
 // Pre Astyanax IV (Adept)
 
 // Archer's Tempo, Incandescent
@@ -205,6 +226,8 @@ dimwishlist:item=-2228325504&perks=11612903
 
 // Demolitionist, Hatchling
 dimwishlist:item=4019651319&perks=3523296417,831391274#notes: pve
+// Demolitionist, Blast Distributor, Slice, One For All, Hatchling, Elemental Honing
+dimwishlist:item=4019651319&perks=3523296417,1017229899,923806249,4049631843,831391274,1089671869#notes: pve - God Roll
 // Recycled Energy
 dimwishlist:item=-4019651319&perks=3713215006
 // Transcendent Moment
@@ -223,6 +246,8 @@ dimwishlist:item=-4019651319&perks=1546637391
 dimwishlist:item=-4019651319&perks=243981275
 // Demolitionist, Hatchling
 dimwishlist:item=3977654524&perks=3523296417,831391274#notes: pve
+// Demolitionist, Blast Distributor, Slice, One For All, Hatchling, Elemental Honing
+dimwishlist:item=3977654524&perks=3523296417,1017229899,923806249,4049631843,831391274,1089671869#notes: pve - God Roll
 // Recycled Energy
 dimwishlist:item=-3977654524&perks=3713215006
 // Transcendent Moment
@@ -1290,6 +1315,8 @@ dimwishlist:item=3293207827&perks=243981275,2890807135#notes: pve - (mini)boss
 dimwishlist:item=3293207827&perks=3523296417,4293542123#notes: pve - add clear
 // Attrition Orbs, Chaos Reshaped
 dimwishlist:item=3293207827&perks=243981275,3640170453#notes: pve - boss
+// Attrition Orbs, Burning Ambition, Heal Clip, Demolitionist, Incandescent, Chaos Reshaped
+dimwishlist:item=3293207827&perks=243981275,2890807135,3017780555,3523296417,4293542123,3640170453#notes: pve - God Roll
 // Transcendent Moment
 dimwishlist:item=-3293207827&perks=3731491409
 // Recycled Energy
