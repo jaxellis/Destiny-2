@@ -317,5 +317,28 @@
             }
         ],
         "trashcombos": []
+    },
+    {
+        "name": "Reckless Oracle",
+        "ids": [
+            4158265643,
+            1802315656
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
+                "ids": [
+                    1926441324,
+                    1767911158,
+                    2613226185,
+                    2541826827,
+                    1817983009,
+                    2904194311
+                ],
+                "notes": "pve - God Roll"
+            }
+        ],
+        "trashcombos": []
     }
 ]
