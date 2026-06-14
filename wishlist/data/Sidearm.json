@@ -1,0 +1,110 @@
+[
+    {
+        "name": "A Swift Verdict",
+        "ids": [
+            1626503676,
+            3854037061
+        ],
+        "trash": true
+    },
+    {
+        "name": "Empirical Evidence",
+        "ids": [
+            2607304614
+        ],
+        "trash": true
+    },
+    {
+        "name": "Farewell",
+        "ids": [
+            541188001
+        ],
+        "trash": true
+    },
+    {
+        "name": "Fioritura-59",
+        "ids": [
+            2566006935
+        ],
+        "trash": true
+    },
+    {
+        "name": "High Albedo",
+        "ids": [
+            1197486957
+        ],
+        "trash": true
+    },
+    {
+        "name": "Returned Memory",
+        "ids": [
+            4049127142
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Lead from Gold, Burning Ambition",
+                "ids": [
+                    1556840489,
+                    2890807135
+                ],
+                "notes": "pve"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Beacon Rounds",
+                "ids": [
+                    2859149211
+                ]
+            },
+            {
+                "name": "Impulse Amplifier",
+                "ids": [
+                    951095735
+                ]
+            },
+            {
+                "name": "Blast Distributor",
+                "ids": [
+                    1017229899
+                ]
+            },
+            {
+                "name": "Adagio",
+                "ids": [
+                    3673922083
+                ]
+            },
+            {
+                "name": "Desperate Measures",
+                "ids": [
+                    2109543898
+                ]
+            },
+            {
+                "name": "One For All",
+                "ids": [
+                    4049631843
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Fool's Remedy",
+        "ids": [
+            65611680,
+            3424403076
+        ],
+        "trash": true
+    },
+    {
+        "name": "The Last Dance",
+        "ids": [
+            2009277538,
+            1699493316,
+            3967155859
+        ],
+        "trash": true
+    }
+]

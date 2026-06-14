@@ -1,0 +1,469 @@
+[
+    {
+        "name": "Edge Transit",
+        "ids": [
+            568611923,
+            2228325504
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Hard Launch, Chain Reaction, Deconstruct",
+                "ids": [
+                    981914802,
+                    2396489472,
+                    3993379141
+                ],
+                "notes": "pve"
+            },
+            {
+                "name": "Hard Launch, Envious Assassin, Bait and Switch",
+                "ids": [
+                    981914802,
+                    968510818,
+                    3078487919
+                ],
+                "notes": "pve"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Repulsor Brace",
+                "ids": [
+                    776531651
+                ]
+            },
+            {
+                "name": "Destablizing Rounds",
+                "ids": [
+                    2048641572
+                ]
+            },
+            {
+                "name": "Adrenaline Junky",
+                "ids": [
+                    11612903
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Festival Flight",
+        "ids": [
+            4019651319,
+            3977654524
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Demolitionist, Hatchling",
+                "ids": [
+                    3523296417,
+                    831391274
+                ],
+                "notes": "pve"
+            },
+            {
+                "name": "Demolitionist, Blast Distributor, Slice, One For All, Hatchling, Elemental Honing",
+                "ids": [
+                    3523296417,
+                    1017229899,
+                    923806249,
+                    4049631843,
+                    831391274,
+                    1089671869
+                ],
+                "notes": "pve - God Roll"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Recycled Energy",
+                "ids": [
+                    3713215006
+                ]
+            },
+            {
+                "name": "Transcendent Moment",
+                "ids": [
+                    3731491409
+                ]
+            },
+            {
+                "name": "Envious Arsenal",
+                "ids": [
+                    3987942396
+                ]
+            },
+            {
+                "name": "Ambitious Assassin",
+                "ids": [
+                    2010801679
+                ]
+            },
+            {
+                "name": "Binary Orbit",
+                "ids": [
+                    1546142478
+                ]
+            },
+            {
+                "name": "Frenzy",
+                "ids": [
+                    4104185692
+                ]
+            },
+            {
+                "name": "Vorpal Weapon",
+                "ids": [
+                    1546637391
+                ]
+            },
+            {
+                "name": "Attrition Orbs",
+                "ids": [
+                    243981275
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Forbearance",
+        "ids": [
+            568611921,
+            2480074702
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Demolitionist, Chain Reaction",
+                "ids": [
+                    3523296417,
+                    2396489472
+                ],
+                "notes": "Best perk roll, pve"
+            },
+            {
+                "name": "Quick Launch, High-Velocity Rounds, Demolitionist, Chain Reaction",
+                "ids": [
+                    3525010810,
+                    2822142346,
+                    3523296417,
+                    2396489472
+                ],
+                "notes": "God roll, pve - Reload Masterwork is best"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Unrelenting",
+                "ids": [
+                    3108830275
+                ]
+            },
+            {
+                "name": "Stats for All",
+                "ids": [
+                    1583705720
+                ]
+            },
+            {
+                "name": "Ambitious Assassin",
+                "ids": [
+                    2010801679
+                ]
+            },
+            {
+                "name": "Surplus",
+                "ids": [
+                    3436462433
+                ]
+            },
+            {
+                "name": "Steady Hands",
+                "ids": [
+                    509074078
+                ]
+            },
+            {
+                "name": "Disruption Break",
+                "ids": [
+                    1683379515
+                ]
+            },
+            {
+                "name": "Wellspring",
+                "ids": [
+                    3592538738
+                ]
+            },
+            {
+                "name": "Golden Tricorn",
+                "ids": [
+                    2610012052
+                ]
+            },
+            {
+                "name": "One For All",
+                "ids": [
+                    4049631843
+                ]
+            },
+            {
+                "name": "Bait and Switch",
+                "ids": [
+                    3078487919
+                ]
+            },
+            {
+                "name": "Rampage",
+                "ids": [
+                    3425386926
+                ]
+            },
+            {
+                "name": "Desperate Measures",
+                "ids": [
+                    2109543898
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hullabaloo",
+        "ids": [
+            657927352
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Chain Reaction, Voltshot",
+                "ids": [
+                    2173046394,
+                    2396489472
+                ],
+                "notes": ""
+            }
+        ],
+        "trashcombos": []
+    },
+    {
+        "name": "Mountain Top",
+        "ids": [
+            4043921923,
+            568611922
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Spike Grenades, Auto-loading Holster, Frenzy",
+                "ids": [
+                    3301904089,
+                    3300816228,
+                    4104185692
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Spike Grenades, Auto-loading Holster, Vorpal Weapon",
+                "ids": [
+                    3301904089,
+                    3300816228,
+                    1546637391
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Spike Grenades, Auto-loading Holster, Recombination",
+                "ids": [
+                    3301904089,
+                    3300816228,
+                    469285294
+                ],
+                "notes": ""
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Impulse Amplifier",
+                "ids": [
+                    951095735
+                ]
+            },
+            {
+                "name": "Rampage",
+                "ids": [
+                    3425386926
+                ]
+            },
+            {
+                "name": "Adrenaline Junky",
+                "ids": [
+                    11612903
+                ]
+            },
+            {
+                "name": "One For All",
+                "ids": [
+                    4049631843
+                ]
+            },
+            {
+                "name": "Harmony",
+                "ids": [
+                    438098033
+                ]
+            },
+            {
+                "name": "Overflow",
+                "ids": [
+                    3643424744
+                ]
+            },
+            {
+                "name": "Slickdraw",
+                "ids": [
+                    1821614984
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Outrageous Fortune",
+        "ids": [
+            4146673634
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Enviouos Aresenal, Bait and Switch",
+                "ids": [
+                    3987942396,
+                    3078487919
+                ],
+                "notes": "pve"
+            },
+            {
+                "name": "Incandescent, Explosive Light",
+                "ids": [
+                    4293542123,
+                    3194351027
+                ],
+                "notes": "pve"
+            },
+            {
+                "name": "Incandescent, Chain Reaction",
+                "ids": [
+                    4293542123,
+                    2396489472
+                ],
+                "notes": "pve"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Impulse Amplifier",
+                "ids": [
+                    951095735
+                ]
+            },
+            {
+                "name": "Blast Distributor",
+                "ids": [
+                    1017229899
+                ]
+            },
+            {
+                "name": "Stats for All",
+                "ids": [
+                    1583705720
+                ]
+            },
+            {
+                "name": "Field Prep",
+                "ids": [
+                    2869569095
+                ]
+            },
+            {
+                "name": "Burning Ambition",
+                "ids": [
+                    2890807135
+                ]
+            },
+            {
+                "name": "Full Court",
+                "ids": [
+                    2888557110
+                ]
+            },
+            {
+                "name": "Binary Orbit",
+                "ids": [
+                    1546142478
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Theodolite",
+        "ids": [
+            1688858702
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Reconstruction, Reaper's Tithe",
+                "ids": [
+                    1523832109,
+                    113508675
+                ],
+                "notes": "pve"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Eddy Current",
+                "ids": [
+                    684456054
+                ]
+            },
+            {
+                "name": "Blast Distributor",
+                "ids": [
+                    1017229899
+                ]
+            },
+            {
+                "name": "Reverberation",
+                "ids": [
+                    563069569
+                ]
+            },
+            {
+                "name": "Transcendent Moment",
+                "ids": [
+                    3731491409
+                ]
+            },
+            {
+                "name": "Voltshot",
+                "ids": [
+                    2173046394
+                ]
+            },
+            {
+                "name": "Binary Orbit",
+                "ids": [
+                    1546142478
+                ]
+            },
+            {
+                "name": "Rolling Storm",
+                "ids": [
+                    3218042543
+                ]
+            }
+        ]
+    }
+]

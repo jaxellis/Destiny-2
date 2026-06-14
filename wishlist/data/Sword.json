@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Abide the Return",
+        "ids": [
+            250721843,
+            1644160541
+        ],
+        "trash": true
+    },
+    {
+        "name": "Chivalric Fire",
+        "ids": [
+            3438139008
+        ],
+        "trash": true
+    },
+    {
+        "name": "Double-edged Answer",
+        "ids": [
+            105164264
+        ],
+        "trash": true
+    },
+    {
+        "name": "Dragoncult Sickle",
+        "ids": [
+            3668817296
+        ],
+        "trash": true
+    },
+    {
+        "name": "Falling Guillotine",
+        "ids": [
+            243425374,
+            1815105249
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Frenzy, Eager Edge",
+                "ids": [
+                    4104185692,
+                    2077819806
+                ],
+                "notes": "pve - utility"
+            },
+            {
+                "name": "Chain Reaction, Eager Edge",
+                "ids": [
+                    2396489472,
+                    2077819806
+                ],
+                "notes": "pve - utility - add clear"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Destablizing Rounds",
+                "ids": [
+                    2048641572
+                ]
+            },
+            {
+                "name": "Whirlwind Blade",
+                "ids": [
+                    3913600130
+                ]
+            },
+            {
+                "name": "Desperate Measures",
+                "ids": [
+                    2109543898
+                ]
+            },
+            {
+                "name": "Repulsor Brace",
+                "ids": [
+                    776531651
+                ]
+            },
+            {
+                "name": "Attrition Orbs",
+                "ids": [
+                    243981275
+                ]
+            },
+            {
+                "name": "Duelist's Trance",
+                "ids": [
+                    3705817207
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Geodetic Hsm",
+        "ids": [
+            3637669759
+        ],
+        "trash": true
+    },
+    {
+        "name": "Hero of Ages",
+        "ids": [
+            2139640995
+        ],
+        "trash": true
+    },
+    {
+        "name": "Nasreddin",
+        "ids": [
+            1456017061
+        ],
+        "trash": true
+    },
+    {
+        "name": "Quickfang",
+        "ids": [
+            2782325300,
+            1180270692
+        ],
+        "trash": true
+    },
+    {
+        "name": "Razor's Edge",
+        "ids": [
+            1796949035
+        ],
+        "trash": true
+    },
+    {
+        "name": "Synanceia",
+        "ids": [
+            1823308496
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Sharp Harvest, Eager Edge",
+                "ids": [
+                    4132187021,
+                    2077819806
+                ],
+                "notes": "pve"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Attrition Orbs",
+                "ids": [
+                    243981275
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Slammer",
+        "ids": [
+            2889501828
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Eager Edge, Cold Steel",
+                "ids": [
+                    2077819806,
+                    3650930298
+                ],
+                "notes": "pve - champs - utility"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Attrition Orbs",
+                "ids": [
+                    243981275
+                ]
+            },
+            {
+                "name": "Pugilst",
+                "ids": [
+                    691659142
+                ]
+            },
+            {
+                "name": "Thresh",
+                "ids": [
+                    2726471870
+                ]
+            },
+            {
+                "name": "Permeability",
+                "ids": [
+                    2428997981
+                ]
+            },
+            {
+                "name": "Collective Action",
+                "ids": [
+                    3324494224
+                ]
+            },
+            {
+                "name": "One For All",
+                "ids": [
+                    4049631843
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Slammer (Adept)",
+        "ids": [
+            1354727549
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Eager Edge, Cold Steel",
+                "ids": [
+                    2077819806,
+                    3650930298
+                ],
+                "notes": "pve - champs - utility"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Attrition Orbs",
+                "ids": [
+                    243981275
+                ]
+            },
+            {
+                "name": "Pugilst",
+                "ids": [
+                    691659142
+                ]
+            },
+            {
+                "name": "Thresh",
+                "ids": [
+                    2726471870
+                ]
+            },
+            {
+                "name": "Permeability",
+                "ids": [
+                    2428997981
+                ]
+            },
+            {
+                "name": "Collective Action",
+                "ids": [
+                    3324494224
+                ]
+            },
+            {
+                "name": "One For All",
+                "ids": [
+                    4049631843
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sola's Scar",
+        "ids": [
+            1313528549,
+            3847137620
+        ],
+        "trash": true
+    },
+    {
+        "name": "Steel Sybil Z-14",
+        "ids": [
+            4230993599
+        ],
+        "trash": true
+    },
+    {
+        "name": "Thin Precipice",
+        "ids": [
+            4066778670
+        ],
+        "trash": true
+    }
+]

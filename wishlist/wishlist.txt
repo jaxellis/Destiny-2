@@ -196,6 +196,109 @@ dimwishlist:item=-496556698&perks=2846385770
 dimwishlist:item=-496556698&perks=47981717
 
 //////////////////////////
+// Fusion Rifle
+//////////////////////////
+
+// Aurvandil FR6
+
+dimwishlist:item=-963710795
+
+// Coriolis Force
+
+dimwishlist:item=-3512349612
+
+// Dream Breaker
+
+dimwishlist:item=-2931957300
+
+// Hollow Words
+
+dimwishlist:item=-342027677
+dimwishlist:item=-607191995
+
+// Iota Draconis
+
+dimwishlist:item=-3044460004
+
+// Likely Suspect
+
+dimwishlist:item=-1994645182
+
+// Main Ingredient
+
+dimwishlist:item=-253196586
+dimwishlist:item=-3445437901
+
+// Nox Perennial V
+
+// Envious Assassin, Controlled Burst
+dimwishlist:item=2767393525&perks=968510818,2594592626#notes: pve
+// Fragile Focus
+dimwishlist:item=-2767393525&perks=2451262963
+// Threat Detector
+dimwishlist:item=-2767393525&perks=4071163871
+// Lead from Gold
+dimwishlist:item=-2767393525&perks=1556840489
+// Loose Change
+dimwishlist:item=-2767393525&perks=1119449540
+// Under Pressure
+dimwishlist:item=-2767393525&perks=1645158859
+// Collective Action
+dimwishlist:item=-2767393525&perks=3324494224
+// Kickstart
+dimwishlist:item=-2767393525&perks=1754714824
+
+// Snorri FR5
+
+dimwishlist:item=-4114929480
+
+// The Epicurean
+
+dimwishlist:item=-2263839058
+dimwishlist:item=-4124357815
+
+// The Wizened Rebuke
+
+dimwishlist:item=-2290416
+dimwishlist:item=-1999697514
+dimwishlist:item=-930590127
+dimwishlist:item=-2961807684
+
+// Timelines' Vertex
+
+// Firmly Planted, Snapshot Sights
+dimwishlist:item=3055192515&perks=280464955,957782887#notes: pvp
+// Field Prep
+dimwishlist:item=-3055192515&perks=2869569095
+// Shield Disorient
+dimwishlist:item=-3055192515&perks=3275789089
+// Lead from Gold
+dimwishlist:item=-3055192515&perks=1556840489
+// Auto-loading Holster
+dimwishlist:item=-3055192515&perks=3300816228
+// Elemental Capacitor
+dimwishlist:item=-3055192515&perks=3511092054
+// Disruption Break
+dimwishlist:item=-3055192515&perks=1683379515
+// Demolitionist
+dimwishlist:item=-3055192515&perks=3523296417
+
+// Timelines' Vertex (S1Y1)
+
+dimwishlist:item=-1006783454
+
+// Trinary System
+
+dimwishlist:item=-3258665412
+
+// Zealot's Reward
+
+// Auto-loading Holster, Controlled Burst
+dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
+// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
+dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
+
+//////////////////////////
 // Grenade Launcher
 //////////////////////////
 
@@ -680,109 +783,6 @@ dimwishlist:item=-2034215657
 dimwishlist:item=-1331824604
 
 //////////////////////////
-// Fusion Rifle
-//////////////////////////
-
-// Aurvandil FR6
-
-dimwishlist:item=-963710795
-
-// Coriolis Force
-
-dimwishlist:item=-3512349612
-
-// Dream Breaker
-
-dimwishlist:item=-2931957300
-
-// Hollow Words
-
-dimwishlist:item=-342027677
-dimwishlist:item=-607191995
-
-// Iota Draconis
-
-dimwishlist:item=-3044460004
-
-// Likely Suspect
-
-dimwishlist:item=-1994645182
-
-// Main Ingredient
-
-dimwishlist:item=-253196586
-dimwishlist:item=-3445437901
-
-// Nox Perennial V
-
-// Envious Assassin, Controlled Burst
-dimwishlist:item=2767393525&perks=968510818,2594592626#notes: pve
-// Fragile Focus
-dimwishlist:item=-2767393525&perks=2451262963
-// Threat Detector
-dimwishlist:item=-2767393525&perks=4071163871
-// Lead from Gold
-dimwishlist:item=-2767393525&perks=1556840489
-// Loose Change
-dimwishlist:item=-2767393525&perks=1119449540
-// Under Pressure
-dimwishlist:item=-2767393525&perks=1645158859
-// Collective Action
-dimwishlist:item=-2767393525&perks=3324494224
-// Kickstart
-dimwishlist:item=-2767393525&perks=1754714824
-
-// Snorri FR5
-
-dimwishlist:item=-4114929480
-
-// The Epicurean
-
-dimwishlist:item=-2263839058
-dimwishlist:item=-4124357815
-
-// The Wizened Rebuke
-
-dimwishlist:item=-2290416
-dimwishlist:item=-1999697514
-dimwishlist:item=-930590127
-dimwishlist:item=-2961807684
-
-// Timelines' Vertex
-
-// Firmly Planted, Snapshot Sights
-dimwishlist:item=3055192515&perks=280464955,957782887#notes: pvp
-// Field Prep
-dimwishlist:item=-3055192515&perks=2869569095
-// Shield Disorient
-dimwishlist:item=-3055192515&perks=3275789089
-// Lead from Gold
-dimwishlist:item=-3055192515&perks=1556840489
-// Auto-loading Holster
-dimwishlist:item=-3055192515&perks=3300816228
-// Elemental Capacitor
-dimwishlist:item=-3055192515&perks=3511092054
-// Disruption Break
-dimwishlist:item=-3055192515&perks=1683379515
-// Demolitionist
-dimwishlist:item=-3055192515&perks=3523296417
-
-// Timelines' Vertex (S1Y1)
-
-dimwishlist:item=-1006783454
-
-// Trinary System
-
-dimwishlist:item=-3258665412
-
-// Zealot's Reward
-
-// Auto-loading Holster, Controlled Burst
-dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
-// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
-dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
-
-//////////////////////////
 // Linear Fusion Rifle
 //////////////////////////
 
@@ -893,7 +893,7 @@ dimwishlist:item=-211732170&perks=2779035018
 dimwishlist:item=-211732170&perks=968510818
 
 //////////////////////////
-// Pulse Rifles
+// Pulse Rifle
 //////////////////////////
 
 // Elsie's Rifle
@@ -957,7 +957,7 @@ dimwishlist:item=-1851777734&perks=1546637391
 dimwishlist:item=-1851777734&perks=3418165135
 
 //////////////////////////
-// Scout Rifles
+// Scout Rifle
 //////////////////////////
 
 // Sublimation
@@ -1025,6 +1025,54 @@ dimwishlist:item=-3007479950
 dimwishlist:item=-1389546626
 
 //////////////////////////
+// Shotgun
+//////////////////////////
+
+// Astral Horizon
+
+dimwishlist:item=-2653171213
+
+// Blasphemer
+
+dimwishlist:item=-2782847179
+
+// Bonechiller
+
+dimwishlist:item=-4037745684
+
+// Felwinter's Lie
+
+dimwishlist:item=-1179141605
+
+// Hand in Hand
+
+dimwishlist:item=-664109750
+
+// Last Man Standing
+
+dimwishlist:item=-4287947559
+
+// Mindbender's Ambition
+
+dimwishlist:item=-1586231351
+
+// No Reprieve
+
+dimwishlist:item=-2531963421
+
+// Reckless Endangerment
+
+dimwishlist:item=-3216652511
+
+// Toil and Trouble
+
+dimwishlist:item=-2957367743
+
+// Wishbringer
+
+dimwishlist:item=-3356526253
+
+//////////////////////////
 // Sidearm
 //////////////////////////
 
@@ -1076,54 +1124,6 @@ dimwishlist:item=-3424403076
 dimwishlist:item=-2009277538
 dimwishlist:item=-1699493316
 dimwishlist:item=-3967155859
-
-//////////////////////////
-// Shotgun
-//////////////////////////
-
-// Astral Horizon
-
-dimwishlist:item=-2653171213
-
-// Blasphemer
-
-dimwishlist:item=-2782847179
-
-// Bonechiller
-
-dimwishlist:item=-4037745684
-
-// Felwinter's Lie
-
-dimwishlist:item=-1179141605
-
-// Hand in Hand
-
-dimwishlist:item=-664109750
-
-// Last Man Standing
-
-dimwishlist:item=-4287947559
-
-// Mindbender's Ambition
-
-dimwishlist:item=-1586231351
-
-// No Reprieve
-
-dimwishlist:item=-2531963421
-
-// Reckless Endangerment
-
-dimwishlist:item=-3216652511
-
-// Toil and Trouble
-
-dimwishlist:item=-2957367743
-
-// Wishbringer
-
-dimwishlist:item=-3356526253
 
 //////////////////////////
 // Sniper Rifle
@@ -1502,6 +1502,13 @@ dimwishlist:item=-1180270692
 // Razor's Edge
 
 dimwishlist:item=-1796949035
+
+// Synanceia
+
+// Sharp Harvest, Eager Edge
+dimwishlist:item=1823308496&perks=4132187021,2077819806#notes: pve
+// Attrition Orbs
+dimwishlist:item=-1823308496&perks=243981275
 
 // The Slammer
 

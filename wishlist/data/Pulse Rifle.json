@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Elsie's Rifle",
+        "ids": [
+            2372514509
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Zen moment, Headseeker",
+                "ids": [
+                    2387244414,
+                    460017080
+                ],
+                "notes": "pvp"
+            }
+        ],
+        "trashcombos": [
+            {
+                "name": "Under Over",
+                "ids": [
+                    1870851715
+                ]
+            },
+            {
+                "name": "Keep Away",
+                "ids": [
+                    3619207468
+                ]
+            },
+            {
+                "name": "Loose Change",
+                "ids": [
+                    1119449540
+                ]
+            },
+            {
+                "name": "Repulsor Brace",
+                "ids": [
+                    776531651
+                ]
+            }
+        ]
+    }
+]
