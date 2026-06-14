@@ -92,6 +92,11 @@ dimwishlist:item=-2026755633&perks=3673922083
 // Target Lock
 dimwishlist:item=-2026755633&perks=365154968
 
+// DECATUR 02
+
+// Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
+dimwishlist:item=1850748385&perks=4063561849,984655331,2078520142,4070834277,2963273944,1545231802#notes: pve - God Roll
+
 // Horror Story
 
 // Under-Over, Frenzy
@@ -105,32 +110,8 @@ dimwishlist:item=-177568179&perks=11612903
 
 // No Hesitation
 
-// Physic, Circle of Life
-dimwishlist:item=1801007332&perks=2980589453,2298656195#notes: pve - support - healing
-// Physic, Attrition Orbs
-dimwishlist:item=1801007332&perks=2980589453,243981275#notes: pve - support - healing
-// Demolitionist, Incandescent
-dimwishlist:item=1801007332&perks=3523296417,4293542123#notes: pve - add clear
-// Demolitionist, Attrition Orbs
-dimwishlist:item=1801007332&perks=3523296417,243981275#notes: pve - add clear
-// Subsistence
-dimwishlist:item=-1801007332&perks=1820235745
-// Ensemble
-dimwishlist:item=-1801007332&perks=2621346526
-// Grave Robber
-dimwishlist:item=-1801007332&perks=1631667848
-// Overflow
-dimwishlist:item=-1801007332&perks=3643424744
-// Strategist
-dimwishlist:item=-1801007332&perks=880644845
-// Frenzy
-dimwishlist:item=-1801007332&perks=4104185692
-// Disruption Break
-dimwishlist:item=-1801007332&perks=1683379515
-// Desperate Measures
-dimwishlist:item=-1801007332&perks=2109543898
-// Surrounded
-dimwishlist:item=-1801007332&perks=3708227201
+// Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
+dimwishlist:item=1801007332&perks=4063561849,3581929919,1817983009,984655331,2675184851#notes: pve - God Roll
 
 //////////////////////////
 // Bow
@@ -1331,6 +1312,28 @@ dimwishlist:item=-3293207827&perks=1546142478
 dimwishlist:item=-3293207827&perks=438098033
 // Target Lock
 dimwishlist:item=-3293207827&perks=365154968
+// Attrition Orbs, Burning Ambition
+dimwishlist:item=2965080304&perks=243981275,2890807135#notes: pve - (mini)boss
+// Demolitionist, Incandescent
+dimwishlist:item=2965080304&perks=3523296417,4293542123#notes: pve - add clear
+// Attrition Orbs, Chaos Reshaped
+dimwishlist:item=2965080304&perks=243981275,3640170453#notes: pve - boss
+// Attrition Orbs, Burning Ambition, Heal Clip, Demolitionist, Incandescent, Chaos Reshaped
+dimwishlist:item=2965080304&perks=243981275,2890807135,3017780555,3523296417,4293542123,3640170453#notes: pve - God Roll
+// Transcendent Moment
+dimwishlist:item=-2965080304&perks=3731491409
+// Recycled Energy
+dimwishlist:item=-2965080304&perks=3713215006
+// Feeding Frenzy
+dimwishlist:item=-2965080304&perks=2779035018
+// Lone Wolf
+dimwishlist:item=-2965080304&perks=2579169598
+// Binary Orbit
+dimwishlist:item=-2965080304&perks=1546142478
+// Harmony
+dimwishlist:item=-2965080304&perks=438098033
+// Target Lock
+dimwishlist:item=-2965080304&perks=365154968
 
 // Submission
 
