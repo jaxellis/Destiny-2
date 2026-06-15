@@ -340,5 +340,355 @@
             }
         ],
         "trashcombos": []
+    },
+    {
+        "name": "The Number",
+        "ids": [
+            2492081469,
+            3854359821
+        ],
+        "trash": true
+    },
+    {
+        "name": "Firefright",
+        "ids": [
+            2778013407
+        ],
+        "trash": true
+    },
+    {
+        "name": "Lodbrok-C",
+        "ids": [
+            2328531378
+        ],
+        "trash": true
+    },
+    {
+        "name": "Perpetualis",
+        "ids": [
+            392008588
+        ],
+        "trash": true
+    },
+    {
+        "name": "The Last Breath",
+        "ids": [
+            507038823,
+            1503609584
+        ],
+        "trash": true
+    },
+    {
+        "name": "Sweet Sorrow",
+        "ids": [
+            1248372789
+        ],
+        "trash": true
+    },
+    {
+        "name": "Old Sterling",
+        "ids": [
+            3678653083
+        ],
+        "trash": true
+    },
+    {
+        "name": "Coronach-22",
+        "ids": [
+            355382946
+        ],
+        "trash": true
+    },
+    {
+        "name": "Ros Arago IV",
+        "ids": [
+            3583275737
+        ],
+        "trash": true
+    },
+    {
+        "name": "Come to Pass",
+        "ids": [
+            927567426
+        ],
+        "trash": true
+    },
+    {
+        "name": "Dark Decider",
+        "ids": [
+            1144014195,
+            540880995,
+            1942069133
+        ],
+        "trash": true
+    },
+    {
+        "name": "Herod-C",
+        "ids": [
+            2065366342,
+            1788603939
+        ],
+        "trash": true
+    },
+    {
+        "name": "False Promises",
+        "ids": [
+            1390080550,
+            3143732432
+        ],
+        "trash": true
+    },
+    {
+        "name": "Horror Story",
+        "ids": [
+            177568179,
+            2884070594,
+            3829285960
+        ],
+        "trash": true
+    },
+    {
+        "name": "Krait",
+        "ids": [
+            2852052802
+        ],
+        "trash": true
+    },
+    {
+        "name": "Sorrow's Verse",
+        "ids": [
+            775830132,
+            2557966895,
+            2496875173
+        ],
+        "trash": true
+    },
+    {
+        "name": "Rufus's Fury",
+        "ids": [
+            484515708
+        ],
+        "trash": true
+    },
+    {
+        "name": "Rufus's Fury (Adept)",
+        "ids": [
+            342514437
+        ],
+        "trash": true
+    },
+    {
+        "name": "Lethal Abundance",
+        "ids": [
+            1884897339,
+            3428407746,
+            2189073092
+        ],
+        "trash": true
+    },
+    {
+        "name": "Fair Judgment",
+        "ids": [
+            4113452819,
+            4176873718
+        ],
+        "trash": true
+    },
+    {
+        "name": "Ahab Char",
+        "ids": [
+            1411560894
+        ],
+        "trash": true
+    },
+    {
+        "name": "Auric Disabler",
+        "ids": [
+            702001725
+        ],
+        "trash": true
+    },
+    {
+        "name": "Ammit AR2",
+        "ids": [
+            2119346509
+        ],
+        "trash": true
+    },
+    {
+        "name": "The Forward Path",
+        "ids": [
+            1884897338,
+            1690783811,
+            2014642399
+        ],
+        "trash": true
+    },
+    {
+        "name": "Prosecutor",
+        "ids": [
+            1091550016,
+            880829467,
+            2129814338,
+            3483591058,
+            1909527966
+        ],
+        "trash": true
+    },
+    {
+        "name": "Prosecutor (Adept)",
+        "ids": [
+            749483159,
+            4025177550
+        ],
+        "trash": true
+    },
+    {
+        "name": "Intercalary",
+        "ids": [
+            2725426834
+        ],
+        "trash": true
+    },
+    {
+        "name": "Veiled Threat",
+        "ids": [
+            3685470415
+        ],
+        "trash": true
+    },
+    {
+        "name": "Shadow Price",
+        "ids": [
+            3142989221,
+            2633186522,
+            2322926844
+        ],
+        "trash": true
+    },
+    {
+        "name": "Shadow Price (Adept)",
+        "ids": [
+            1056103557,
+            2147010335
+        ],
+        "trash": true
+    },
+    {
+        "name": "Braytech Werewolf",
+        "ids": [
+            528834068,
+            3558681245,
+            528834068
+        ],
+        "trash": true
+    },
+    {
+        "name": "Breakneck",
+        "ids": [
+            2065366343,
+            2026755633,
+            324382200
+        ],
+        "trash": true
+    },
+    {
+        "name": "Duty Bound",
+        "ids": [
+            260532765,
+            89693562,
+            435216110,
+            1457979868
+        ],
+        "trash": true
+    },
+    {
+        "name": "Duty Bound (Adept)",
+        "ids": [
+            1135050595
+        ],
+        "trash": true
+    },
+    {
+        "name": "Tigerspite",
+        "ids": [
+            1709137958,
+            2465372924,
+            640114618
+        ],
+        "trash": true
+    },
+    {
+        "name": "Origin Story",
+        "ids": [
+            2188356726,
+            2826850739,
+            1644162710,
+            4024037919
+        ],
+        "trash": true
+    },
+    {
+        "name": "Trendsetter",
+        "ids": [
+            2863808104
+        ],
+        "trash": true
+    },
+    {
+        "name": "Arc Logic",
+        "ids": [
+            38064944,
+            2723909519
+        ],
+        "trash": true
+    },
+    {
+        "name": "Chrysura Melo",
+        "ids": [
+            1337707096,
+            1750388538
+        ],
+        "trash": true
+    },
+    {
+        "name": "Steelfeather Repeater",
+        "ids": [
+            771811870,
+            1251729046
+        ],
+        "trash": true
+    },
+    {
+        "name": "Pluperfect",
+        "ids": [
+            2203881482,
+            1952163498
+        ],
+        "trash": true
+    },
+    {
+        "name": "Giver's Blessing",
+        "ids": [
+            970034755
+        ],
+        "trash": true
+    },
+    {
+        "name": "Seventh Seraph Carbine",
+        "ids": [
+            2560370239,
+            4070357005,
+            1561006927
+        ],
+        "trash": true
+    },
+    {
+        "name": "Age-Old Bond",
+        "ids": [
+            424291879,
+            601592879
+        ],
+        "trash": true
     }
 ]
