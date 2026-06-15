@@ -125,7 +125,8 @@ def create_item_entry(
         len(notes),
         perk_name,
     )
-    entry = f"{WISHLIST_PREFIX_ITEM}{item_id}"
+    entry: str = f"// {perk_name}\n" if perk_name else ""
+    entry += f"{WISHLIST_PREFIX_ITEM}{item_id}"
 
     if perks is not None:
         entry += WISHLIST_PREFIX_PERK
