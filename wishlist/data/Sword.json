@@ -132,27 +132,30 @@
         "name": "Synanceia",
         "ids": [
             1823308496,
-            2765451290
+            2765451290,
+            2765451289,
+            2765451291
         ],
         "trash": false,
         "perkcombo": [
             {
-                "name": "Sharp Harvest, Eager Edge",
+                "name": "Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition",
                 "ids": [
+                    938542991,
+                    3666208348,
+                    2349202967,
+                    269888150,
+                    1749209109,
+                    243981275,
                     4132187021,
-                    2077819806
+                    1089671869,
+                    2077819806,
+                    2890807135
                 ],
-                "notes": "pve"
+                "notes": "pve - god roll"
             }
         ],
-        "trashcombos": [
-            {
-                "name": "Attrition Orbs",
-                "ids": [
-                    243981275
-                ]
-            }
-        ]
+        "trashcombos": []
     },
     {
         "name": "The Slammer",
