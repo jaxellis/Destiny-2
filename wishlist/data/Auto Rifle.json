@@ -7,8 +7,10 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent",
+                "name": "Full Bore, Accurized Rounds, Physic, Burning Ambition, Chaos Reshaped (Enhanced), Attrition Orbs, Incandescent",
                 "ids": [
+                    202670084,
+                    3142289711,
                     4063561849,
                     3581929919,
                     1817983009,
@@ -37,7 +39,7 @@
                     2963273944,
                     1545231802
                 ],
-                "notes": "pve - God Roll"
+                "notes": "pve - God Perk Roll - Missing Full Bore and Accurized Rounds"
             }
         ],
         "trashcombos": []
@@ -55,7 +57,7 @@
                     4063561849,
                     4070834277,
                     1906147653,
-                    102912326,
+                    831391274,
                     2799030358,
                     3244229373
                 ],
@@ -73,7 +75,7 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
+                "name": "Destabilizing Rounds (Enhanced), Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
                 "ids": [
                     1926441324,
                     1767911158,
