@@ -1,5 +1,48 @@
 [
     {
+        "name": "No Hesitation",
+        "ids": [
+            1801007332
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent",
+                "ids": [
+                    4063561849,
+                    3581929919,
+                    1817983009,
+                    984655331,
+                    2675184851
+                ],
+                "notes": "pve - God Roll"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
+        "name": "DECATUR 02",
+        "ids": [
+            1850748385
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection",
+                "ids": [
+                    4063561849,
+                    984655331,
+                    2078520142,
+                    4070834277,
+                    2963273944,
+                    1545231802
+                ],
+                "notes": "pve - God Roll"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
         "name": "Adamantite",
         "ids": [
             621450049
@@ -15,6 +58,29 @@
                     102912326,
                     2799030358,
                     3244229373
+                ],
+                "notes": "pve - God Roll"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
+        "name": "Reckless Oracle",
+        "ids": [
+            4158265643,
+            1802315656
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "name": "Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
+                "ids": [
+                    1926441324,
+                    1767911158,
+                    2613226185,
+                    2541826827,
+                    1817983009,
+                    2904194311
                 ],
                 "notes": "pve - God Roll"
             }
@@ -239,28 +305,6 @@
         ]
     },
     {
-        "name": "DECATUR 02",
-        "ids": [
-            1850748385
-        ],
-        "trash": false,
-        "perkcombo": [
-            {
-                "name": "Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection",
-                "ids": [
-                    4063561849,
-                    984655331,
-                    2078520142,
-                    4070834277,
-                    2963273944,
-                    1545231802
-                ],
-                "notes": "pve - God Roll"
-            }
-        ],
-        "trashcombos": []
-    },
-    {
         "name": "Horror Story",
         "ids": [
             177568179
@@ -296,50 +340,6 @@
                 ]
             }
         ]
-    },
-    {
-        "name": "No Hesitation",
-        "ids": [
-            1801007332
-        ],
-        "trash": false,
-        "perkcombo": [
-            {
-                "name": "Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent",
-                "ids": [
-                    4063561849,
-                    3581929919,
-                    1817983009,
-                    984655331,
-                    2675184851
-                ],
-                "notes": "pve - God Roll"
-            }
-        ],
-        "trashcombos": []
-    },
-    {
-        "name": "Reckless Oracle",
-        "ids": [
-            4158265643,
-            1802315656
-        ],
-        "trash": false,
-        "perkcombo": [
-            {
-                "name": "Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
-                "ids": [
-                    1926441324,
-                    1767911158,
-                    2613226185,
-                    2541826827,
-                    1817983009,
-                    2904194311
-                ],
-                "notes": "pve - God Roll"
-            }
-        ],
-        "trashcombos": []
     },
     {
         "name": "The Number",
