@@ -4,28 +4,8 @@
 
 // Adamantite
 
-// Reciprocity, Circle of Life, Runneth Over
-dimwishlist:item=2987244302&perks=692399809,2298656195,120721526#notes: pve - support - healing
-// Reciprocity, Attrition Orbs, Runneth Over
-dimwishlist:item=2987244302&perks=692399809,243981275,120721526#notes: pve - support - healing
-// Demolitionist, Tear, Runneth Over
-dimwishlist:item=2987244302&perks=3523296417,960997401,120721526#notes: pve - add clear
-// Demolitionist, Attrition Orbs, Runneth Over
-dimwishlist:item=2987244302&perks=3523296417,243981275,120721526#notes: pve - add clear
-// Unrelenting
-dimwishlist:item=-2987244302&perks=3108830275
-// Subsistence
-dimwishlist:item=-2987244302&perks=1820235745
-// Ensemble
-dimwishlist:item=-2987244302&perks=2621346526
-// Pugilst
-dimwishlist:item=-2987244302&perks=691659142
-// Kill Clip
-dimwishlist:item=-2987244302&perks=1015611457
-// Elemental Honing
-dimwishlist:item=-2987244302&perks=1089671869
-// Hatchling
-dimwishlist:item=-2987244302&perks=831391274
+// Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear 
+dimwishlist:item=621450049&perks=4063561849,4070834277,1906147653,102912326,2799030358,3244229373#notes: pve - God Roll
 
 // Abyss Defiant
 
@@ -112,6 +92,13 @@ dimwishlist:item=-177568179&perks=11612903
 
 // Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
 dimwishlist:item=1801007332&perks=4063561849,3581929919,1817983009,984655331,2675184851#notes: pve - God Roll
+
+// Reckless Oracle
+
+// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
+dimwishlist:item=4158265643&perks=1926441324,1767911158,2613226185,2541826827,1817983009,2904194311#notes: pve - God Roll
+// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
+dimwishlist:item=1802315656&perks=1926441324,1767911158,2613226185,2541826827,1817983009,2904194311#notes: pve - God Roll
 
 //////////////////////////
 // Bow
@@ -1512,6 +1499,10 @@ dimwishlist:item=-1796949035
 dimwishlist:item=1823308496&perks=4132187021,2077819806#notes: pve
 // Attrition Orbs
 dimwishlist:item=-1823308496&perks=243981275
+// Sharp Harvest, Eager Edge
+dimwishlist:item=2765451290&perks=4132187021,2077819806#notes: pve
+// Attrition Orbs
+dimwishlist:item=-2765451290&perks=243981275
 
 // The Slammer
 
