@@ -12,12 +12,23 @@
                     202670084,
                     3142289711,
                     4063561849,
-                    3581929919,
-                    1817983009,
-                    984655331,
-                    2675184851
+                    2890807135,
+                    3640170453,
+                    243981275,
+                    4293542123
                 ],
                 "notes": "pve - God Roll"
+            },
+            {
+                "name": "Physic, Burning Ambition, Chaos Reshaped (Enhanced), Attrition Orbs, Incandescent",
+                "ids": [
+                    4063561849,
+                    2890807135,
+                    3640170453,
+                    243981275,
+                    4293542123
+                ],
+                "notes": "pve - God Perk Roll - Missing Full Bore and Accurized Rounds"
             }
         ],
         "trashcombos": []
@@ -30,14 +41,28 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection",
+                "name": "Full Bore, Accurized Rounds, Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection",
                 "ids": [
+                    202670084,
+                    3142289711,
                     4063561849,
-                    984655331,
+                    243981275,
                     2078520142,
                     4070834277,
                     2963273944,
-                    1545231802
+                    3201496230
+                ],
+                "notes": "pve - God Roll"
+            },
+            {
+                "name": "Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection",
+                "ids": [
+                    4063561849,
+                    243981275,
+                    2078520142,
+                    4070834277,
+                    2963273944,
+                    3201496230
                 ],
                 "notes": "pve - God Perk Roll - Missing Full Bore and Accurized Rounds"
             }
@@ -52,16 +77,30 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear",
+                "name": "Full Bore, Accurized Rounds, Physic, Reciprocity, Demolitionist (Enhanced), Hatchling, Desperate Measures, Tear",
                 "ids": [
+                    202670084,
+                    3142289711,
                     4063561849,
                     4070834277,
-                    1906147653,
+                    3523296417,
                     831391274,
-                    2799030358,
+                    2109543898,
                     3244229373
                 ],
                 "notes": "pve - God Roll"
+            },
+            {
+                "name": "Physic, Reciprocity, Demolitionist (Enhanced), Hatchling, Desperate Measures, Tear",
+                "ids": [
+                    4063561849,
+                    4070834277,
+                    3523296417,
+                    831391274,
+                    2109543898,
+                    3244229373
+                ],
+                "notes": "pve - God Perk Roll - Missing Full Bore and Accurized Rounds"
             }
         ],
         "trashcombos": []
@@ -77,11 +116,11 @@
             {
                 "name": "Destabilizing Rounds (Enhanced), Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze",
                 "ids": [
-                    1926441324,
+                    2048641572,
                     1767911158,
                     2613226185,
-                    2541826827,
-                    1817983009,
+                    776531651,
+                    3640170453,
                     2904194311
                 ],
                 "notes": "pve - God Roll"
@@ -115,16 +154,16 @@
             {
                 "name": "Enlightened Action, Incandescent",
                 "ids": [
-                    1771736209,
-                    2675184851
+                    3828510309,
+                    4293542123
                 ],
                 "notes": "pve - add clear - Crafted"
             },
             {
                 "name": "Subsistence, Incandescent",
                 "ids": [
-                    4245865861,
-                    2675184851
+                    1820235745,
+                    4293542123
                 ],
                 "notes": "pve - add clear - Crafted"
             }

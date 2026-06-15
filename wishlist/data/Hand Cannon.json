@@ -73,12 +73,6 @@
                 ]
             },
             {
-                "name": "Shoot to Loot",
-                "ids": [
-                    3700496672
-                ]
-            },
-            {
                 "name": "Attrition Orbs",
                 "ids": [
                     243981275
@@ -142,8 +136,8 @@
             {
                 "name": "Dragonfly (Enhanced), Destabilizing Rounds (Enhanced)",
                 "ids": [
-                    169755979,
-                    1926441324
+                    2848615171,
+                    2048641572
                 ],
                 "notes": "pve"
             }
@@ -322,8 +316,8 @@
                 "name": "Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)",
                 "ids": [
                     3230963543,
-                    4116820839,
-                    509594246
+                    957782887,
+                    2846385770
                 ],
                 "notes": "pvp"
             }
@@ -338,7 +332,7 @@
             {
                 "name": "Air Assault (Enhanced)",
                 "ids": [
-                    2898218424
+                    3722653512
                 ]
             },
             {
@@ -350,7 +344,7 @@
             {
                 "name": "Triple Tap (Enhanced)",
                 "ids": [
-                    573122728
+                    3400784728
                 ]
             },
             {
@@ -362,7 +356,7 @@
             {
                 "name": "Compulsive Reloader (Enhanced)",
                 "ids": [
-                    595108252
+                    671806388
                 ]
             },
             {
@@ -374,7 +368,7 @@
             {
                 "name": "Outlaw (Enhanced)",
                 "ids": [
-                    1347741687
+                    1168162263
                 ]
             },
             {
@@ -386,7 +380,7 @@
             {
                 "name": "Demolitionist (Enhanced)",
                 "ids": [
-                    1906147653
+                    3523296417
                 ]
             },
             {
@@ -398,7 +392,7 @@
             {
                 "name": "Zen Moment (Enhanced)",
                 "ids": [
-                    1748774930
+                    2387244414
                 ]
             },
             {
@@ -410,7 +404,7 @@
             {
                 "name": "Rampage (Enhanced)",
                 "ids": [
-                    288411554
+                    3425386926
                 ]
             },
             {
@@ -422,7 +416,7 @@
             {
                 "name": "Frenzy (Enhanced)",
                 "ids": [
-                    3007133316
+                    4104185692
                 ]
             },
             {
@@ -434,7 +428,7 @@
             {
                 "name": "Opening Shot (Enhanced)",
                 "ids": [
-                    1370847713
+                    47981717
                 ]
             }
         ]
