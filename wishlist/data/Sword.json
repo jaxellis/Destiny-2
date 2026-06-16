@@ -37,7 +37,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Frenzy, Eager Edge",
                 "ids": [
                     4104185692,
                     2077819806
@@ -45,7 +44,6 @@
                 "notes": "pve - utility"
             },
             {
-                "name": "Chain Reaction, Eager Edge",
                 "ids": [
                     2396489472,
                     2077819806
@@ -55,37 +53,31 @@
         ],
         "trashcombos": [
             {
-                "name": "Destabilizing Rounds",
                 "ids": [
                     2048641572
                 ]
             },
             {
-                "name": "Whirlwind Blade",
                 "ids": [
                     3913600130
                 ]
             },
             {
-                "name": "Desperate Measures",
                 "ids": [
                     2109543898
                 ]
             },
             {
-                "name": "Repulsor Brace",
                 "ids": [
                     776531651
                 ]
             },
             {
-                "name": "Attrition Orbs",
                 "ids": [
                     243981275
                 ]
             },
             {
-                "name": "Duelist's Trance",
                 "ids": [
                     3705817207
                 ]
@@ -139,7 +131,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition",
                 "ids": [
                     938542991,
                     3666208348,
@@ -165,7 +156,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Eager Edge, Cold Steel",
                 "ids": [
                     2077819806,
                     3650930298
@@ -175,37 +165,31 @@
         ],
         "trashcombos": [
             {
-                "name": "Attrition Orbs",
                 "ids": [
                     243981275
                 ]
             },
             {
-                "name": "Pugilst",
                 "ids": [
                     691659142
                 ]
             },
             {
-                "name": "Thresh",
                 "ids": [
                     2726471870
                 ]
             },
             {
-                "name": "Permeability",
                 "ids": [
                     2428997981
                 ]
             },
             {
-                "name": "Collective Action",
                 "ids": [
                     3324494224
                 ]
             },
             {
-                "name": "One For All",
                 "ids": [
                     4049631843
                 ]
@@ -220,7 +204,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Eager Edge, Cold Steel",
                 "ids": [
                     2077819806,
                     3650930298
@@ -230,37 +213,31 @@
         ],
         "trashcombos": [
             {
-                "name": "Attrition Orbs",
                 "ids": [
                     243981275
                 ]
             },
             {
-                "name": "Pugilst",
                 "ids": [
                     691659142
                 ]
             },
             {
-                "name": "Thresh",
                 "ids": [
                     2726471870
                 ]
             },
             {
-                "name": "Permeability",
                 "ids": [
                     2428997981
                 ]
             },
             {
-                "name": "Collective Action",
                 "ids": [
                     3324494224
                 ]
             },
             {
-                "name": "One For All",
                 "ids": [
                     4049631843
                 ]

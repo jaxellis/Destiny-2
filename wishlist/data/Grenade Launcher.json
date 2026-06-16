@@ -8,7 +8,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Hard Launch, Chain Reaction, Deconstruct",
                 "ids": [
                     981914802,
                     2396489472,
@@ -17,7 +16,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Hard Launch, Envious Assassin, Bait and Switch",
                 "ids": [
                     981914802,
                     968510818,
@@ -28,19 +26,16 @@
         ],
         "trashcombos": [
             {
-                "name": "Repulsor Brace",
                 "ids": [
                     776531651
                 ]
             },
             {
-                "name": "Destabilizing Rounds",
                 "ids": [
                     2048641572
                 ]
             },
             {
-                "name": "Adrenaline Junky",
                 "ids": [
                     11612903
                 ]
@@ -56,7 +51,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Demolitionist, Hatchling",
                 "ids": [
                     3523296417,
                     831391274
@@ -64,7 +58,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Demolitionist, Blast Distributor, Slice, One For All, Hatchling, Elemental Honing",
                 "ids": [
                     3523296417,
                     1017229899,
@@ -78,49 +71,41 @@
         ],
         "trashcombos": [
             {
-                "name": "Recycled Energy",
                 "ids": [
                     3713215006
                 ]
             },
             {
-                "name": "Transcendent Moment",
                 "ids": [
                     3731491409
                 ]
             },
             {
-                "name": "Envious Arsenal",
                 "ids": [
                     3987942396
                 ]
             },
             {
-                "name": "Ambitious Assassin",
                 "ids": [
                     2010801679
                 ]
             },
             {
-                "name": "Binary Orbit",
                 "ids": [
                     1546142478
                 ]
             },
             {
-                "name": "Frenzy",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Vorpal Weapon",
                 "ids": [
                     1546637391
                 ]
             },
             {
-                "name": "Attrition Orbs",
                 "ids": [
                     243981275
                 ]
@@ -136,7 +121,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Demolitionist, Chain Reaction",
                 "ids": [
                     3523296417,
                     2396489472
@@ -144,7 +128,6 @@
                 "notes": "Best perk roll, pve"
             },
             {
-                "name": "Quick Launch, High-Velocity Rounds, Demolitionist, Chain Reaction",
                 "ids": [
                     3525010810,
                     2822142346,
@@ -156,73 +139,61 @@
         ],
         "trashcombos": [
             {
-                "name": "Unrelenting",
                 "ids": [
                     3108830275
                 ]
             },
             {
-                "name": "Stats for All",
                 "ids": [
                     1583705720
                 ]
             },
             {
-                "name": "Ambitious Assassin",
                 "ids": [
                     2010801679
                 ]
             },
             {
-                "name": "Surplus",
                 "ids": [
                     3436462433
                 ]
             },
             {
-                "name": "Steady Hands",
                 "ids": [
                     509074078
                 ]
             },
             {
-                "name": "Disruption Break",
                 "ids": [
                     1683379515
                 ]
             },
             {
-                "name": "Wellspring",
                 "ids": [
                     3592538738
                 ]
             },
             {
-                "name": "Golden Tricorn",
                 "ids": [
                     2610012052
                 ]
             },
             {
-                "name": "One For All",
                 "ids": [
                     4049631843
                 ]
             },
             {
-                "name": "Bait and Switch",
                 "ids": [
                     3078487919
                 ]
             },
             {
-                "name": "Rampage",
                 "ids": [
                     3425386926
                 ]
             },
             {
-                "name": "Desperate Measures",
                 "ids": [
                     2109543898
                 ]
@@ -237,7 +208,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Chain Reaction, Voltshot",
                 "ids": [
                     2173046394,
                     2396489472
@@ -256,7 +226,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Spike Grenades, Auto-loading Holster, Frenzy",
                 "ids": [
                     3301904089,
                     3300816228,
@@ -265,7 +234,6 @@
                 "notes": ""
             },
             {
-                "name": "Spike Grenades, Auto-loading Holster, Vorpal Weapon",
                 "ids": [
                     3301904089,
                     3300816228,
@@ -274,7 +242,6 @@
                 "notes": ""
             },
             {
-                "name": "Spike Grenades, Auto-loading Holster, Recombination",
                 "ids": [
                     3301904089,
                     3300816228,
@@ -285,43 +252,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Impulse Amplifier",
                 "ids": [
                     951095735
                 ]
             },
             {
-                "name": "Rampage",
                 "ids": [
                     3425386926
                 ]
             },
             {
-                "name": "Adrenaline Junky",
                 "ids": [
                     11612903
                 ]
             },
             {
-                "name": "One For All",
                 "ids": [
                     4049631843
                 ]
             },
             {
-                "name": "Harmony",
                 "ids": [
                     438098033
                 ]
             },
             {
-                "name": "Overflow",
                 "ids": [
                     3643424744
                 ]
             },
             {
-                "name": "Slickdraw",
                 "ids": [
                     1821614984
                 ]
@@ -336,7 +296,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Envious Arsenal, Bait and Switch",
                 "ids": [
                     3987942396,
                     3078487919
@@ -344,7 +303,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Incandescent, Explosive Light",
                 "ids": [
                     4293542123,
                     3194351027
@@ -352,7 +310,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Incandescent, Chain Reaction",
                 "ids": [
                     4293542123,
                     2396489472
@@ -362,43 +319,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Impulse Amplifier",
                 "ids": [
                     951095735
                 ]
             },
             {
-                "name": "Blast Distributor",
                 "ids": [
                     1017229899
                 ]
             },
             {
-                "name": "Stats for All",
                 "ids": [
                     1583705720
                 ]
             },
             {
-                "name": "Field Prep",
                 "ids": [
                     2869569095
                 ]
             },
             {
-                "name": "Burning Ambition",
                 "ids": [
                     2890807135
                 ]
             },
             {
-                "name": "Full Court",
                 "ids": [
                     2888557110
                 ]
             },
             {
-                "name": "Binary Orbit",
                 "ids": [
                     1546142478
                 ]
@@ -413,7 +363,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Reconstruction, Reaper's Tithe",
                 "ids": [
                     1523832109,
                     113508675
@@ -423,43 +372,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Eddy Current",
                 "ids": [
                     684456054
                 ]
             },
             {
-                "name": "Blast Distributor",
                 "ids": [
                     1017229899
                 ]
             },
             {
-                "name": "Reverberation",
                 "ids": [
                     563069569
                 ]
             },
             {
-                "name": "Transcendent Moment",
                 "ids": [
                     3731491409
                 ]
             },
             {
-                "name": "Voltshot",
                 "ids": [
                     2173046394
                 ]
             },
             {
-                "name": "Binary Orbit",
                 "ids": [
                     1546142478
                 ]
             },
             {
-                "name": "Rolling Storm",
                 "ids": [
                     3218042543
                 ]

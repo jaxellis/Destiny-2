@@ -7,7 +7,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Slideshot, One-Two Punch",
                 "ids": [
                     3161816588,
                     2679249093
@@ -17,13 +16,11 @@
         ],
         "trashcombos": [
             {
-                "name": "Binary Orbit",
                 "ids": [
                     1546142478
                 ]
             },
             {
-                "name": "Barrel Constrictor",
                 "ids": [
                     1451849462
                 ]
@@ -38,7 +35,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Firefly, Explosive Payload",
                 "ids": [
                     3824105627,
                     3038247973
@@ -57,7 +53,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Explosive Payload, Frenzy",
                 "ids": [
                     3038247973,
                     4104185692
@@ -67,50 +62,42 @@
         ],
         "trashcombos": [
             {
-                "name": "Moving Target",
                 "ids": [
                     588594999
                 ]
             },
             {
-                "name": "Attrition Orbs",
                 "ids": [
                     243981275
                 ]
             },
             {
-                "name": "Zen Moment",
                 "ids": [
                     2387244414
                 ]
             },
             {
-                "name": "Opening Shot",
                 "ids": [
                     47981717
                 ]
             },
             {
-                "name": "Enlightened Action, Frenzy",
                 "ids": [
                     3828510309,
                     4104185692
                 ]
             },
             {
-                "name": "Kinetic Tremors",
                 "ids": [
                     3891536761
                 ]
             },
             {
-                "name": "Desperate Measures",
                 "ids": [
                     2109543898
                 ]
             },
             {
-                "name": "Outlaw, Frenzy",
                 "ids": [
                     1168162263,
                     4104185692
@@ -126,7 +113,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Dragonfly, Destabilizing Rounds",
                 "ids": [
                     2848615171,
                     2048641572
@@ -134,7 +120,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Dragonfly (Enhanced), Destabilizing Rounds (Enhanced)",
                 "ids": [
                     2848615171,
                     2048641572
@@ -144,13 +129,11 @@
         ],
         "trashcombos": [
             {
-                "name": "Sword Logic",
                 "ids": [
                     31345821
                 ]
             },
             {
-                "name": "Precision Instrument",
                 "ids": [
                     555281244
                 ]
@@ -304,7 +287,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Flared Magwell, Snapshot Sights , Rangefinder",
                 "ids": [
                     3230963543,
                     957782887,
@@ -313,7 +295,6 @@
                 "notes": "pvp - Get Enhanced traits!!!"
             },
             {
-                "name": "Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)",
                 "ids": [
                     3230963543,
                     957782887,
@@ -324,109 +305,91 @@
         ],
         "trashcombos": [
             {
-                "name": "Air Assault",
                 "ids": [
                     3722653512
                 ]
             },
             {
-                "name": "Air Assault (Enhanced)",
                 "ids": [
                     3722653512
                 ]
             },
             {
-                "name": "Triple Tap",
                 "ids": [
                     3400784728
                 ]
             },
             {
-                "name": "Triple Tap (Enhanced)",
                 "ids": [
                     3400784728
                 ]
             },
             {
-                "name": "Compulsive Reloader",
                 "ids": [
                     671806388
                 ]
             },
             {
-                "name": "Compulsive Reloader (Enhanced)",
                 "ids": [
                     671806388
                 ]
             },
             {
-                "name": "Outlaw",
                 "ids": [
                     1168162263
                 ]
             },
             {
-                "name": "Outlaw (Enhanced)",
                 "ids": [
                     1168162263
                 ]
             },
             {
-                "name": "Demolitionist",
                 "ids": [
                     3523296417
                 ]
             },
             {
-                "name": "Demolitionist (Enhanced)",
                 "ids": [
                     3523296417
                 ]
             },
             {
-                "name": "Zen Moment",
                 "ids": [
                     2387244414
                 ]
             },
             {
-                "name": "Zen Moment (Enhanced)",
                 "ids": [
                     2387244414
                 ]
             },
             {
-                "name": "Rampage",
                 "ids": [
                     3425386926
                 ]
             },
             {
-                "name": "Rampage (Enhanced)",
                 "ids": [
                     3425386926
                 ]
             },
             {
-                "name": "Frenzy",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Frenzy (Enhanced)",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Opening Shot",
                 "ids": [
                     47981717
                 ]
             },
             {
-                "name": "Opening Shot (Enhanced)",
                 "ids": [
                     47981717
                 ]

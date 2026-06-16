@@ -7,7 +7,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Subsistence, Rampage",
                 "ids": [
                     1820235745,
                     3425386926
@@ -15,7 +14,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Subsistence, Onslaught",
                 "ids": [
                     1820235745,
                     95528736
@@ -23,7 +21,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Subsistence, Frenzy",
                 "ids": [
                     1820235745,
                     4104185692
@@ -33,31 +30,26 @@
         ],
         "trashcombos": [
             {
-                "name": "Rangefinder",
                 "ids": [
                     2846385770
                 ]
             },
             {
-                "name": "Perpetual Motion",
                 "ids": [
                     1428297954
                 ]
             },
             {
-                "name": "Dynamic Sway Reduction",
                 "ids": [
                     1359896290
                 ]
             },
             {
-                "name": "Fragile Focus",
                 "ids": [
                     2451262963
                 ]
             },
             {
-                "name": "Target Lock",
                 "ids": [
                     365154968
                 ]
@@ -72,7 +64,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Attrition Orbs, Kinetic Tremors",
                 "ids": [
                     243981275,
                     3891536761
@@ -90,7 +81,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Repulsor Brace, Frenzy",
                 "ids": [
                     776531651,
                     4104185692
@@ -100,25 +90,21 @@
         ],
         "trashcombos": [
             {
-                "name": "Dynamic Sway Reduction",
                 "ids": [
                     1359896290
                 ]
             },
             {
-                "name": "Hip-Fire Grip",
                 "ids": [
                     1866048759
                 ]
             },
             {
-                "name": "Tap the Trigger",
                 "ids": [
                     1890422124
                 ]
             },
             {
-                "name": "Target Lock",
                 "ids": [
                     365154968
                 ]
@@ -134,7 +120,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Attrition Orbs, Burning Ambition",
                 "ids": [
                     243981275,
                     2890807135
@@ -142,7 +127,6 @@
                 "notes": "pve - (mini)boss"
             },
             {
-                "name": "Demolitionist, Incandescent",
                 "ids": [
                     3523296417,
                     4293542123
@@ -150,7 +134,6 @@
                 "notes": "pve - add clear"
             },
             {
-                "name": "Attrition Orbs, Chaos Reshaped",
                 "ids": [
                     243981275,
                     3640170453
@@ -158,7 +141,6 @@
                 "notes": "pve - boss"
             },
             {
-                "name": "Attrition Orbs, Burning Ambition, Heal Clip, Demolitionist, Incandescent, Chaos Reshaped",
                 "ids": [
                     243981275,
                     2890807135,
@@ -172,43 +154,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Transcendent Moment",
                 "ids": [
                     3731491409
                 ]
             },
             {
-                "name": "Recycled Energy",
                 "ids": [
                     3713215006
                 ]
             },
             {
-                "name": "Feeding Frenzy",
                 "ids": [
                     2779035018
                 ]
             },
             {
-                "name": "Lone Wolf",
                 "ids": [
                     2579169598
                 ]
             },
             {
-                "name": "Binary Orbit",
                 "ids": [
                     1546142478
                 ]
             },
             {
-                "name": "Harmony",
                 "ids": [
                     438098033
                 ]
             },
             {
-                "name": "Target Lock",
                 "ids": [
                     365154968
                 ]

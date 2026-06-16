@@ -58,7 +58,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Envious Assassin, Controlled Burst",
                 "ids": [
                     968510818,
                     2594592626
@@ -68,43 +67,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Fragile Focus",
                 "ids": [
                     2451262963
                 ]
             },
             {
-                "name": "Threat Detector",
                 "ids": [
                     4071163871
                 ]
             },
             {
-                "name": "Lead from Gold",
                 "ids": [
                     1556840489
                 ]
             },
             {
-                "name": "Loose Change",
                 "ids": [
                     1119449540
                 ]
             },
             {
-                "name": "Under Pressure",
                 "ids": [
                     1645158859
                 ]
             },
             {
-                "name": "Collective Action",
                 "ids": [
                     3324494224
                 ]
             },
             {
-                "name": "Kickstart",
                 "ids": [
                     1754714824
                 ]
@@ -144,7 +136,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Firmly Planted, Snapshot Sights",
                 "ids": [
                     280464955,
                     957782887
@@ -154,43 +145,36 @@
         ],
         "trashcombos": [
             {
-                "name": "Field Prep",
                 "ids": [
                     2869569095
                 ]
             },
             {
-                "name": "Shield Disorient",
                 "ids": [
                     3275789089
                 ]
             },
             {
-                "name": "Lead from Gold",
                 "ids": [
                     1556840489
                 ]
             },
             {
-                "name": "Auto-loading Holster",
                 "ids": [
                     3300816228
                 ]
             },
             {
-                "name": "Elemental Capacitor",
                 "ids": [
                     3511092054
                 ]
             },
             {
-                "name": "Disruption Break",
                 "ids": [
                     1683379515
                 ]
             },
             {
-                "name": "Demolitionist",
                 "ids": [
                     3523296417
                 ]
@@ -219,7 +203,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Auto-loading Holster, Controlled Burst",
                 "ids": [
                     3300816228,
                     2594592626
@@ -227,7 +210,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)",
                 "ids": [
                     3300816228,
                     2594592626

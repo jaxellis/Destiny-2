@@ -48,7 +48,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Fourth Time's the Charm, Firing Line",
                 "ids": [
                     1354429876,
                     1771339417
@@ -58,49 +57,41 @@
         ],
         "trashcombos": [
             {
-                "name": "Rapid Hit",
                 "ids": [
                     247725512
                 ]
             },
             {
-                "name": "Under Pressure",
                 "ids": [
                     1645158859
                 ]
             },
             {
-                "name": "Keep Away",
                 "ids": [
                     3619207468
                 ]
             },
             {
-                "name": "Headstone",
                 "ids": [
                     124408337
                 ]
             },
             {
-                "name": "Harmony",
                 "ids": [
                     438098033
                 ]
             },
             {
-                "name": "Focused Fury",
                 "ids": [
                     2896038713
                 ]
             },
             {
-                "name": "Eye of the Storm",
                 "ids": [
                     699525795
                 ]
             },
             {
-                "name": "Opening Shot",
                 "ids": [
                     47981717
                 ]
@@ -138,7 +129,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Fourth Time's the Charm, Bait and Switch",
                 "ids": [
                     1354429876,
                     3078487919
@@ -148,43 +138,36 @@
         ],
         "trashcombos": [
             {
-                "name": "No Distractions",
                 "ids": [
                     2866798147
                 ]
             },
             {
-                "name": "Osmosis",
                 "ids": [
                     1774574192
                 ]
             },
             {
-                "name": "Envious Arsenal",
                 "ids": [
                     3987942396
                 ]
             },
             {
-                "name": "High-Impact Reserves",
                 "ids": [
                     2213355989
                 ]
             },
             {
-                "name": "Frenzy",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Opening Shot",
                 "ids": [
                     47981717
                 ]
             },
             {
-                "name": "Precision Instrument",
                 "ids": [
                     555281244
                 ]
@@ -216,7 +199,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Discord, Redirection",
                 "ids": [
                     3978468247,
                     3201496230
@@ -224,7 +206,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Reconstruction, Vorpal Weapon",
                 "ids": [
                     1523832109,
                     1546637391
@@ -232,7 +213,6 @@
                 "notes": "pve"
             },
             {
-                "name": "Reconstruction, Focused Fury",
                 "ids": [
                     1523832109,
                     2896038713
@@ -242,31 +222,26 @@
         ],
         "trashcombos": [
             {
-                "name": "Moving Target",
                 "ids": [
                     588594999
                 ]
             },
             {
-                "name": "Firing Line",
                 "ids": [
                     1771339417
                 ]
             },
             {
-                "name": "No Distractions",
                 "ids": [
                     2866798147
                 ]
             },
             {
-                "name": "Firmly Planted",
                 "ids": [
                     280464955
                 ]
             },
             {
-                "name": "Box Breathing",
                 "ids": [
                     2551157718
                 ]

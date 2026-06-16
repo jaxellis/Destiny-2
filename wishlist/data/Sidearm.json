@@ -43,7 +43,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Lead from Gold, Burning Ambition",
                 "ids": [
                     1556840489,
                     2890807135
@@ -53,37 +52,31 @@
         ],
         "trashcombos": [
             {
-                "name": "Beacon Rounds",
                 "ids": [
                     2859149211
                 ]
             },
             {
-                "name": "Impulse Amplifier",
                 "ids": [
                     951095735
                 ]
             },
             {
-                "name": "Blast Distributor",
                 "ids": [
                     1017229899
                 ]
             },
             {
-                "name": "Adagio",
                 "ids": [
                     3673922083
                 ]
             },
             {
-                "name": "Desperate Measures",
                 "ids": [
                     2109543898
                 ]
             },
             {
-                "name": "One For All",
                 "ids": [
                     4049631843
                 ]

@@ -7,7 +7,6 @@
         "trash": false,
         "perkcombo": [
             {
-                "name": "Reconstruction (Enhanced), Bait and Switch (Enhanced)",
                 "ids": [
                     1523832109,
                     3078487919
@@ -15,7 +14,6 @@
                 "notes": "pve - Boss damage - Crafted"
             },
             {
-                "name": "Reconstruction, Bait and Switch",
                 "ids": [
                     1523832109,
                     3078487919
@@ -25,109 +23,91 @@
         ],
         "trashcombos": [
             {
-                "name": "Threat Detector",
                 "ids": [
                     4071163871
                 ]
             },
             {
-                "name": "Threat Detector (Enhanced)",
                 "ids": [
                     4071163871
                 ]
             },
             {
-                "name": "Tracking Module",
                 "ids": [
                     3977735242
                 ]
             },
             {
-                "name": "Tracking Module (Enhanced)",
                 "ids": [
                     3977735242
                 ]
             },
             {
-                "name": "Danger Zone",
                 "ids": [
                     960810156
                 ]
             },
             {
-                "name": "Danger Zone (Enhanced)",
                 "ids": [
                     960810156
                 ]
             },
             {
-                "name": "Incandescent",
                 "ids": [
                     4293542123
                 ]
             },
             {
-                "name": "Incandescent (Enhanced)",
                 "ids": [
                     4293542123
                 ]
             },
             {
-                "name": "Slideways",
                 "ids": [
                     2039302152
                 ]
             },
             {
-                "name": "Slideways (Enhanced)",
                 "ids": [
                     2039302152
                 ]
             },
             {
-                "name": "Frenzy",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Frenzy (Enhanced)",
                 "ids": [
                     4104185692
                 ]
             },
             {
-                "name": "Collective Action",
                 "ids": [
                     3324494224
                 ]
             },
             {
-                "name": "Collective Action (Enhanced)",
                 "ids": [
                     3324494224
                 ]
             },
             {
-                "name": "Explosive Light",
                 "ids": [
                     3194351027
                 ]
             },
             {
-                "name": "Explosive Light (Enhanced)",
                 "ids": [
                     3194351027
                 ]
             },
             {
-                "name": "Vorpal Weapon",
                 "ids": [
                     1546637391
                 ]
             },
             {
-                "name": "Vorpal Weapon (Enhanced)",
                 "ids": [
                     1546637391
                 ]
