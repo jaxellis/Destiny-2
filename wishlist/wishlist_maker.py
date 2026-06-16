@@ -12,6 +12,7 @@ FILE_NAME_OUTPUT = "wishlist.txt"  # Output file name for the generated wishlist
 DATA_FOLDER = (
     Path(__file__).resolve().parent / "data"  # Folder containing input JSON files
 )
+GUNS_FOLDER: Path = DATA_FOLDER / "guns"
 DEFAULT_LOG_LEVEL = "INFO"  # Change to "DEBUG" for more verbose logging
 LOG_BACKUP_COUNT = 1  # Number of backup log files to keep
 LOG_MAX_BYTES = 2_000_000  # Max size of log file in bytes before rotation (2MB)
@@ -215,11 +216,11 @@ def verify_setup_integrity() -> None | Dict[str, List[Dict[str, Any]]]:
     if not DATA_FOLDER.is_dir():
         logging.error("Data path '%s' is not a directory.", DATA_FOLDER)
         return
-    json_files = sorted(DATA_FOLDER.glob("*.json"))
+    json_files = sorted(GUNS_FOLDER.glob("*.json"))
     if not json_files:
-        logging.error("No JSON files found in data folder '%s'.", DATA_FOLDER)
+        logging.error("No JSON files found in %s.", GUNS_FOLDER)
         return
-    logging.info("Found %d JSON files in %s", len(json_files), DATA_FOLDER)
+    logging.info("Found %d JSON files in %s", len(json_files), GUNS_FOLDER)
     return combine_json(json_files)
 
 
