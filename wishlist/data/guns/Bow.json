@@ -1,5 +1,104 @@
 [
     {
+        "name": "Point of the Stag",
+        "ids": [
+            911019136
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "ids": [
+                    2801223209,
+                    16392701,
+                    2848615171,
+                    2173046394,
+                    3414324643,
+                    1050127423
+                ],
+                "notes": "pve - God Roll - Non-Denouement except with Wild Card"
+            },
+            {
+                "ids": [
+                    2848615171,
+                    2173046394,
+                    3414324643,
+                    1050127423
+                ],
+                "notes": "pve - God Perk Roll - Missing string & arrow"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
+        "name": "Biting Winds",
+        "ids": [
+            2485400469
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "ids": [
+                    2801223209,
+                    16392701,
+                    201365942,
+                    2289534249,
+                    2360347339,
+                    3891536761,
+                    3365897133,
+                    1588586136
+                ],
+                "notes": "pve - God Roll - somehow even better than Accrued"
+            },
+            {
+                "ids": [
+                    201365942,
+                    2289534249,
+                    2360347339,
+                    3891536761,
+                    3365897133,
+                    1588586136
+                ],
+                "notes": "pve - God Perk Roll - Missing string & arrow"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
+        "name": "The Spiteful Fang",
+        "ids": [
+            1094998581,
+            1704597062
+        ],
+        "trash": false,
+        "perkcombo": [
+            {
+                "ids": [
+                    2801223209,
+                    16392701,
+                    1955165503,
+                    124408337,
+                    3414324643,
+                    3824105627,
+                    2922950962,
+                    2327629476
+                ],
+                "notes": "pve - God Roll - the fire and ice combo but on a bow"
+            },
+            {
+                "ids": [
+                    1955165503,
+                    124408337,
+                    3414324643,
+                    3824105627,
+                    2922950962,
+                    2327629476
+                ],
+                "notes": "pve - God Perk Roll - Missing string & arrow"
+            }
+        ],
+        "trashcombos": []
+    },
+    {
         "name": "Non-Denouement",
         "ids": [
             1770490683
@@ -8,61 +107,62 @@
         "perkcombo": [
             {
                 "ids": [
+                    2801223209,
+                    16392701,
                     2848615171,
-                    3640170453
+                    3218042543,
+                    3700496672,
+                    2173046394,
+                    3640170453,
+                    657025441
                 ],
-                "notes": "pve"
+                "notes": "pve - God Roll - prime example of double splash over arrow uptime usefulness"
             },
             {
                 "ids": [
                     2848615171,
-                    3640170453
+                    3218042543,
+                    3700496672,
+                    2173046394,
+                    3640170453,
+                    657025441
                 ],
-                "notes": "pve"
+                "notes": "pve - God Perk Roll - Missing string & arrow"
             }
         ],
-        "trashcombos": [
+        "trashcombos": []
+    },
+    {
+        "name": "Accrued Redemption",
+        "ids": [
+            3621336854
+        ],
+        "trash": false,
+        "perkcombo": [
             {
                 "ids": [
-                    880644845
-                ]
-            },
-            {
-                "ids": [
-                    1866048759
-                ]
-            },
-            {
-                "ids": [
-                    47981717
-                ]
-            },
-            {
-                "ids": [
-                    951095735
-                ]
-            },
-            {
-                "ids": [
-                    588594999
-                ]
-            },
-            {
-                "ids": [
+                    2801223209,
+                    16392701,
+                    243981275,
+                    201365942,
+                    3891536761,
+                    3824105627,
                     3414324643
-                ]
+                ],
+                "notes": "pve - God Roll - good orb generator, solid KT scaling too"
             },
             {
                 "ids": [
-                    2109543898
-                ]
-            },
-            {
-                "ids": [
-                    4049631843
-                ]
+                    243981275,
+                    201365942,
+                    3891536761,
+                    3824105627,
+                    3414324643
+                ],
+                "notes": "pve - God Perk Roll - Missing string & arrow"
             }
-        ]
+        ],
+        "trashcombos": []
     },
     {
         "name": "Fortunate Star",
@@ -170,5 +270,113 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Neoptolemus II",
+        "ids": [
+            2848549302
+        ],
+        "trash": true
+    },
+    {
+        "name": "Whistler's Whim",
+        "ids": [
+            3165143747,
+            1574601402
+        ],
+        "trash": true
+    },
+    {
+        "name": "Whistler's Whim (Adept)",
+        "ids": [
+            161675590,
+            711889599
+        ],
+        "trash": true
+    },
+    {
+        "name": "Whispering Slab",
+        "ids": [
+            690341468,
+            211938782
+        ],
+        "trash": true
+    },
+    {
+        "name": "Lethophobia",
+        "ids": [
+            3710082365
+        ],
+        "trash": true
+    },
+    {
+        "name": "Lunulata-4B",
+        "ids": [
+            2513965917
+        ],
+        "trash": true
+    },
+    {
+        "name": "Imperial Needle",
+        "ids": [
+            3460122497
+        ],
+        "trash": true
+    },
+    {
+        "name": "Fel Taradiddle",
+        "ids": [
+            1399109800
+        ],
+        "trash": true
+    },
+    {
+        "name": "Wolftone Draw",
+        "ids": [
+            3472875143
+        ],
+        "trash": true
+    },
+    {
+        "name": "Raconteur",
+        "ids": [
+            45643573
+        ],
+        "trash": true
+    },
+    {
+        "name": "Under Your Skin",
+        "ids": [
+            232928045
+        ],
+        "trash": true
+    },
+    {
+        "name": "Arsenic Bite-4B",
+        "ids": [
+            720351795
+        ],
+        "trash": true
+    },
+    {
+        "name": "Tripwire Canary",
+        "ids": [
+            3849444474
+        ],
+        "trash": true
+    },
+    {
+        "name": "Hushed Whisper",
+        "ids": [
+            1175295126
+        ],
+        "trash": true
+    },
+    {
+        "name": "Strident Whistle",
+        "ids": [
+            2591241074
+        ],
+        "trash": true
     }
 ]
