@@ -94,7 +94,7 @@
                     2109543898,
                     3244229373
                 ],
-                "notes": "pve - God Perk Roll - Missing Full Bore and Accurized Rounds"
+                "notes": "pve - God Perk Roll - Missing Barrel and Magazine"
             }
         ],
         "trashcombos": []
@@ -109,14 +109,31 @@
         "perkcombo": [
             {
                 "ids": [
+                    839105230,
+                    1840239774,
+                    3230963543,
+                    1431678320,
                     2048641572,
                     1767911158,
                     2613226185,
                     776531651,
                     3640170453,
-                    2904194311
+                    2904194311,
+                    642688932
                 ],
                 "notes": "pve - God Roll"
+            },
+            {
+                "ids": [
+                    2048641572,
+                    1767911158,
+                    2613226185,
+                    776531651,
+                    3640170453,
+                    2904194311,
+                    642688932
+                ],
+                "notes": "pve - God Perk Roll - Missing Barrel and Magazine"
             }
         ],
         "trashcombos": []
