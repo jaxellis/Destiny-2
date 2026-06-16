@@ -2,10 +2,33 @@
 // Auto Rifle
 //////////////////////////
 
+// No Hesitation
+
+// Full Bore, Accurized Rounds, Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
+dimwishlist:item=1801007332&perks=202670084,3142289711,4063561849,2890807135,3640170453,243981275,4293542123#notes: pve - God Roll
+// Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
+dimwishlist:item=1801007332&perks=4063561849,2890807135,3640170453,243981275,4293542123#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
+
+// DECATUR 02
+
+// Full Bore, Accurized Rounds, Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
+dimwishlist:item=1850748385&perks=202670084,3142289711,4063561849,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Roll
+// Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
+dimwishlist:item=1850748385&perks=4063561849,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
+
 // Adamantite
 
-// Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear 
-dimwishlist:item=621450049&perks=4063561849,4070834277,1906147653,102912326,2799030358,3244229373#notes: pve - God Roll
+// Full Bore, Accurized Rounds, Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear
+dimwishlist:item=621450049&perks=202670084,3142289711,4063561849,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Roll
+// Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear
+dimwishlist:item=621450049&perks=4063561849,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
+
+// Reckless Oracle
+
+// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
+dimwishlist:item=4158265643&perks=2048641572,1767911158,2613226185,776531651,3640170453,2904194311#notes: pve - God Roll
+// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
+dimwishlist:item=1802315656&perks=2048641572,1767911158,2613226185,776531651,3640170453,2904194311#notes: pve - God Roll
 
 // Abyss Defiant
 
@@ -14,9 +37,9 @@ dimwishlist:item=833898322&perks=3828510309,4293542123#notes: pve - add clear
 // Subsistence, Incandescent
 dimwishlist:item=833898322&perks=1820235745,4293542123#notes: pve - add clear
 // Enlightened Action, Incandescent
-dimwishlist:item=833898322&perks=1771736209,2675184851#notes: pve - add clear - Crafted
+dimwishlist:item=833898322&perks=3828510309,4293542123#notes: pve - add clear - Crafted
 // Subsistence, Incandescent
-dimwishlist:item=833898322&perks=4245865861,2675184851#notes: pve - add clear - Crafted
+dimwishlist:item=833898322&perks=1820235745,4293542123#notes: pve - add clear - Crafted
 // Sword Logic
 dimwishlist:item=-833898322&perks=31345821
 // Target Lock
@@ -72,11 +95,6 @@ dimwishlist:item=-2026755633&perks=3673922083
 // Target Lock
 dimwishlist:item=-2026755633&perks=365154968
 
-// DECATUR 02
-
-// Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
-dimwishlist:item=1850748385&perks=4063561849,984655331,2078520142,4070834277,2963273944,1545231802#notes: pve - God Roll
-
 // Horror Story
 
 // Under-Over, Frenzy
@@ -88,17 +106,223 @@ dimwishlist:item=-177568179&perks=3751912585
 // Adrenaline Junky
 dimwishlist:item=-177568179&perks=11612903
 
-// No Hesitation
+// The Number
 
-// Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
-dimwishlist:item=1801007332&perks=4063561849,3581929919,1817983009,984655331,2675184851#notes: pve - God Roll
+dimwishlist:item=-2492081469
+dimwishlist:item=-3854359821
 
-// Reckless Oracle
+// Firefright
 
-// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
-dimwishlist:item=4158265643&perks=1926441324,1767911158,2613226185,2541826827,1817983009,2904194311#notes: pve - God Roll
-// Destabilizing Rounds, Dimensional Shift, Collective Demolition, Repulsor Brace, Chaos Reshaped, Withering Gaze
-dimwishlist:item=1802315656&perks=1926441324,1767911158,2613226185,2541826827,1817983009,2904194311#notes: pve - God Roll
+dimwishlist:item=-2778013407
+
+// Lodbrok-C
+
+dimwishlist:item=-2328531378
+
+// Perpetualis
+
+dimwishlist:item=-392008588
+
+// The Last Breath
+
+dimwishlist:item=-507038823
+dimwishlist:item=-1503609584
+
+// Sweet Sorrow
+
+dimwishlist:item=-1248372789
+
+// Old Sterling
+
+dimwishlist:item=-3678653083
+
+// Coronach-22
+
+dimwishlist:item=-355382946
+
+// Ros Arago IV
+
+dimwishlist:item=-3583275737
+
+// Come to Pass
+
+dimwishlist:item=-927567426
+
+// Dark Decider
+
+dimwishlist:item=-1144014195
+dimwishlist:item=-540880995
+dimwishlist:item=-1942069133
+
+// Herod-C
+
+dimwishlist:item=-2065366342
+dimwishlist:item=-1788603939
+
+// False Promises
+
+dimwishlist:item=-1390080550
+dimwishlist:item=-3143732432
+
+// Horror Story
+
+dimwishlist:item=-177568179
+dimwishlist:item=-2884070594
+dimwishlist:item=-3829285960
+
+// Krait
+
+dimwishlist:item=-2852052802
+
+// Sorrow's Verse
+
+dimwishlist:item=-775830132
+dimwishlist:item=-2557966895
+dimwishlist:item=-2496875173
+
+// Rufus's Fury
+
+dimwishlist:item=-484515708
+
+// Rufus's Fury (Adept)
+
+dimwishlist:item=-342514437
+
+// Lethal Abundance
+
+dimwishlist:item=-1884897339
+dimwishlist:item=-3428407746
+dimwishlist:item=-2189073092
+
+// Fair Judgment
+
+dimwishlist:item=-4113452819
+dimwishlist:item=-4176873718
+
+// Ahab Char
+
+dimwishlist:item=-1411560894
+
+// Auric Disabler
+
+dimwishlist:item=-702001725
+
+// Ammit AR2
+
+dimwishlist:item=-2119346509
+
+// The Forward Path
+
+dimwishlist:item=-1884897338
+dimwishlist:item=-1690783811
+dimwishlist:item=-2014642399
+
+// Prosecutor
+
+dimwishlist:item=-1091550016
+dimwishlist:item=-880829467
+dimwishlist:item=-2129814338
+dimwishlist:item=-3483591058
+dimwishlist:item=-1909527966
+
+// Prosecutor (Adept)
+
+dimwishlist:item=-749483159
+dimwishlist:item=-4025177550
+
+// Intercalary
+
+dimwishlist:item=-2725426834
+
+// Veiled Threat
+
+dimwishlist:item=-3685470415
+
+// Shadow Price
+
+dimwishlist:item=-3142989221
+dimwishlist:item=-2633186522
+dimwishlist:item=-2322926844
+
+// Shadow Price (Adept)
+
+dimwishlist:item=-1056103557
+dimwishlist:item=-2147010335
+
+// Braytech Werewolf
+
+dimwishlist:item=-528834068
+dimwishlist:item=-3558681245
+dimwishlist:item=-528834068
+
+// Breakneck
+
+dimwishlist:item=-2065366343
+dimwishlist:item=-2026755633
+dimwishlist:item=-324382200
+
+// Duty Bound
+
+dimwishlist:item=-260532765
+dimwishlist:item=-89693562
+dimwishlist:item=-435216110
+dimwishlist:item=-1457979868
+
+// Duty Bound (Adept)
+
+dimwishlist:item=-1135050595
+
+// Tigerspite
+
+dimwishlist:item=-1709137958
+dimwishlist:item=-2465372924
+dimwishlist:item=-640114618
+
+// Origin Story
+
+dimwishlist:item=-2188356726
+dimwishlist:item=-2826850739
+dimwishlist:item=-1644162710
+dimwishlist:item=-4024037919
+
+// Trendsetter
+
+dimwishlist:item=-2863808104
+
+// Arc Logic
+
+dimwishlist:item=-38064944
+dimwishlist:item=-2723909519
+
+// Chrysura Melo
+
+dimwishlist:item=-1337707096
+dimwishlist:item=-1750388538
+
+// Steelfeather Repeater
+
+dimwishlist:item=-771811870
+dimwishlist:item=-1251729046
+
+// Pluperfect
+
+dimwishlist:item=-2203881482
+dimwishlist:item=-1952163498
+
+// Giver's Blessing
+
+dimwishlist:item=-970034755
+
+// Seventh Seraph Carbine
+
+dimwishlist:item=-2560370239
+dimwishlist:item=-4070357005
+dimwishlist:item=-1561006927
+
+// Age-Old Bond
+
+dimwishlist:item=-424291879
+dimwishlist:item=-601592879
 
 //////////////////////////
 // Bow
@@ -108,8 +332,8 @@ dimwishlist:item=1802315656&perks=1926441324,1767911158,2613226185,2541826827,18
 
 // Dragonfly, Chaos Reshaped
 dimwishlist:item=1770490683&perks=2848615171,3640170453#notes: pve
-// Dragonfly (Enhanced), Chaos Reshaped (Enhanced)
-dimwishlist:item=1770490683&perks=169755979,1817983009#notes: pve
+// Dragonfly, Chaos Reshaped
+dimwishlist:item=1770490683&perks=2848615171,3640170453#notes: pve
 // Strategist
 dimwishlist:item=-1770490683&perks=880644845
 // Hip-Fire Grip
@@ -151,7 +375,7 @@ dimwishlist:item=-2631466936&perks=699525795
 // Pre Astyanax IV (Adept)
 
 // Archer's Tempo, Incandescent
-dimwishlist:item=496556698&perks=4293542123,201365942
+dimwishlist:item=496556698&perks=201365942,4293542123
 // Enlightened Action, Explosive Head
 dimwishlist:item=496556698&perks=3828510309,3365897133
 // Perpetual Motion
@@ -263,8 +487,8 @@ dimwishlist:item=-3258665412
 
 // Auto-loading Holster, Controlled Burst
 dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
-// Auto-loading Holster (Enhanced), Controlled Burst (Enhanced)
-dimwishlist:item=2720651699&perks=3528046508,2037312142#notes: pve
+// Auto-loading Holster, Controlled Burst
+dimwishlist:item=2720651699&perks=3300816228,2594592626#notes: pve
 
 //////////////////////////
 // Grenade Launcher
@@ -278,7 +502,7 @@ dimwishlist:item=568611923&perks=981914802,2396489472,3993379141#notes: pve
 dimwishlist:item=568611923&perks=981914802,968510818,3078487919#notes: pve
 // Repulsor Brace
 dimwishlist:item=-568611923&perks=776531651
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-568611923&perks=2048641572
 // Adrenaline Junky
 dimwishlist:item=-568611923&perks=11612903
@@ -288,7 +512,7 @@ dimwishlist:item=2228325504&perks=981914802,2396489472,3993379141#notes: pve
 dimwishlist:item=2228325504&perks=981914802,968510818,3078487919#notes: pve
 // Repulsor Brace
 dimwishlist:item=-2228325504&perks=776531651
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-2228325504&perks=2048641572
 // Adrenaline Junky
 dimwishlist:item=-2228325504&perks=11612903
@@ -397,7 +621,7 @@ dimwishlist:item=-2480074702&perks=2109543898
 
 // Hullabaloo
 
-// Chain Reaction, Voltshot
+// Voltshot, Chain Reaction
 dimwishlist:item=657927352&perks=2173046394,2396489472
 
 // Mountain Top
@@ -445,7 +669,7 @@ dimwishlist:item=-568611922&perks=1821614984
 
 // Outrageous Fortune
 
-// Enviouos Aresenal, Bait and Switch
+// Envious Arsenal, Bait and Switch
 dimwishlist:item=4146673634&perks=3987942396,3078487919#notes: pve
 // Incandescent, Explosive Light
 dimwishlist:item=4146673634&perks=4293542123,3194351027#notes: pve
@@ -509,8 +733,6 @@ dimwishlist:item=2171478765&perks=3824105627,3038247973#notes: pve - every activ
 dimwishlist:item=2763843898&perks=3038247973,4104185692
 // Moving Target
 dimwishlist:item=-2763843898&perks=588594999
-// Shoot to Loot
-dimwishlist:item=-2763843898&perks=3700496672
 // Attrition Orbs
 dimwishlist:item=-2763843898&perks=243981275
 // Zen Moment
@@ -529,8 +751,6 @@ dimwishlist:item=-2763843898&perks=1168162263,4104185692
 dimwishlist:item=2499720827&perks=3038247973,4104185692
 // Moving Target
 dimwishlist:item=-2499720827&perks=588594999
-// Shoot to Loot
-dimwishlist:item=-2499720827&perks=3700496672
 // Attrition Orbs
 dimwishlist:item=-2499720827&perks=243981275
 // Zen Moment
@@ -548,10 +768,10 @@ dimwishlist:item=-2499720827&perks=1168162263,4104185692
 
 // Word of Crota
 
-// Dragonfly, Destabalizing Rounds
+// Dragonfly, Destabilizing Rounds
 dimwishlist:item=120706239&perks=2848615171,2048641572#notes: pve
-// Dragonfly (Enhanced), Destabalizing Rounds (Enhanced)
-dimwishlist:item=120706239&perks=169755979,1926441324#notes: pve
+// Dragonfly, Destabilizing Rounds
+dimwishlist:item=120706239&perks=2848615171,2048641572#notes: pve
 // Sword Logic
 dimwishlist:item=-120706239&perks=31345821
 // Precision Instrument
@@ -643,86 +863,86 @@ dimwishlist:item=-3337727085
 
 // Austringer
 
-// Flared Magwell, Snapshot Sights , Rangefinder
+// Flared Magwell, Snapshot Sights, Rangefinder
 dimwishlist:item=3055790362&perks=3230963543,957782887,2846385770#notes: pvp - Get Enhanced traits!!!
-// Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)
-dimwishlist:item=3055790362&perks=3230963543,4116820839,509594246#notes: pvp
+// Flared Magwell, Snapshot Sights, Rangefinder
+dimwishlist:item=3055790362&perks=3230963543,957782887,2846385770#notes: pvp
 // Air Assault
 dimwishlist:item=-3055790362&perks=3722653512
-// Air Assault (Enhanced)
-dimwishlist:item=-3055790362&perks=2898218424
+// Air Assault
+dimwishlist:item=-3055790362&perks=3722653512
 // Triple Tap
 dimwishlist:item=-3055790362&perks=3400784728
-// Triple Tap (Enhanced)
-dimwishlist:item=-3055790362&perks=573122728
+// Triple Tap
+dimwishlist:item=-3055790362&perks=3400784728
 // Compulsive Reloader
 dimwishlist:item=-3055790362&perks=671806388
-// Compulsive Reloader (Enhanced)
-dimwishlist:item=-3055790362&perks=595108252
+// Compulsive Reloader
+dimwishlist:item=-3055790362&perks=671806388
 // Outlaw
 dimwishlist:item=-3055790362&perks=1168162263
-// Outlaw (Enhanced)
-dimwishlist:item=-3055790362&perks=1347741687
+// Outlaw
+dimwishlist:item=-3055790362&perks=1168162263
 // Demolitionist
 dimwishlist:item=-3055790362&perks=3523296417
-// Demolitionist (Enhanced)
-dimwishlist:item=-3055790362&perks=1906147653
+// Demolitionist
+dimwishlist:item=-3055790362&perks=3523296417
 // Zen Moment
 dimwishlist:item=-3055790362&perks=2387244414
-// Zen Moment (Enhanced)
-dimwishlist:item=-3055790362&perks=1748774930
+// Zen Moment
+dimwishlist:item=-3055790362&perks=2387244414
 // Rampage
 dimwishlist:item=-3055790362&perks=3425386926
-// Rampage (Enhanced)
-dimwishlist:item=-3055790362&perks=288411554
+// Rampage
+dimwishlist:item=-3055790362&perks=3425386926
 // Frenzy
 dimwishlist:item=-3055790362&perks=4104185692
-// Frenzy (Enhanced)
-dimwishlist:item=-3055790362&perks=3007133316
+// Frenzy
+dimwishlist:item=-3055790362&perks=4104185692
 // Opening Shot
 dimwishlist:item=-3055790362&perks=47981717
-// Opening Shot (Enhanced)
-dimwishlist:item=-3055790362&perks=1370847713
-// Flared Magwell, Snapshot Sights , Rangefinder
+// Opening Shot
+dimwishlist:item=-3055790362&perks=47981717
+// Flared Magwell, Snapshot Sights, Rangefinder
 dimwishlist:item=2429822977&perks=3230963543,957782887,2846385770#notes: pvp - Get Enhanced traits!!!
-// Flared Magwell, Snapshot Sights (Enhanced), Rangefinder (Enhanced)
-dimwishlist:item=2429822977&perks=3230963543,4116820839,509594246#notes: pvp
+// Flared Magwell, Snapshot Sights, Rangefinder
+dimwishlist:item=2429822977&perks=3230963543,957782887,2846385770#notes: pvp
 // Air Assault
 dimwishlist:item=-2429822977&perks=3722653512
-// Air Assault (Enhanced)
-dimwishlist:item=-2429822977&perks=2898218424
+// Air Assault
+dimwishlist:item=-2429822977&perks=3722653512
 // Triple Tap
 dimwishlist:item=-2429822977&perks=3400784728
-// Triple Tap (Enhanced)
-dimwishlist:item=-2429822977&perks=573122728
+// Triple Tap
+dimwishlist:item=-2429822977&perks=3400784728
 // Compulsive Reloader
 dimwishlist:item=-2429822977&perks=671806388
-// Compulsive Reloader (Enhanced)
-dimwishlist:item=-2429822977&perks=595108252
+// Compulsive Reloader
+dimwishlist:item=-2429822977&perks=671806388
 // Outlaw
 dimwishlist:item=-2429822977&perks=1168162263
-// Outlaw (Enhanced)
-dimwishlist:item=-2429822977&perks=1347741687
+// Outlaw
+dimwishlist:item=-2429822977&perks=1168162263
 // Demolitionist
 dimwishlist:item=-2429822977&perks=3523296417
-// Demolitionist (Enhanced)
-dimwishlist:item=-2429822977&perks=1906147653
+// Demolitionist
+dimwishlist:item=-2429822977&perks=3523296417
 // Zen Moment
 dimwishlist:item=-2429822977&perks=2387244414
-// Zen Moment (Enhanced)
-dimwishlist:item=-2429822977&perks=1748774930
+// Zen Moment
+dimwishlist:item=-2429822977&perks=2387244414
 // Rampage
 dimwishlist:item=-2429822977&perks=3425386926
-// Rampage (Enhanced)
-dimwishlist:item=-2429822977&perks=288411554
+// Rampage
+dimwishlist:item=-2429822977&perks=3425386926
 // Frenzy
 dimwishlist:item=-2429822977&perks=4104185692
-// Frenzy (Enhanced)
-dimwishlist:item=-2429822977&perks=3007133316
+// Frenzy
+dimwishlist:item=-2429822977&perks=4104185692
 // Opening Shot
 dimwishlist:item=-2429822977&perks=47981717
-// Opening Shot (Enhanced)
-dimwishlist:item=-2429822977&perks=1370847713
+// Opening Shot
+dimwishlist:item=-2429822977&perks=47981717
 
 // IKELOS_HC_V1.0.3
 
@@ -817,7 +1037,7 @@ dimwishlist:item=1896309757&perks=3425386926,557221067
 dimwishlist:item=1896309757&perks=3425386926,95528736
 // Tap the Trigger
 dimwishlist:item=-1896309757&perks=1890422124
-// Loose Change
+// Desperate Measures
 dimwishlist:item=-1896309757&perks=2109543898
 // Target Lock
 dimwishlist:item=-1896309757&perks=365154968
@@ -825,7 +1045,7 @@ dimwishlist:item=-1896309757&perks=365154968
 dimwishlist:item=-1896309757&perks=3708227201
 // Under-Over
 dimwishlist:item=-1896309757&perks=1870851715
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-1896309757&perks=2048641572
 // Feeding Frenzy
 dimwishlist:item=-1896309757&perks=2779035018
@@ -845,7 +1065,7 @@ dimwishlist:item=211732170&perks=3425386926,557221067
 dimwishlist:item=211732170&perks=3425386926,95528736
 // Tap the Trigger
 dimwishlist:item=-211732170&perks=1890422124
-// Loose Change
+// Desperate Measures
 dimwishlist:item=-211732170&perks=2109543898
 // Target Lock
 dimwishlist:item=-211732170&perks=365154968
@@ -853,7 +1073,7 @@ dimwishlist:item=-211732170&perks=365154968
 dimwishlist:item=-211732170&perks=3708227201
 // Under-Over
 dimwishlist:item=-211732170&perks=1870851715
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-211732170&perks=2048641572
 // Feeding Frenzy
 dimwishlist:item=-211732170&perks=2779035018
@@ -866,9 +1086,9 @@ dimwishlist:item=-211732170&perks=968510818
 
 // Elsie's Rifle
 
-// Zen moment, Headseeker
+// Zen Moment, Headseeker
 dimwishlist:item=2372514509&perks=2387244414,460017080#notes: pvp
-// Under Over
+// Under-Over
 dimwishlist:item=-2372514509&perks=1870851715
 // Keep Away
 dimwishlist:item=-2372514509&perks=3619207468
@@ -883,46 +1103,46 @@ dimwishlist:item=-2372514509&perks=776531651
 
 // Apex Predator
 
-// Reconstruction (Enhanced), Bait and Switch (Enhanced)
-dimwishlist:item=1851777734&perks=461595545,3744057135#notes: pve - Boss damage - Crafted
+// Reconstruction, Bait and Switch
+dimwishlist:item=1851777734&perks=1523832109,3078487919#notes: pve - Boss damage - Crafted
 // Reconstruction, Bait and Switch
 dimwishlist:item=1851777734&perks=1523832109,3078487919#notes: pve - Boss damage - Craft w/ Enhanced Perks when possible
 // Threat Detector
 dimwishlist:item=-1851777734&perks=4071163871
-// Threat Detector (Enhanced)
-dimwishlist:item=-1851777734&perks=494941759
+// Threat Detector
+dimwishlist:item=-1851777734&perks=4071163871
 // Tracking Module
 dimwishlist:item=-1851777734&perks=3977735242
-// Tracking Module (Enhanced)
-dimwishlist:item=-1851777734&perks=406461158
+// Tracking Module
+dimwishlist:item=-1851777734&perks=3977735242
 // Danger Zone
 dimwishlist:item=-1851777734&perks=960810156
-// Danger Zone (Enhanced)
-dimwishlist:item=-1851777734&perks=1077019636
+// Danger Zone
+dimwishlist:item=-1851777734&perks=960810156
 // Incandescent
 dimwishlist:item=-1851777734&perks=4293542123
-// Incandescent (Enhanced)
-dimwishlist:item=-1851777734&perks=2675184851
+// Incandescent
+dimwishlist:item=-1851777734&perks=4293542123
 // Slideways
 dimwishlist:item=-1851777734&perks=2039302152
-// Slideways (Enhanced)
-dimwishlist:item=-1851777734&perks=2396422520
+// Slideways
+dimwishlist:item=-1851777734&perks=2039302152
 // Frenzy
 dimwishlist:item=-1851777734&perks=4104185692
-// Frenzy (Enhanced)
-dimwishlist:item=-1851777734&perks=3007133316
+// Frenzy
+dimwishlist:item=-1851777734&perks=4104185692
 // Collective Action
 dimwishlist:item=-1851777734&perks=3324494224
-// Collective Action (Enhanced)
-dimwishlist:item=-1851777734&perks=2562668800
+// Collective Action
+dimwishlist:item=-1851777734&perks=3324494224
 // Explosive Light
 dimwishlist:item=-1851777734&perks=3194351027
-// Explosive Light (Enhanced)
-dimwishlist:item=-1851777734&perks=2275087323
+// Explosive Light
+dimwishlist:item=-1851777734&perks=3194351027
 // Vorpal Weapon
 dimwishlist:item=-1851777734&perks=1546637391
-// Vorpal Weapon (Enhanced)
-dimwishlist:item=-1851777734&perks=3418165135
+// Vorpal Weapon
+dimwishlist:item=-1851777734&perks=1546637391
 
 //////////////////////////
 // Scout Rifle
@@ -957,7 +1177,7 @@ dimwishlist:item=-1674692344&perks=2866798147
 
 // Hung Jury SR4
 
-// Firmly Planted, One For All
+// Kinetic Tremors, Shoot to Loot
 dimwishlist:item=3832743906&perks=3891536761,3700496672#notes: pve
 // Kinetic Tremors, Firefly
 dimwishlist:item=3832743906&perks=3891536761,3824105627
@@ -965,7 +1185,7 @@ dimwishlist:item=3832743906&perks=3891536761,3824105627
 dimwishlist:item=-3832743906&perks=1119449540
 // No Distractions
 dimwishlist:item=-3832743906&perks=2866798147
-// Firmly Planted, One For All
+// Kinetic Tremors, Shoot to Loot
 dimwishlist:item=1453235079&perks=3891536761,3700496672#notes: pve
 // Kinetic Tremors, Firefly
 dimwishlist:item=1453235079&perks=3891536761,3824105627
@@ -973,7 +1193,7 @@ dimwishlist:item=1453235079&perks=3891536761,3824105627
 dimwishlist:item=-1453235079&perks=1119449540
 // No Distractions
 dimwishlist:item=-1453235079&perks=2866798147
-// Firmly Planted, One For All
+// Kinetic Tremors, Shoot to Loot
 dimwishlist:item=205225492&perks=3891536761,3700496672#notes: pve
 // Kinetic Tremors, Firefly
 dimwishlist:item=205225492&perks=3891536761,3824105627
@@ -984,7 +1204,7 @@ dimwishlist:item=-205225492&perks=2866798147
 
 // Hung Jury SR4 (Adept)
 
-// Firmly Planted, One For All
+// Kinetic Tremors, Shoot to Loot
 dimwishlist:item=2883684343&perks=3891536761,3700496672#notes: pve
 
 // Taraxippos
@@ -1443,7 +1663,7 @@ dimwishlist:item=-3668817296
 dimwishlist:item=243425374&perks=4104185692,2077819806#notes: pve - utility
 // Chain Reaction, Eager Edge
 dimwishlist:item=243425374&perks=2396489472,2077819806#notes: pve - utility - add clear
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-243425374&perks=2048641572
 // Whirlwind Blade
 dimwishlist:item=-243425374&perks=3913600130
@@ -1459,7 +1679,7 @@ dimwishlist:item=-243425374&perks=3705817207
 dimwishlist:item=1815105249&perks=4104185692,2077819806#notes: pve - utility
 // Chain Reaction, Eager Edge
 dimwishlist:item=1815105249&perks=2396489472,2077819806#notes: pve - utility - add clear
-// Destablizing Rounds
+// Destabilizing Rounds
 dimwishlist:item=-1815105249&perks=2048641572
 // Whirlwind Blade
 dimwishlist:item=-1815105249&perks=3913600130
@@ -1495,14 +1715,14 @@ dimwishlist:item=-1796949035
 
 // Synanceia
 
-// Sharp Harvest, Eager Edge
-dimwishlist:item=1823308496&perks=4132187021,2077819806#notes: pve
-// Attrition Orbs
-dimwishlist:item=-1823308496&perks=243981275
-// Sharp Harvest, Eager Edge
-dimwishlist:item=2765451290&perks=4132187021,2077819806#notes: pve
-// Attrition Orbs
-dimwishlist:item=-2765451290&perks=243981275
+// Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition
+dimwishlist:item=1823308496&perks=938542991,3666208348,2349202967,269888150,1749209109,243981275,4132187021,1089671869,2077819806,2890807135#notes: pve - god roll
+// Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition
+dimwishlist:item=2765451290&perks=938542991,3666208348,2349202967,269888150,1749209109,243981275,4132187021,1089671869,2077819806,2890807135#notes: pve - god roll
+// Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition
+dimwishlist:item=2765451289&perks=938542991,3666208348,2349202967,269888150,1749209109,243981275,4132187021,1089671869,2077819806,2890807135#notes: pve - god roll
+// Tempered Edge, Jagged Edge, Heavy Guard, Swordmaster Guard, Relentless Strikes, Attrition Orbs, Sharp Harvest, Elemental Honing, Eager Edge, Burning Ambition
+dimwishlist:item=2765451291&perks=938542991,3666208348,2349202967,269888150,1749209109,243981275,4132187021,1089671869,2077819806,2890807135#notes: pve - god roll
 
 // The Slammer
 
