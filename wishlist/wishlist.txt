@@ -5,23 +5,23 @@
 // No Hesitation
 
 // Full Bore, Accurized Rounds, Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
-dimwishlist:item=1801007332&perks=202670084,3142289711,4063561849,2890807135,3640170453,243981275,4293542123#notes: pve - God Roll
+dimwishlist:item=1801007332&perks=202670084,3142289711,2980589453,2890807135,3640170453,243981275,4293542123#notes: pve - God Roll
 // Physic, Burning Ambition, Chaos Reshaped, Attrition Orbs, Incandescent
-dimwishlist:item=1801007332&perks=4063561849,2890807135,3640170453,243981275,4293542123#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
+dimwishlist:item=1801007332&perks=2980589453,2890807135,3640170453,243981275,4293542123#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
 
 // DECATUR 02
 
 // Full Bore, Accurized Rounds, Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
-dimwishlist:item=1850748385&perks=202670084,3142289711,4063561849,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Roll
+dimwishlist:item=1850748385&perks=202670084,3142289711,2980589453,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Roll
 // Physic, Attrition Orbs, Crystalline Corpsebloom, Reciprocity, Master of Arms, Redirection
-dimwishlist:item=1850748385&perks=4063561849,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
+dimwishlist:item=1850748385&perks=2980589453,243981275,2078520142,4070834277,2963273944,3201496230#notes: pve - God Perk Roll - Missing Full Bore and Accurized Rounds
 
 // Adamantite
 
 // Full Bore, Accurized Rounds, Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear
-dimwishlist:item=621450049&perks=202670084,3142289711,4063561849,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Roll
+dimwishlist:item=621450049&perks=202670084,3142289711,2980589453,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Roll
 // Physic, Reciprocity, Demolitionist, Hatchling, Desperate Measures, Tear
-dimwishlist:item=621450049&perks=4063561849,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Perk Roll - Missing Barrel and Magazine
+dimwishlist:item=621450049&perks=2980589453,4070834277,3523296417,831391274,2109543898,3244229373#notes: pve - God Perk Roll - Missing Barrel and Magazine
 
 // Reckless Oracle
 
