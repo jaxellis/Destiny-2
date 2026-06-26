@@ -1,120 +1,122 @@
+title: Jax's Destiny 2 Trashlist
+description: Aegis Endgame Analysis Spreadsheet B Tier and below
+
 //////////////////////////
 // Auto Rifle
 //////////////////////////
 
 // The Number
-
+//notes: F Tier: weird reload perks + OFA not great especially with no pairing
 dimwishlist:item=-2492081469
 dimwishlist:item=-3854359821
 
 // Firefright
-
+//notes: F Tier: Surrounded on an auto
 dimwishlist:item=-2778013407
 
 // Lodbrok-C
-
+//notes: F Tier: bad frame + outdated perks
 dimwishlist:item=-2328531378
 
 // Perpetualis
-
+//notes: E Tier: outdated reload perks + mediocre splash
 dimwishlist:item=-392008588
 
 // The Last Breath
-
+//notes: D Tier: consistency-focused single target perks
 dimwishlist:item=-507038823
 dimwishlist:item=-1503609584
 
 // Sweet Sorrow
-
+//notes: D Tier: SFA + OFA combo on good frame and origin, no splash available
 dimwishlist:item=-1248372789
 
 // Old Sterling
-
+//notes: D Tier: similar to Rufus's Fury but worse archetype and no Demo in 1st column
 dimwishlist:item=-3678653083
 
 // Coronach-22
-
+//notes: C Tier: worst Incandescent auto
 dimwishlist:item=-355382946
 
 // Ros Arago IV
-
+//notes: C Tier: would be pretty good with Destabilizing access
 dimwishlist:item=-3583275737
 
 // Come to Pass
-
+//notes: C Tier: solid origin but bad frame and okay 2nd column
 dimwishlist:item=-927567426
 
 // Dark Decider
-
+//notes: C Tier: weird 1st column + Voltshot anti-synergy
 dimwishlist:item=-1144014195
 dimwishlist:item=-540880995
 dimwishlist:item=-1942069133
 
 // Herod-C
-
+//notes: C Tier: similar to False Promises but not enhanceable and worse reload perk
 dimwishlist:item=-2065366342
 dimwishlist:item=-1788603939
 
 // False Promises
-
+//notes: C Tier: similar to Fair Judgment but worse frame
 dimwishlist:item=-1390080550
 dimwishlist:item=-3143732432
 
 // Horror Story
-
+//notes: C Tier: similar to Fair Judgment but not enhanceable
 dimwishlist:item=-177568179
 dimwishlist:item=-2884070594
 dimwishlist:item=-3829285960
 
 // Krait
-
+//notes: C Tier: decent Headstone auto, just missing utility perk
 dimwishlist:item=-2852052802
 
 // Sorrow's Verse
-
+//notes: C Tier: good reload support and origin but not very potent
 dimwishlist:item=-775830132
 dimwishlist:item=-2557966895
 dimwishlist:item=-2496875173
 
 // Rufus's Fury
-
+//notes: C Tier: good single target-focused auto, otherwise not very good
 dimwishlist:item=-484515708
 
 // Rufus's Fury (Adept)
-
+//notes: C Tier: good single target-focused auto, otherwise not very good
 dimwishlist:item=-342514437
 
 // Lethal Abundance
-
+//notes: C Tier: bad frame + good 1st column + okay 2nd column
 dimwishlist:item=-1884897339
 dimwishlist:item=-3428407746
 dimwishlist:item=-2189073092
 
 // Fair Judgment
-
+//notes: C Tier: classic Stasis combo but mediocre frame
 dimwishlist:item=-4113452819
 dimwishlist:item=-4176873718
 
 // Ahab Char
-
+//notes: C Tier: solid overall package, just missing solid splash perk in 2nd column
 dimwishlist:item=-1411560894
 
 // Auric Disabler
-
+//notes: C Tier: splash + damage option but relatively weak vs. B tier options
 dimwishlist:item=-702001725
 
 // Ammit AR2
-
+//notes: C Tier: Incandescent vs. Destab on Positive Outlook
 dimwishlist:item=-2119346509
 
 // The Forward Path
-
+//notes: C Tier: good survivability auto, solid origin too
 dimwishlist:item=-1884897338
 dimwishlist:item=-1690783811
 dimwishlist:item=-2014642399
 
 // Prosecutor
-
 dimwishlist:item=-1091550016
 dimwishlist:item=-880829467
 dimwishlist:item=-2129814338
@@ -122,169 +124,146 @@ dimwishlist:item=-3483591058
 dimwishlist:item=-1909527966
 
 // Prosecutor (Adept)
-
 dimwishlist:item=-749483159
 dimwishlist:item=-4025177550
 
 // Intercalary
-
 dimwishlist:item=-2725426834
 
 // Veiled Threat
-
 dimwishlist:item=-3685470415
 
 // Shadow Price
-
 dimwishlist:item=-3142989221
 dimwishlist:item=-2633186522
 dimwishlist:item=-2322926844
 
 // Shadow Price (Adept)
-
 dimwishlist:item=-1056103557
 dimwishlist:item=-2147010335
 
 // Braytech Werewolf
-
 dimwishlist:item=-528834068
 dimwishlist:item=-3558681245
 dimwishlist:item=-528834068
 
 // Breakneck
-
 dimwishlist:item=-2065366343
 dimwishlist:item=-2026755633
 dimwishlist:item=-324382200
 
 // Duty Bound
-
 dimwishlist:item=-260532765
 dimwishlist:item=-89693562
 dimwishlist:item=-435216110
 dimwishlist:item=-1457979868
 
 // Duty Bound (Adept)
-
 dimwishlist:item=-1135050595
 
 // Tigerspite
-
 dimwishlist:item=-1709137958
 dimwishlist:item=-2465372924
 dimwishlist:item=-640114618
 
 // Origin Story
-
 dimwishlist:item=-2188356726
 dimwishlist:item=-2826850739
 dimwishlist:item=-1644162710
 dimwishlist:item=-4024037919
 
 // Trendsetter
-
 dimwishlist:item=-2863808104
 
 // Arc Logic
-
 dimwishlist:item=-38064944
 dimwishlist:item=-2723909519
 
 // Chrysura Melo
-
 dimwishlist:item=-1337707096
 dimwishlist:item=-1750388538
 
 // Steelfeather Repeater
-
 dimwishlist:item=-771811870
 dimwishlist:item=-1251729046
 
 // Pluperfect
-
 dimwishlist:item=-2203881482
 dimwishlist:item=-1952163498
 
 // Giver's Blessing
-
 dimwishlist:item=-970034755
 
 // Seventh Seraph Carbine
-
 dimwishlist:item=-2560370239
 dimwishlist:item=-4070357005
 dimwishlist:item=-1561006927
 
 // Age-Old Bond
-
 dimwishlist:item=-424291879
 dimwishlist:item=-601592879
+
+// Adamantite
+//notes: Physic is sadly useless, completely overshadowed by DECATUR
+dimwishlist:item=-621450049
+dimwishlist:item=-2987244302
+dimwishlist:item=-3229982889
+
+// Adamantite (Adept)
+//notes: Physic is sadly useless, completely overshadowed by DECATUR
+dimwishlist:item=-601574723
+dimwishlist:item=-3485029080
 
 //////////////////////////
 // Bow
 //////////////////////////
 
 // Neoptolemus II
-
 dimwishlist:item=-2848549302
 
 // Whistler's Whim
-
 dimwishlist:item=-3165143747
 dimwishlist:item=-1574601402
 
 // Whistler's Whim (Adept)
-
 dimwishlist:item=-161675590
 dimwishlist:item=-711889599
 
 // Whispering Slab
-
 dimwishlist:item=-690341468
 dimwishlist:item=-211938782
 
 // Lethophobia
-
 dimwishlist:item=-3710082365
 
 // Lunulata-4B
-
 dimwishlist:item=-2513965917
 
 // Imperial Needle
-
 dimwishlist:item=-3460122497
 
 // Fel Taradiddle
-
 dimwishlist:item=-1399109800
 
 // Wolftone Draw
-
 dimwishlist:item=-3472875143
 
 // Raconteur
-
 dimwishlist:item=-45643573
 
 // Under Your Skin
-
 dimwishlist:item=-232928045
 
 // Arsenic Bite-4B
-
 dimwishlist:item=-720351795
 
 // Tripwire Canary
-
 dimwishlist:item=-3849444474
 
 // Hushed Whisper
-
 dimwishlist:item=-1175295126
 
 // Strident Whistle
-
 dimwishlist:item=-2591241074
 
 //////////////////////////
@@ -292,57 +271,45 @@ dimwishlist:item=-2591241074
 //////////////////////////
 
 // Aurvandil FR6
-
 dimwishlist:item=-963710795
 
 // Coriolis Force
-
 dimwishlist:item=-3512349612
 
 // Dream Breaker
-
 dimwishlist:item=-2931957300
 
 // Hollow Words
-
 dimwishlist:item=-342027677
 dimwishlist:item=-607191995
 
 // Iota Draconis
-
 dimwishlist:item=-3044460004
 
 // Likely Suspect
-
 dimwishlist:item=-1994645182
 
 // Main Ingredient
-
 dimwishlist:item=-253196586
 dimwishlist:item=-3445437901
 
 // Snorri FR5
-
 dimwishlist:item=-4114929480
 
 // The Epicurean
-
 dimwishlist:item=-2263839058
 dimwishlist:item=-4124357815
 
 // The Wizened Rebuke
-
 dimwishlist:item=-2290416
 dimwishlist:item=-1999697514
 dimwishlist:item=-930590127
 dimwishlist:item=-2961807684
 
 // Timelines' Vertex (S1Y1)
-
 dimwishlist:item=-1006783454
 
 // Trinary System
-
 dimwishlist:item=-3258665412
 
 //////////////////////////
@@ -354,113 +321,89 @@ dimwishlist:item=-3258665412
 //////////////////////////
 
 // Kept Confidence
-
 dimwishlist:item=-1875512595
 
 // The Steady Hand
-
 dimwishlist:item=-2220884262
 dimwishlist:item=-1189790632
 
 // Dire Promise
-
 dimwishlist:item=-2742838701
 dimwishlist:item=-582335600
 
 // Pure Poetry
-
 dimwishlist:item=-2671639706
 
 // Finite Impactor
-
 dimwishlist:item=-3813153080
 dimwishlist:item=-701922966
 
 // Crisis Inverted
-
 dimwishlist:item=-2888266564
 
 // Nature of the Beast
-
 dimwishlist:item=-1835747805
 dimwishlist:item=-468276817
 
 // Spare Rations
-
 dimwishlist:item=-3236112986
 dimwishlist:item=-3116356268
 
 // Loud Lullaby
-
 dimwishlist:item=-3924212056
 
 // Survivor's Epitaph
-
 dimwishlist:item=-310708513
 
 // Frontier's Cry
-
 dimwishlist:item=-1141547457
 
 // Seventh Seraph Officer Revolver
-
 dimwishlist:item=-1555959830
 dimwishlist:item=-3037520408
 
 // D.F.A.
-
 dimwishlist:item=-575830664
 dimwishlist:item=-2006308129
 dimwishlist:item=-4238497225
 
 // Annual Skate
-
 dimwishlist:item=-6857689
 dimwishlist:item=-2145476623
 
 // True Prophecy
-
 dimwishlist:item=-2742838700
 dimwishlist:item=-408440598
 
 // Crimil's Dagger
-
 dimwishlist:item=-198854575
 dimwishlist:item=-4292849692
 dimwishlist:item=-3649055823
 
 // Bottom Dollar
-
 dimwishlist:item=-1046651176
 
 // Malediction
-
 dimwishlist:item=-3337727085
 
 // IKELOS_HC_V1.0.3
-
 dimwishlist:item=-1731355324
 
 // Optative
-
 dimwishlist:item=-2817683783
 dimwishlist:item=-2138599001
 
 // Cantata-57
-
 dimwishlist:item=-372697604
 
 // Rose
-
 dimwishlist:item=-882778888
 dimwishlist:item=-2429822976
 
 // Round Robin
-
 dimwishlist:item=-2034215657
 
 // Combined Action
-
 dimwishlist:item=-1331824604
 
 //////////////////////////
@@ -484,7 +427,6 @@ dimwishlist:item=-1331824604
 //////////////////////////
 
 // Taraxippos
-
 dimwishlist:item=-3007479950
 dimwishlist:item=-1389546626
 
@@ -493,47 +435,36 @@ dimwishlist:item=-1389546626
 //////////////////////////
 
 // Astral Horizon
-
 dimwishlist:item=-2653171213
 
 // Blasphemer
-
 dimwishlist:item=-2782847179
 
 // Bonechiller
-
 dimwishlist:item=-4037745684
 
 // Felwinter's Lie
-
 dimwishlist:item=-1179141605
 
 // Hand in Hand
-
 dimwishlist:item=-664109750
 
 // Last Man Standing
-
 dimwishlist:item=-4287947559
 
 // Mindbender's Ambition
-
 dimwishlist:item=-1586231351
 
 // No Reprieve
-
 dimwishlist:item=-2531963421
 
 // Reckless Endangerment
-
 dimwishlist:item=-3216652511
 
 // Toil and Trouble
-
 dimwishlist:item=-2957367743
 
 // Wishbringer
-
 dimwishlist:item=-3356526253
 
 //////////////////////////
@@ -541,33 +472,26 @@ dimwishlist:item=-3356526253
 //////////////////////////
 
 // A Swift Verdict
-
 dimwishlist:item=-1626503676
 dimwishlist:item=-3854037061
 
 // Empirical Evidence
-
 dimwishlist:item=-2607304614
 
 // Farewell
-
 dimwishlist:item=-541188001
 
 // Fioritura-59
-
 dimwishlist:item=-2566006935
 
 // High Albedo
-
 dimwishlist:item=-1197486957
 
 // The Fool's Remedy
-
 dimwishlist:item=-65611680
 dimwishlist:item=-3424403076
 
 // The Last Dance
-
 dimwishlist:item=-2009277538
 dimwishlist:item=-1699493316
 dimwishlist:item=-3967155859
@@ -577,20 +501,16 @@ dimwishlist:item=-3967155859
 //////////////////////////
 
 // 1000 Yard Stare
-
 dimwishlist:item=-4164201232
 
 // Apostate
-
 dimwishlist:item=-2164448701
 
 // Beloved
-
 dimwishlist:item=-3107853529
 dimwishlist:item=-4190932264
 
 // Eye of Sol
-
 dimwishlist:item=-627188188
 dimwishlist:item=-1321626661
 dimwishlist:item=-1401300690
@@ -599,43 +519,34 @@ dimwishlist:item=-3637570176
 dimwishlist:item=-3164743584
 
 // Gallu RR3
-
 dimwishlist:item=-617501162
 
 // Long Shadow
-
 dimwishlist:item=-3745990145
 
 // Mercurial Overreach
-
 dimwishlist:item=-2073794990
 
 // Persuader
-
 dimwishlist:item=-781498181
 dimwishlist:item=-4083045006
 dimwishlist:item=-2290863050
 
 // Shepherd's Watch
-
 dimwishlist:item=-3743729616
 dimwishlist:item=-3312073053
 
 // Sole Survivor
-
 dimwishlist:item=-1150492185
 dimwishlist:item=-1115104187
 
 // Shoreline Dissident
-
 dimwishlist:item=-1193318082
 
 // The Domino
-
 dimwishlist:item=-2800870005
 
 // Widow's Bite
-
 dimwishlist:item=-1271343896
 
 //////////////////////////
@@ -643,95 +554,74 @@ dimwishlist:item=-1271343896
 //////////////////////////
 
 // Submission
-
 dimwishlist:item=-3886416794
 dimwishlist:item=-1941816543
 
 // The Title
-
 dimwishlist:item=-655712834
 
 // Every Waking Moment
-
 dimwishlist:item=-4277547616
 
 // Seventh Seraph VY-7
-
 dimwishlist:item=-766323545
 
 // Friction Fire
-
 dimwishlist:item=-1513993763
 
 // Enyo-D
-
 dimwishlist:item=-1601177201
 
 // Pizzicato-22
-
 dimwishlist:item=-4100775158
 
 // Extraordinary Rendition
-
 dimwishlist:item=-1097616550
 
 // Rapacious Appetite
-
 dimwishlist:item=-1081724548
 
 // Death Adder
-
 dimwishlist:item=-2742490609
 dimwishlist:item=-2517599010
 
 // Stochastic Variable
-
 dimwishlist:item=-2272470786
 dimwishlist:item=-1339362514
 
 // Boondoggle Mk. 55
-
 dimwishlist:item=-32287609
 
 // Escape Velocity
-
 dimwishlist:item=-1786797708
 dimwishlist:item=-1459443448
 
 // Out of Bounds
-
 dimwishlist:item=-2988121501
 
 // Funnelweb
-
 dimwishlist:item=-3341893443
 
 // Forensic Nightmare
-
 dimwishlist:item=-1526296434
 
 // Borrowed Time
-
 dimwishlist:item=-875848769
 
 // Synchronic Roulette
-
 dimwishlist:item=-811403305
 
 // The Immortal
-
 dimwishlist:item=-4039572196
 dimwishlist:item=-3193598749
 
 // Mirror Imago
-
 dimwishlist:item=-3234363830
 dimwishlist:item=-302039451
 dimwishlist:item=-3877448149
 dimwishlist:item=-4116546788
 
 // Cold Front
-
 dimwishlist:item=-3206190066
 dimwishlist:item=-2814093983
 dimwishlist:item=-1506719573
@@ -741,53 +631,41 @@ dimwishlist:item=-1506719573
 //////////////////////////
 
 // Abide the Return
-
 dimwishlist:item=-250721843
 dimwishlist:item=-1644160541
 
 // Chivalric Fire
-
 dimwishlist:item=-3438139008
 
 // Double-edged Answer
-
 dimwishlist:item=-105164264
 
 // Dragoncult Sickle
-
 dimwishlist:item=-3668817296
 
 // Geodetic Hsm
-
 dimwishlist:item=-3637669759
 
 // Hero of Ages
-
 dimwishlist:item=-2139640995
 
 // Nasreddin
-
 dimwishlist:item=-1456017061
 
 // Quickfang
-
 dimwishlist:item=-2782325300
 dimwishlist:item=-1180270692
 
 // Razor's Edge
-
 dimwishlist:item=-1796949035
 
 // Sola's Scar
-
 dimwishlist:item=-1313528549
 dimwishlist:item=-3847137620
 
 // Steel Sybil Z-14
-
 dimwishlist:item=-4230993599
 
 // Thin Precipice
-
 dimwishlist:item=-4066778670
 

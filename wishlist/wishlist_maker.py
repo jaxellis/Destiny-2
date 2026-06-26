@@ -16,6 +16,8 @@ GUNS_FOLDER: Path = DATA_FOLDER / "guns"
 DEFAULT_LOG_LEVEL = "INFO"  # Change to "DEBUG" for more verbose logging
 LOG_BACKUP_COUNT = 1  # Number of backup log files to keep
 LOG_MAX_BYTES = 2_000_000  # Max size of log file in bytes before rotation (2MB)
+TITLE = "Jax's Destiny 2 Trashlist"  # Title for the wishlist file
+DESCRIPTION = "Aegis Endgame Analysis Spreadsheet B Tier and below"  # Description for the wishlist file
 
 
 def setup_logging() -> None:
@@ -178,7 +180,11 @@ def perk_ids_to_name(
 
 def format_item_block(item: Dict[str, Any], perks_by_id: Dict[str, str]) -> str:
     """Return the wishlist block for a single item, including all perk combos."""
-    out = f"// {item.get('name', '')}\n\n"
+    out = f"// {item.get('name', '')}\n"
+    notes = str(item.get("notes", ""))
+    if item.get("trash") and notes:
+        out += f"//notes: {notes}\n"
+
     for item_id in cast(List[int], item.get("ids", [])):
         logging.debug("Processing item id %s (trash=%s)", item_id, item.get("trash"))
         if item.get("trash"):
@@ -232,7 +238,7 @@ def main() -> None:
         return
     perks_by_id: Dict[str, str] = load_perks_by_id(DATA_FOLDER)
 
-    wishlist_data: str = ""
+    wishlist_data: str = "title: %s\ndescription: %s\n\n" % (TITLE, DESCRIPTION)
     logging.info("Processing %d weapon groups", len(wishlist_json))
     for weapon, weapon_items in wishlist_json.items():
         logging.info("Processing weapon '%s'", weapon)
