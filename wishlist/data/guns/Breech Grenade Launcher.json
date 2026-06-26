@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Truthteller",
+        "ids": [
+            447296102,
+            1946491241,
+            3252697558
+        ],
+        "trash": true,
+        "notes": "E Tier: worst archetype and awful perks"
+    },
+    {
+        "name": "Prodigal Return",
+        "ids": [
+            268260373
+        ],
+        "trash": true,
+        "notes": "D Tier: no reload perk BGL, Voltshot synergy not great"
+    },
+    {
+        "name": "Orewing's Maul",
+        "ids": [
+            2108920981,
+            1870979911
+        ],
+        "trash": true,
+        "notes": "D Tier: usable blinding GL"
+    },
+    {
+        "name": "Empty Vessel",
+        "ids": [
+            198068259,
+            4255586669
+        ],
+        "trash": true,
+        "notes": "C Tier: usable blinding GL with swap damage options"
+    },
+    {
+        "name": "Deafening Whisper",
+        "ids": [
+            981718087
+        ],
+        "trash": true,
+        "notes": "C Tier: worst wave, but archetype is still serviceable enough"
+    },
+    {
+        "name": "Pardon Our Dust",
+        "ids": [
+            3849810018
+        ],
+        "trash": true,
+        "notes": "C Tier: enhanced ALH but no Chill Clip vs. Lingering"
+    },
+    {
+        "name": "Ignition Code",
+        "ids": [
+            2761869150,
+            304659313
+        ],
+        "trash": true,
+        "notes": "C Tier: solid Slideshot option, less awkward than Liturgy but worse utility"
+    },
+    {
+        "name": "The Militia's Birthright",
+        "ids": [
+            1854753405,
+            40394833,
+            3745974521
+        ],
+        "trash": true,
+        "notes": "B Tier: excellent QoL blinding option"
+    },
+    {
+        "name": "The Militia's Birthright (Adept)",
+        "ids": [
+            4162642204,
+            2378101424
+        ],
+        "trash": true,
+        "notes": "B Tier: excellent QoL blinding option"
+    },
+    {
+        "name": "Wild Style",
+        "ids": [
+            4021098352,
+            1332123064
+        ],
+        "trash": true,
+        "notes": "B Tier: better damage perk than old Wilderlight, not much else"
+    },
+    {
+        "name": "Wild Style (Adept)",
+        "ids": [
+            959037361
+        ],
+        "trash": true,
+        "notes": "B Tier: better damage perk than old Wilderlight, not much else"
+    },
+    {
+        "name": "Undercurrent",
+        "ids": [
+            3686538757,
+            1151688091,
+            672957262
+        ],
+        "trash": true,
+        "notes": "B Tier: solid ammo generator but mediocre origin and Voltshot synergy not great"
+    },
+    {
+        "name": "Undercurrent (Adept)",
+        "ids": [
+            817909300
+        ],
+        "trash": true,
+        "notes": "B Tier: solid ammo generator but mediocre origin and Voltshot synergy not great"
+    },
+    {
+        "name": "Salvager's Salvo",
+        "ids": [
+            1692109318,
+            2461640837,
+            2060863616
+        ],
+        "trash": true,
+        "notes": "B Tier: very unique roam perks, unfortunately a lightweight"
+    },
+    {
+        "name": "Explosive Personality",
+        "ids": [
+            4096943616
+        ],
+        "trash": true,
+        "notes": "B Tier: great origin trait, decent ammo gen option but worse than Martyr's"
+    },
+    {
+        "name": "Harsh Language",
+        "ids": [
+            1606497639
+        ],
+        "trash": true,
+        "notes": "B Tier: Destabilizing buff + Field Prep affecting ammo gen makes this decent"
+    }
+]
