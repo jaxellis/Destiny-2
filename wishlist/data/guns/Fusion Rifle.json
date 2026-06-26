@@ -1,69 +1,53 @@
 [
     {
-        "name": "Aurvandil FR6",
+        "name": "The Epicurean",
         "ids": [
-            963710795
+            2263839058,
+            4124357815
         ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: no damage perk on bad frame"
     },
     {
-        "name": "Coriolis Force",
+        "name": "Timelines' Vertex",
         "ids": [
-            3512349612
+            3055192515,
+            1006783454
         ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: no damage perk on okay frame"
     },
     {
-        "name": "Dream Breaker",
+        "name": "Trinary System",
         "ids": [
-            2931957300
+            3258665412
         ],
-        "trash": true
-    },
-    {
-        "name": "Hollow Words",
-        "ids": [
-            342027677,
-            607191995
-        ],
-        "trash": true
-    },
-    {
-        "name": "Iota Draconis",
-        "ids": [
-            3044460004
-        ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: bad damage perk on okay frame"
     },
     {
         "name": "Likely Suspect",
         "ids": [
             1994645182
         ],
-        "trash": true
-    },
-    {
-        "name": "Main Ingredient",
-        "ids": [
-            253196586,
-            3445437901
-        ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: add clear fusion with no ammo perk"
     },
     {
         "name": "Snorri FR5",
         "ids": [
             4114929480
         ],
-        "trash": true
+        "trash": true,
+        "notes": "E Tier: worst frame with bad 1st column and inconsistent damage perk"
     },
     {
-        "name": "The Epicurean",
+        "name": "Iota Draconis",
         "ids": [
-            2263839058,
-            4124357815
+            3044460004
         ],
-        "trash": true
+        "trash": true,
+        "notes": "E Tier: Lead + less consistent damage perk on okay frame"
     },
     {
         "name": "The Wizened Rebuke",
@@ -73,20 +57,118 @@
             930590127,
             2961807684
         ],
-        "trash": true
+        "trash": true,
+        "notes": "E Tier: irrelevant 1st column + okay damage perk on okay frame"
     },
     {
-        "name": "Timelines' Vertex (S1Y1)",
+        "name": "Hollow Words",
         "ids": [
-            1006783454
+            342027677,
+            607191995
         ],
-        "trash": true
+        "trash": true,
+        "notes": "E Tier: worst frame with Lead + okay damage perk"
     },
     {
-        "name": "Trinary System",
+        "name": "Exile's Curse",
         "ids": [
-            3258665412
+            1117787139,
+            276080079,
+            679281855
         ],
-        "trash": true
+        "trash": true,
+        "notes": "D Tier: awful frame for Heal Clip, non-starter for damage"
+    },
+    {
+        "name": "Iterative Loop",
+        "ids": [
+            1289796511
+        ],
+        "trash": true,
+        "notes": "D Tier: awful 1st column, mostly irrelevant 2nd column"
+    },
+    {
+        "name": "Coriolis Force",
+        "ids": [
+            3512349612,
+            856316142
+        ],
+        "trash": true,
+        "notes": "D Tier: no good reload perk, no Repulsor, bad frame"
+    },
+    {
+        "name": "Aurvandil FR6",
+        "ids": [
+            963710795
+        ],
+        "trash": true,
+        "notes": "D Tier: bad QoL for a Chill Clip fusion even if perk combo is decent"
+    },
+    {
+        "name": "Midha's Reckoning",
+        "ids": [
+            3969066556
+        ],
+        "trash": true,
+        "notes": "C Tier: no ammo gen add clear fusion"
+    },
+    {
+        "name": "Midha's Reckoning (Harrowed)",
+        "ids": [
+            3904516037
+        ],
+        "trash": true,
+        "notes": "C Tier: no ammo gen add clear fusion"
+    },
+    {
+        "name": "Resounding",
+        "ids": [
+            3273807888,
+            1824586582
+        ],
+        "trash": true,
+        "notes": "C Tier: doesn't know what it wants to do"
+    },
+    {
+        "name": "Nox Sidereal IV",
+        "ids": [
+            2875763009,
+            74733286
+        ],
+        "trash": true,
+        "notes": "C Tier: outdated damage perks, mediocre roam combos"
+    },
+    {
+        "name": "Main Ingredient",
+        "ids": [
+            253196586,
+            3445437901
+        ],
+        "trash": true,
+        "notes": "C Tier: add clear perks with poor setup"
+    },
+    {
+        "name": "Deliverance",
+        "ids": [
+            768621510
+        ],
+        "trash": true,
+        "notes": "C Tier: decent grenade returns, slow charge but still 2 shot freeze"
+    },
+    {
+        "name": "Deliverance (Adept)",
+        "ids": [
+            2943293195
+        ],
+        "trash": true,
+        "notes": "C Tier: decent grenade returns, slow charge but still 2 shot freeze"
+    },
+    {
+        "name": "Dream Breaker",
+        "ids": [
+            2931957300
+        ],
+        "trash": true,
+        "notes": "B Tier: Lead + less consistent damage perk on okay frame"
     }
 ]
