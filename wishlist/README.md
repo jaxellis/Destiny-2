@@ -2,7 +2,8 @@
 
 ## Overview
 
-This folder contains a small utility, `wishlist_maker.py`, that converts structured JSON data into a wishlist text file compatible with Destiny Item Manager (DIM).
+This folder contains a small utility, `wishlist_maker.py`, that converts structured JSON data into a wishlist text file compatible with Destiny Item Manager (DIM). For god roll wishlists, Charles Caliber's tool is recommended; this wishlist is intended for trash rolls.
+CharlesxCaliber's Wishlist tool: <https://charlesxcaliber.github.io/wishlist_selector.html>
 
 ## Contents
 
