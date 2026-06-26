@@ -5,28 +5,32 @@
             2492081469,
             3854359821
         ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: weird reload perks + OFA not great especially with no pairing"
     },
     {
         "name": "Firefright",
         "ids": [
             2778013407
         ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: Surrounded on an auto"
     },
     {
         "name": "Lodbrok-C",
         "ids": [
             2328531378
         ],
-        "trash": true
+        "trash": true,
+        "notes": "F Tier: bad frame + outdated perks"
     },
     {
         "name": "Perpetualis",
         "ids": [
             392008588
         ],
-        "trash": true
+        "trash": true,
+        "notes": "E Tier: outdated reload perks + mediocre splash"
     },
     {
         "name": "The Last Breath",
@@ -34,42 +38,48 @@
             507038823,
             1503609584
         ],
-        "trash": true
+        "trash": true,
+        "notes": "D Tier: consistency-focused single target perks"
     },
     {
         "name": "Sweet Sorrow",
         "ids": [
             1248372789
         ],
-        "trash": true
+        "trash": true,
+        "notes": "D Tier: SFA + OFA combo on good frame and origin, no splash available"
     },
     {
         "name": "Old Sterling",
         "ids": [
             3678653083
         ],
-        "trash": true
+        "trash": true,
+        "notes": "D Tier: similar to Rufus's Fury but worse archetype and no Demo in 1st column"
     },
     {
         "name": "Coronach-22",
         "ids": [
             355382946
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: worst Incandescent auto"
     },
     {
         "name": "Ros Arago IV",
         "ids": [
             3583275737
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: would be pretty good with Destabilizing access"
     },
     {
         "name": "Come to Pass",
         "ids": [
             927567426
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: solid origin but bad frame and okay 2nd column"
     },
     {
         "name": "Dark Decider",
@@ -78,7 +88,8 @@
             540880995,
             1942069133
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: weird 1st column + Voltshot anti-synergy"
     },
     {
         "name": "Herod-C",
@@ -86,7 +97,8 @@
             2065366342,
             1788603939
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: similar to False Promises but not enhanceable and worse reload perk"
     },
     {
         "name": "False Promises",
@@ -94,7 +106,8 @@
             1390080550,
             3143732432
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: similar to Fair Judgment but worse frame"
     },
     {
         "name": "Horror Story",
@@ -103,14 +116,16 @@
             2884070594,
             3829285960
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: similar to Fair Judgment but not enhanceable"
     },
     {
         "name": "Krait",
         "ids": [
             2852052802
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: decent Headstone auto, just missing utility perk"
     },
     {
         "name": "Sorrow's Verse",
@@ -119,21 +134,24 @@
             2557966895,
             2496875173
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: good reload support and origin but not very potent"
     },
     {
         "name": "Rufus's Fury",
         "ids": [
             484515708
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: good single target-focused auto, otherwise not very good"
     },
     {
         "name": "Rufus's Fury (Adept)",
         "ids": [
             342514437
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: good single target-focused auto, otherwise not very good"
     },
     {
         "name": "Lethal Abundance",
@@ -142,7 +160,8 @@
             3428407746,
             2189073092
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: bad frame + good 1st column + okay 2nd column"
     },
     {
         "name": "Fair Judgment",
@@ -150,28 +169,32 @@
             4113452819,
             4176873718
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: classic Stasis combo but mediocre frame"
     },
     {
         "name": "Ahab Char",
         "ids": [
             1411560894
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: solid overall package, just missing solid splash perk in 2nd column"
     },
     {
         "name": "Auric Disabler",
         "ids": [
             702001725
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: splash + damage option but relatively weak vs. B tier options"
     },
     {
         "name": "Ammit AR2",
         "ids": [
             2119346509
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: Incandescent vs. Destab on Positive Outlook"
     },
     {
         "name": "The Forward Path",
@@ -180,7 +203,8 @@
             1690783811,
             2014642399
         ],
-        "trash": true
+        "trash": true,
+        "notes": "C Tier: good survivability auto, solid origin too"
     },
     {
         "name": "Prosecutor",
@@ -265,7 +289,8 @@
         "ids": [
             1135050595
         ],
-        "trash": true
+        "trash": true,
+        "notes": ""
     },
     {
         "name": "Tigerspite",
@@ -348,5 +373,24 @@
             601592879
         ],
         "trash": true
+    },
+    {
+        "name": "Adamantite",
+        "ids": [
+            621450049,
+            2987244302,
+            3229982889
+        ],
+        "trash": true,
+        "notes": "Physic is sadly useless, completely overshadowed by DECATUR"
+    },
+    {
+        "name": "Adamantite (Adept)",
+        "ids": [
+            601574723,
+            3485029080
+        ],
+        "trash": true,
+        "notes": "Physic is sadly useless, completely overshadowed by DECATUR"
     }
 ]
