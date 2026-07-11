@@ -155,7 +155,9 @@ def find_header_row(raw: pd.DataFrame) -> int | None:
     return None
 
 
-def read_spreadsheet(path: Path, requested_sheets: Sequence[str] | None) -> list[SpreadsheetWeapon]:
+def read_spreadsheet(
+    path: Path, requested_sheets: Sequence[str] | None
+) -> list[SpreadsheetWeapon]:
     """Read current Aegis weapon tabs and return rows with an explicit tier."""
 
     workbook = pd.ExcelFile(path)
@@ -192,7 +194,9 @@ def read_spreadsheet(path: Path, requested_sheets: Sequence[str] | None) -> list
             if not name or tier not in TIER_ORDER:
                 continue
             perks = {
-                column: split_recommendations(row[column]) if column in table.columns else ()
+                column: split_recommendations(row[column])
+                if column in table.columns
+                else ()
                 for column in (*BONUS_COLUMNS, *CORE_COLUMNS)
             }
             weapons.append(
@@ -200,7 +204,9 @@ def read_spreadsheet(path: Path, requested_sheets: Sequence[str] | None) -> list
                     sheet=sheet,
                     name=name,
                     tier=tier,
-                    notes=as_cell_text(row["Notes"]) if "Notes" in table.columns else "",
+                    notes=as_cell_text(row["Notes"])
+                    if "Notes" in table.columns
+                    else "",
                     perks=perks,
                 )
             )
@@ -212,7 +218,10 @@ def download(url: str, destination: Path) -> None:
     temporary = destination.with_suffix(destination.suffix + ".part")
     logging.info("Downloading Destiny inventory definitions to %s", destination)
     try:
-        with urllib.request.urlopen(url, timeout=120) as response, temporary.open("wb") as output:
+        with (
+            urllib.request.urlopen(url, timeout=120) as response,
+            temporary.open("wb") as output,
+        ):
             while chunk := response.read(1024 * 1024):
                 output.write(chunk)
         temporary.replace(destination)
@@ -303,7 +312,9 @@ def resolve_weapon_hashes(name: str, index: ManifestIndex) -> tuple[int, ...]:
     return ()
 
 
-def resolve_perk_hashes(names: Iterable[str], index: ManifestIndex, weapon_name: str) -> tuple[int, ...]:
+def resolve_perk_hashes(
+    names: Iterable[str], index: ManifestIndex, weapon_name: str
+) -> tuple[int, ...]:
     hashes: list[int] = []
     for name in names:
         matched = index.plugs.get(normalise_name(name), ())
@@ -314,7 +325,9 @@ def resolve_perk_hashes(names: Iterable[str], index: ManifestIndex, weapon_name:
     return tuple(dict.fromkeys(hashes))
 
 
-def constrained_combinations(perks: Sequence[int], required: int) -> tuple[tuple[int, ...], ...]:
+def constrained_combinations(
+    perks: Sequence[int], required: int
+) -> tuple[tuple[int, ...], ...]:
     """Return exact-sized combinations, with the single-option exception."""
 
     if not perks:
@@ -344,25 +357,38 @@ def active_perk_sets(
 
     core = [
         constrained_combinations(
-            resolve_perk_hashes(weapon.perks[column], index, weapon.name), required_perks
+            resolve_perk_hashes(weapon.perks[column], index, weapon.name),
+            required_perks,
         )
         for column in CORE_COLUMNS
     ]
     if not all(core):
-        missing = [column for column, combinations in zip(CORE_COLUMNS, core) if not combinations]
-        logging.warning("%s: omitted from active list; no resolvable %s", weapon.name, ", ".join(missing))
+        missing = [
+            column
+            for column, combinations in zip(CORE_COLUMNS, core)
+            if not combinations
+        ]
+        logging.warning(
+            "%s: omitted from active list; no resolvable %s",
+            weapon.name,
+            ", ".join(missing),
+        )
         return ()
 
     bonus = tuple(
         dict.fromkeys(
             hash_value
             for column in BONUS_COLUMNS
-            for hash_value in resolve_perk_hashes(weapon.perks[column], index, weapon.name)
+            for hash_value in resolve_perk_hashes(
+                weapon.perks[column], index, weapon.name
+            )
         )
     )
     entries = {
         tuple((*core_one, *core_two, *optional))
-        for core_one, core_two, optional in itertools.product(*core, optional_variants(bonus))
+        for core_one, core_two, optional in itertools.product(
+            *core, optional_variants(bonus)
+        )
     }
     # The most complete roll first, then a stable deterministic order.
     return tuple(sorted(entries, key=lambda entry: (-len(entry), entry)))
@@ -386,7 +412,14 @@ def write_wishlist(
     ]
 
     for sheet, group in itertools.groupby(weapons, key=lambda weapon: weapon.sheet):
-        lines.extend(("//////////////////////////", f"// {sheet}", "//////////////////////////", ""))
+        lines.extend(
+            (
+                "//////////////////////////",
+                f"// {sheet}",
+                "//////////////////////////",
+                "",
+            )
+        )
         for weapon in group:
             hashes = resolve_weapon_hashes(weapon.name, index)
             if not hashes:
@@ -432,12 +465,16 @@ def main() -> int:
     if args.required_perks_per_column < 1:
         raise ValueError("--required-perks-per-column must be at least 1")
     if not args.spreadsheet.exists() or not args.manifest.exists():
-        missing = [str(path) for path in (args.spreadsheet, args.manifest) if not path.exists()]
+        missing = [
+            str(path) for path in (args.spreadsheet, args.manifest) if not path.exists()
+        ]
         raise FileNotFoundError(f"Input file(s) not found: {', '.join(missing)}")
 
     weapons = read_spreadsheet(args.spreadsheet, args.sheets)
     if not weapons:
-        raise ValueError("No ranked weapon rows were found in the selected worksheet(s)")
+        raise ValueError(
+            "No ranked weapon rows were found in the selected worksheet(s)"
+        )
     definitions = inventory_definitions(args.manifest, args.cache_dir)
     index = build_manifest_index(definitions)
     active, trash, unresolved = write_wishlist(
