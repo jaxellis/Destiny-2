@@ -83,7 +83,7 @@ def parse_arguments() -> argparse.Namespace:
         "--required-perks-per-column",
         type=int,
         default=REQUIRED_PERKS_PER_COLUMN,
-        help="Required Perk 1/Perk 2 recommendations per DIM entry (default: 2).",
+        help="Minimum Perk 1/Perk 2 recommendations per DIM entry; capped at 3 (default: 2).",
     )
     parser.add_argument(
         "--sheet",
@@ -328,16 +328,19 @@ def resolve_perk_hashes(
 def constrained_combinations(
     perks: Sequence[int], required: int
 ) -> tuple[tuple[int, ...], ...]:
-    """Return exact-sized combinations, with the single-option exception."""
+    """Return every combination from the minimum size up to the hard cap of three."""
 
     if not perks:
         return ()
-    count = 1 if len(perks) == 1 else required
-    if len(perks) < count:
-        # The sheet has fewer recommendations than the requested strictness.
-        # It is still safest to require every available recommendation.
-        count = len(perks)
-    return tuple(itertools.combinations(perks, count))
+    if len(perks) == 1:
+        return ((perks[0],),)
+
+    max_count = min(3, len(perks))
+    minimum_count = min(max(1, required), max_count)
+    combinations: list[tuple[int, ...]] = []
+    for count in range(minimum_count, max_count + 1):
+        combinations.extend(itertools.combinations(perks, count))
+    return tuple(combinations)
 
 
 def optional_variants(bonus_perks: Sequence[int]) -> tuple[tuple[int, ...], ...]:
@@ -406,8 +409,8 @@ def write_wishlist(
     lines = [
         "title: Aegis Strict Endgame Wishlist",
         "description: S/A active rolls; B-F weapons explicitly marked as trash. "
-        f"Requires {required_perks} recommended Perk 1 and Perk 2 options per entry "
-        "(one when only one recommendation exists).",
+        f"Requires at least {required_perks} recommended Perk 1 and Perk 2 options per entry "
+        "(up to 3, and one when only one recommendation exists).",
         "",
     ]
 
