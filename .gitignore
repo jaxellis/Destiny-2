@@ -4,3 +4,5 @@ logs/
 wishlist/logs/
 *.log
 
+# Cache
+.manifest-cache/
