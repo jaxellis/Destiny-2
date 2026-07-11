@@ -30,7 +30,6 @@ import itertools
 import json
 import logging
 import re
-import sys
 import urllib.request
 from collections import defaultdict
 from dataclasses import dataclass
@@ -39,9 +38,9 @@ from typing import Any, Iterable, Iterator, Mapping, Sequence
 
 import pandas as pd
 
-
-DEFAULT_WORKBOOK = "Destiny 2_ Endgame Analysis.xlsx"
-DEFAULT_MANIFEST = "manifest.json"
+SCRIPT_DIR = Path(__file__).parent
+DEFAULT_WORKBOOK = SCRIPT_DIR / "Destiny 2_ Endgame Analysis.xlsx"
+DEFAULT_MANIFEST = SCRIPT_DIR / "manifest.json"
 DEFAULT_OUTPUT = "aegis_strict_dim_wishlist.txt"
 CORE_COLUMNS = ("Perk 1", "Perk 2")
 BONUS_COLUMNS = ("Barrel", "Mag", "Origin Trait")
