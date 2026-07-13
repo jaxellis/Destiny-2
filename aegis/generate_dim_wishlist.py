@@ -76,7 +76,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "--cache-dir",
         type=Path,
-        default=Path(".manifest-cache"),
+        default=Path(SCRIPT_DIR / ".manifest-cache"),
         help="Directory used for the downloaded inventory definition cache.",
     )
     parser.add_argument(
