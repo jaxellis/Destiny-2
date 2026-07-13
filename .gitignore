@@ -7,3 +7,6 @@ wishlist/logs/
 # Cache
 .manifest-cache/
 __pycache__/
+
+# sheets
+*.xlsx
